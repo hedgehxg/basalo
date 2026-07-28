@@ -785,6 +785,17 @@
   etymology: basa + salam
   etym_tags: 'a priori, portmanteau, compound'
 - lemma: bes
+  id: 491.1
+  pos: 'verb, trans.'
+  en_definition: 'to weave; to prick, pierce'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: >-
+    Arabic بز (bazz), modelled after the Turkic/Mongolic form to differentiate
+    from basa
+  etym_tags: 'arabic, semitic, afroasiatic'
+- lemma: bes
   id: 491.2
   pos: noun
   en_definition: 'cloth, fabric, textile, linen; clothing, garment'
@@ -995,6 +1006,24 @@
   derived: ''
   etymology: Maltese xogħol
   etym_tags: 'maltese, semitic, afroasiatic'
+- lemma: col
+  id: 375.2
+  pos: noun
+  en_definition: 'employment, work, labor, labour'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: col
+  id: 375.3
+  pos: adjective
+  en_definition: 'tiring, exhausting, involving labor'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: con
   id: 362.1
   pos: 'verb, trans., til'
@@ -1031,6 +1060,15 @@
   derived: ''
   etymology: Navajo chʼosh
   etym_tags: 'navajo, southern dené, dené'
+- lemma: cos
+  id: 366.2
+  pos: adjective
+  en_definition: 'annoying, unpleasant'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: cunmav
   id: 365
   pos: noun
@@ -1217,6 +1255,24 @@
   derived: ''
   etymology: SI Prefix deca-
   etym_tags: a priori
+- lemma: destul
+  id: 379.1
+  pos: 'verb, trans.'
+  en_definition: 'to approximate, approach'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Romanian destul
+  etym_tags: 'romanian, romance, indo-european'
+- lemma: destul
+  id: 379.2
+  pos: noun
+  en_definition: 'approximation, guess'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: destul
   id: 379.3
   pos: adjective
@@ -1534,6 +1590,24 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: evokan
+  id: 417
+  pos: adjective
+  en_definition: 'rich, having lots of money; expensive, high price'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: evo + kan
+  etym_tags: 'compound, lexical compound'
+- lemma: evokanatel
+  id: 418
+  pos: noun
+  en_definition: 'rich person, elite'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: evokan + -tel
+  etym_tags: 'compound, derivation'
 - lemma: evometi
   id: 419
   pos: noun
@@ -1827,6 +1901,24 @@
   derived: ''
   etymology: Arrernte jibuma
   etym_tags: 'arrernte, aranic, pama-nyungan'
+- lemma: ibuma
+  id: 370.2
+  pos: noun
+  en_definition: 'lie, falsehood, untruth'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: ibuma
+  id: 370.3
+  pos: adjective
+  en_definition: false; untrustworthy
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: idaman
   id: 80.1
   pos: 'verb, trans.'
@@ -1946,6 +2038,15 @@
   derived: ''
   etymology: Indoesian imut
   etym_tags: 'indonesian, malayo-polynesian, austronesian'
+- lemma: imut
+  id: 85.2
+  pos: 'verb, trans.'
+  en_definition: 'to enjoy, have fun with'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: imut
   id: 85.3
   pos: adjective
@@ -2160,6 +2261,15 @@
   etymology: Azerbaijani istəmək
   etym_tags: 'azerbaijani, turkic'
 - lemma: ista
+  id: 91.2
+  pos: 'verb, trans., til'
+  en_definition: to pray
+  en_notes: ''
+  en_tags: religion
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: ista
   id: 91.3
   pos: 'verb, modal'
   en_definition: 'to want, to desire'
@@ -2249,6 +2359,24 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: kados
+  id: 505.1
+  pos: noun
+  en_definition: 'holiness, sacredness; divinity'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Hebrew קדוש (kadósh)
+  etym_tags: 'hewbrew, semitic, afroasiatic'
+- lemma: kados
+  id: 505.2
+  pos: adjective
+  en_definition: 'holy, sacred, divine; saint, divine person'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kaf
   id: 109
   pos: noun
@@ -2267,6 +2395,15 @@
   derived: ''
   etymology: French café
   etym_tags: 'french, romance, indo-european'
+- lemma: kafe
+  id: 384.2
+  pos: adjective
+  en_definition: 'caffeinated, energizing, energized, bringing energy, having energy'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kaga
   id: 112
   pos: correlative
@@ -2325,6 +2462,15 @@
   derived: ''
   etymology: kak + -pi
   etym_tags: 'compound, derivation'
+- lemma: kakapi
+  id: 136.2
+  pos: noun
+  en_definition: remains; corpse
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kakigi
   id: 135
   pos: 'verb, trans.'
@@ -2334,6 +2480,15 @@
   derived: ''
   etymology: kak + -igi
   etym_tags: 'compound, derivation'
+- lemma: kalap
+  id: 435
+  pos: noun
+  en_definition: 'club, nightclub'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English club
+  etym_tags: 'english, germanic, indo-european'
 - lemma: kam
   id: 137.1
   pos: noun
@@ -2439,24 +2594,6 @@
   derived: ''
   etymology: kanan + son
   etym_tags: 'compound, collocation'
-- lemma: kanevo
-  id: 417
-  pos: adjective
-  en_definition: 'rich, having lots of money; expensive, high price'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: kan + evo
-  etym_tags: 'compound, lexical compound'
-- lemma: kanevotel
-  id: 418
-  pos: noun
-  en_definition: 'rich person, elite'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: kanevo + -tel
-  etym_tags: 'compound, derivation'
 - lemma: kanu
   id: 151
   pos: noun
@@ -2753,15 +2890,6 @@
   derived: ''
   etymology: kitap + -meti
   etym_tags: 'compound, derivation'
-- lemma: klaba
-  id: 435
-  pos: noun
-  en_definition: 'club, nightclub'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: English club
-  etym_tags: 'english, germanic, indo-european'
 - lemma: koke
   id: 169
   pos: noun
@@ -2845,6 +2973,15 @@
   derived: ''
   etymology: kot + -sini
   etym_tags: 'compound, derivation'
+- lemma: kotini
+  id: 462.2
+  pos: adjective
+  en_definition: 'cultural, dependent on culture, subjective; social'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kotinilin
   id: 471
   pos: noun
@@ -2890,6 +3027,33 @@
   derived: ''
   etymology: German Quarz
   etym_tags: 'german, germanic, indo-european'
+- lemma: kumva
+  id: 506.1
+  pos: 'verb, ambi.'
+  en_definition: 'to sense, feel, use one''s senses; to feel (an emotion)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Kirundi kwūmva
+  etym_tags: 'kirundi, bantu, atlantic-congo'
+- lemma: kumva
+  id: 506.2
+  pos: noun
+  en_definition: 'sensation, feeling; emotion, feeling'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: kumva
+  id: 507.3
+  pos: adjective
+  en_definition: 'emotional, touching, heartwarming'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: kus
   id: 178
   pos: noun
@@ -2955,6 +3119,24 @@
   derived: ''
   etymology: French là
   etym_tags: 'french, romance, indo-european'
+- lemma: laca
+  id: 508.1
+  pos: noun
+  en_definition: 'king, ruler, sovereign, prince, chief'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Sanskrit राजन् (rajah) and descendants
+  etym_tags: 'sanskrit, indo-aryan, indo-european'
+- lemma: laca
+  id: 508.2
+  pos: adjectve
+  en_definition: 'royal, kingly, princely'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: ladi
   id: 184.1
   pos: 'verb, ambi.'
@@ -3510,6 +3692,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: malasu
+  id: 376.3
+  pos: adjective
+  en_definition: 'alone, away from a group, split up; forked (of a code repository)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: mama
   id: 203
   pos: 'noun, gendered'
@@ -4032,6 +4223,15 @@
   derived: ''
   etymology: Sanskrit नारङ्ग (nāraṅga)
   etym_tags: 'sanskrit, indo-aryan, indo-european'
+- lemma: nalanga
+  id: 383.2
+  pos: adjective
+  en_definition: orange
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: nalu
   id: 328.1
   pos: 'verb, intr.'
@@ -4984,6 +5184,15 @@
   derived: ''
   etymology: salam + min
   etym_tags: 'compound, lexical compound'
+- lemma: salo
+  id: 389.1
+  pos: 'verb, ambi.'
+  en_definition: 'to fatten up, get fat; to oil, slather in grease'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Serbo-Croatian salo
+  etym_tags: 'serbo-croatian, slavic, indo-european'
 - lemma: salo
   id: 389.2
   pos: noun
@@ -6240,14 +6449,23 @@
   etymology: English USA
   etym_tags: 'english, germanic, indo-european'
 - lemma: usno
+  id: 373.1
+  pos: noun
+  en_definition: 'ugliness, badness, bad'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Georgian უშნო (ušno)
+  etym_tags: 'georgian, kartvelian'
+- lemma: usno
   id: 373.2
   pos: adjective
   en_definition: 'ugly, gross, yucky, abhorrent, bad, ungood'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: Georgian უშნო (ušno)
-  etym_tags: 'georgian, kartvelian'
+  etymology: ''
+  etym_tags: ''
 - lemma: usu
   id: 350
   pos: 'noun, gendered'
@@ -6311,6 +6529,33 @@
   derived: ''
   etymology: utika + -tel + -ik
   etym_tags: 'compound, derivation'
+- lemma: uyuku
+  id: 509.1
+  pos: 'verb, intr.'
+  en_definition: 'to sleep, go to bed, go to sleep, rest'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Northern Altai уйуку (uyuku)
+  etym_tags: 'northern altai, turkic'
+- lemma: uyuku
+  id: 509.2
+  pos: noun
+  en_definition: 'sleep, rest'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+- lemma: uyuku
+  id: 509.3
+  pos: adjective
+  en_definition: 'sleepy, tired, exhausted, groggy'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: vada
   id: 353
   pos: noun
@@ -6689,6 +6934,15 @@
   derived: ''
   etymology: Burmese ယုန် (yun)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+- lemma: yuva
+  id: 372.1
+  pos: noun
+  en_definition: 'good, goodness, niceness; politeness, manners'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Livonian jõvā
+  etym_tags: 'livonian, finnic, uralic'
 - lemma: yuva
   id: 372.2
   pos: adjective
