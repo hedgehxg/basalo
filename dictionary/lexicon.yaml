@@ -1,12 +1,3 @@
-- lemma: '-a'
-  id: 1
-  pos: pronominal suffiix
-  en_definition: Forms the possessives of pronouns
-  en_notes: ''
-  en_tags: ''
-  derived: 'mea, tea, mesa, tesa'
-  etymology: Esperanto -a
-  etym_tags: 'esperanto, conlangs'
 - lemma: aba
   id: 150
   pos: conjunction
@@ -43,7 +34,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: '-aga'
+- lemma: '-(a)ga'
   id: 484
   pos: nominal suffix
   en_definition: Forms augmentatives from nouns (e.g. a larger or greater thing)
@@ -59,7 +50,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: aga + -igi
+  etymology: aga + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: ak
   id: 7.1
@@ -173,7 +164,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: al + -lo
+  etymology: al + -(a)lo
   etym_tags: 'compound, derivation'
 - lemma: alapi
   id: 15.1
@@ -182,7 +173,7 @@
   en_notes: ''
   en_tags: school
   derived: alapitel
-  etymology: al + -pi
+  etymology: al + -(a)pi
   etym_tags: 'compound, derivation'
 - lemma: alapi
   id: 15.2
@@ -200,7 +191,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: alapi + -meti
+  etymology: alapi + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: alapitel
   id: 16
@@ -209,7 +200,7 @@
   en_notes: ''
   en_tags: school
   derived: ''
-  etymology: alapi + -tel
+  etymology: alapi + -(a)tel
   etym_tags: 'compound, derivation'
 - lemma: alasu
   id: 10
@@ -218,7 +209,7 @@
   en_notes: ''
   en_tags: school
   derived: ''
-  etymology: al + -asu
+  etymology: al + -(a)su
   etym_tags: 'compound, derivation'
 - lemma: aligi
   id: 11.1
@@ -227,7 +218,7 @@
   en_notes: ''
   en_tags: school
   derived: aligitel
-  etymology: al + -igi
+  etymology: al + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: aligi
   id: 11.2
@@ -245,7 +236,7 @@
   en_notes: ''
   en_tags: 'school, professions'
   derived: ''
-  etymology: aligi + -tel
+  etymology: aligi + -(a)tel
   etym_tags: 'compound, derivation'
 - lemma: alin
   id: 13
@@ -256,15 +247,6 @@
   derived: ''
   etymology: Manchu ᠠᠯᡳᠨ (alin)
   etym_tags: 'manchu, tungusic'
-- lemma: '-alin'
-  id: 467
-  pos: nominal suffix
-  en_definition: '-ology, study of, science of'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: alini
-  etym_tags: affixation
 - lemma: alini
   id: 291
   pos: noun
@@ -272,7 +254,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: al + -sini
+  etymology: al + -(s)ini
   etym_tags: 'compound, derivation'
 - lemma: alkik
   id: 14
@@ -283,14 +265,14 @@
   derived: ''
   etymology: Tamazight ⴰⵍⵅⵉⵅ (alkik)
   etym_tags: 'central atlas tamazight, amazigh, afroasiatic'
-- lemma: '-alo'
-  id: 146
+- lemma: '-(a)lo'
+  id: 141
   pos: nominal suffix
-  en_definition: Alternative form of -lo used after consonants
+  en_definition: Creates nouns that denote a tool for performing some action
   en_notes: ''
   en_tags: ''
-  derived: ''
-  etymology: '-lo'
+  derived: nasolo
+  etymology: lo
   etym_tags: 'basalo, a priori'
 - lemma: altan
   id: 17
@@ -301,15 +283,6 @@
   derived: ''
   etymology: Buryat алтан (altan)
   etym_tags: 'buryat, mongolic'
-- lemma: '-am'
-  id: 363
-  pos: numeral suffix
-  en_definition: Used to form ordinals.
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: nisam
-  etym_tags: 'a priori, derivation'
 - lemma: amal
   id: 18
   pos: 'noun, gendered'
@@ -362,7 +335,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: aman + -tel
+  etymology: aman + -(a)tel
   etym_tags: 'compound, lexical compound'
 - lemma: amaninaki
   id: 483
@@ -402,15 +375,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: '-an'
-  id: 458
-  pos: nominal suffix
-  en_definition: Alternative form of -na used after consonants
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-na'
-  etym_tags: alternative forms
 - lemma: anta
   id: 20.1
   pos: 'verb, ditrans., e-til'
@@ -481,26 +445,30 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: anyan + -alin
+  etymology: anyan + -(a)lin
   etym_tags: 'compound, derivation'
-- lemma: '-api'
-  id: 60
+- lemma: '-(a)pi'
+  id: 276
   pos: verbal suffix
-  en_definition: Allomorph of -pi used after consonants
-  en_notes: ''
+  en_definition: >-
+    (from a nominal or adjectival sense) to become, to turn into; (from a verbal
+    sense) to change in state
+  en_notes: >-
+    The two senses of this suffix aren't mutually exclusive, and often a word
+    suffixed with -pi will use both of these senses.
   en_tags: ''
   derived: ''
-  etymology: '-pi'
-  etym_tags: alternative forms
-- lemma: '-as'
-  id: 296
+  etymology: 'Burmese ဖြစ် (hprac, hpyit), influenced by Esperanto -iĝi'
+  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+- lemma: '-(a)s'
+  id: 295
   pos: nominal suffix
-  en_definition: Alternative form of -s used after consonants.
+  en_definition: Used to form the plural form of nouns.
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: '-s'
-  etym_tags: alternative forms
+  etymology: a priori
+  etym_tags: a priori
 - lemma: asak
   id: 22
   pos: noun
@@ -528,7 +496,7 @@
   derived: ''
   etymology: Persian آسان (âsân)
   etym_tags: 'persian, iranian, indo-european'
-- lemma: '-asu'
+- lemma: '-(a)su'
   id: 24
   pos: nominal suffix
   en_definition: Creates nouns for a group or collection of something
@@ -573,7 +541,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: asu + -sini
+  etymology: asu + -(s)ini
   etym_tags: 'compound, derivation'
 - lemma: at
   id: 26.1
@@ -611,15 +579,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: '-atel'
-  id: 336
+- lemma: '-(a)tel'
+  id: 335
   pos: nominal suffix
-  en_definition: Alternative form of -tel used after consonants
+  en_definition: 'Used to form agent nouns; -er, -ist'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: '-tel'
-  etym_tags: alternative forms
+  etymology: Ukrainian -тель (-tel')
+  etym_tags: 'ukrainian, slavic, indo-european'
 - lemma: atusi
   id: 499
   pos: noun
@@ -654,7 +622,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: aveli + -s
+  etymology: aveli + -(a)s
   etym_tags: 'compound, derivation'
 - lemma: avelis
   id: 30.2
@@ -672,7 +640,7 @@
   en_notes: unrelated to aj "moon"
   en_tags: ''
   derived: 'kaj, laj, saj, maj'
-  etymology: '-a'
+  etymology: '-(y)a'
   etym_tags: a priori
 - lemma: ay
   id: 6
@@ -714,7 +682,7 @@
   id: 32.2
   pos: 'verb, intransitive'
   en_definition: 'to cloud up, become foggy'
-  en_notes: 'alternatively, balvapi'
+  en_notes: ''
   en_tags: ''
   derived: ''
   etymology: ''
@@ -771,7 +739,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: basa + -alin
+  etymology: basa + -(a)lin
   etym_tags: 'compound, derivation'
 - lemma: basalo
   id: 35
@@ -779,11 +747,29 @@
   en_definition: >-
     (basa~) Basalo; (salam~) someone who speaks Basalo; (din~) the places Basalo
     is spoken
-  en_notes: ending -o is a leftover from part of speech suffixes
+  en_notes: ''
   en_tags: languages
   derived: ''
   etymology: basa + salam
   etym_tags: 'a priori, portmanteau, compound'
+- lemma: basapanga
+  id: 510
+  pos: noun
+  en_definition: grammar
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: basa + panga
+  etym_tags: 'compound, lexical compound'
+- lemma: batal
+  id: 485
+  pos: noun
+  en_definition: bottle
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English bottle
+  etym_tags: 'english, germanic, indo-european'
 - lemma: bes
   id: 491.1
   pos: 'verb, trans.'
@@ -1087,15 +1073,6 @@
   derived: ''
   etymology: Telugu డా (ḍā)
   etym_tags: 'telugu, south dravidian, dravidian'
-- lemma: da son
-  id: 380
-  pos: preposition
-  en_definition: 'north, northward'
-  en_notes: ''
-  en_tags: 'directions, cardinal directions'
-  derived: ''
-  etymology: da + son
-  etym_tags: 'compound, collocation'
 - lemma: dala
   id: 258.1
   pos: 'verb, trans.'
@@ -1192,6 +1169,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: da son
+  id: 380
+  pos: preposition
+  en_definition: 'north, northward'
+  en_notes: ''
+  en_tags: 'directions, cardinal directions'
+  derived: ''
+  etymology: da + son
+  etym_tags: 'compound, collocation'
 - lemma: dat
   id: 44.1
   pos: 'verb, trans.'
@@ -1334,7 +1320,7 @@
   en_notes: ''
   en_tags: professions
   derived: ''
-  etymology: dop + -tel
+  etymology: dop + -(a)tel
   etym_tags: 'compound, derivation'
 - lemma: dopatel
   id: 49.2
@@ -1498,15 +1484,6 @@
   derived: dinele
   etymology: Kannada ಎಲೆ (ele)
   etym_tags: 'kannada, south dravidian, dravidian'
-- lemma: '-en'
-  id: 456
-  pos: nominal suffix
-  en_definition: Alternative form of -ne used after consonants
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-ne'
-  etym_tags: alternative forms
 - lemma: esa
   id: 61.1
   pos: 'verb, ambi.'
@@ -1532,7 +1509,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: esa + -igi
+  etymology: esa + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: esameti
   id: 412
@@ -1541,7 +1518,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: esa + -meti
+  etymology: esa + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: eski
   id: 63
@@ -1606,7 +1583,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: evokan + -tel
+  etymology: evokan + -(a)tel
   etym_tags: 'compound, derivation'
 - lemma: evometi
   id: 419
@@ -1615,7 +1592,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: evo + -meti
+  etymology: evo + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: fas
   id: 64.1
@@ -1651,7 +1628,7 @@
   en_notes: ''
   en_tags: religion
   derived: ''
-  etymology: fas + -tel
+  etymology: fas + -(a)tel
   etym_tags: 'compound, derivation'
 - lemma: fasono
   id: 65.1
@@ -1680,7 +1657,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: fasono nasolo
+- lemma: fasono la nasolo
   id: 143
   pos: noun
   en_definition: printer
@@ -1766,15 +1743,6 @@
   derived: ''
   etymology: Tày cạ
   etym_tags: 'tày, central tai, kra-dai'
-- lemma: '-ga'
-  id: 485
-  pos: nominal suffix
-  en_definition: Alternative form of -ga used after vowels
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-aga'
-  etym_tags: alternative forms
 - lemma: gaca
   id: 74
   pos: noun
@@ -1818,17 +1786,8 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: gata + -igi
+  etymology: gata + -(i)gi
   etym_tags: 'compound, derivation'
-- lemma: '-gi'
-  id: 75
-  pos: nominal suffix
-  en_definition: Alternative form of -igi
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-igi'
-  etym_tags: alternative forms
 - lemma: gia
   id: 76
   pos: adjective
@@ -1845,7 +1804,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: gia + -igi
+  etymology: gia + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: gida
   id: 78.1
@@ -1872,7 +1831,7 @@
   en_notes: ''
   en_tags: housing
   derived: ''
-  etymology: gida + -asu
+  etymology: gida + -(a)su
   etym_tags: 'compound, derivation'
 - lemma: giga
   id: 308
@@ -1964,7 +1923,7 @@
   derived: ''
   etymology: din
   etym_tags: 'basalo, a priori'
-- lemma: '-igi'
+- lemma: '-(i)gi'
   id: 82
   pos: verbal suffix
   en_definition: >-
@@ -1975,15 +1934,6 @@
   derived: ''
   etymology: Esperanto -igi
   etym_tags: 'esperanto, conlangs'
-- lemma: '-ik'
-  id: 83
-  pos: nominal suffix
-  en_definition: Forms diminutives of nouns; Forms fractions from numbers
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: 'Armenian -իկ (-ik), descendants of Proto-Slavic -ikъ'
-  etym_tags: 'armenian, slavic, indo-european'
 - lemma: ik
   id: 84
   pos: adjective
@@ -1991,7 +1941,7 @@
   en_notes: ''
   en_tags: 'size, amount'
   derived: ''
-  etymology: '-ik'
+  etymology: '-(n)ik'
   etym_tags: back-formation
 - lemma: ila
   id: 294.1
@@ -2130,15 +2080,6 @@
   derived: ''
   etymology: Ainu イネ (ine)
   etym_tags: 'ainu, isolates'
-- lemma: '-ini'
-  id: 289
-  pos: nominal suffix
-  en_definition: Alternative form of -sini used after consonants
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-sini'
-  etym_tags: alternative forms
 - lemma: inon
   id: 87
   pos: preposition
@@ -2247,7 +2188,7 @@
   en_notes: ''
   en_tags: physics
   derived: ''
-  etymology: iso + -igi
+  etymology: iso + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: ista
   id: 91.1
@@ -2303,7 +2244,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ista + -meti
+  etymology: ista + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: istatileti
   id: 415
@@ -2312,7 +2253,7 @@
   en_notes: synonymous with istameti
   en_tags: ''
   derived: ''
-  etymology: ista til + -meti
+  etymology: ista til + -(m)eti
   etym_tags: 'compound, derivation, lexical compound'
 - lemma: isulu
   id: 498
@@ -2460,7 +2401,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: kak + -pi
+  etymology: kak + -(a)pi
   etym_tags: 'compound, derivation'
 - lemma: kakapi
   id: 136.2
@@ -2478,7 +2419,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: kak + -igi
+  etymology: kak + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: kalap
   id: 435
@@ -2489,6 +2430,15 @@
   derived: ''
   etymology: English club
   etym_tags: 'english, germanic, indo-european'
+- lemma: kalman
+  id: 467
+  pos: noun
+  en_definition: 'shadow, shade; reflection'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Manchu ᡥᡝᠯᠮᡝᠨ (helmen)
+  etym_tags: 'manchu, tungusic'
 - lemma: kam
   id: 137.1
   pos: noun
@@ -2807,7 +2757,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: 'kin + -tel, disambiguation of kin'
+  etymology: 'kin + -(a)tel, disambiguation of kin'
   etym_tags: 'compound, derivation'
 - lemma: kino
   id: 163.1
@@ -2888,7 +2838,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: kitap + -meti
+  etymology: kitap + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: koke
   id: 169
@@ -2971,7 +2921,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: kot + -sini
+  etymology: kot + -(s)ini
   etym_tags: 'compound, derivation'
 - lemma: kotini
   id: 462.2
@@ -2989,7 +2939,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: kotini + -alin
+  etymology: kotini + -(a)lin
   etym_tags: 'compound, derivation'
 - lemma: koy
   id: 167
@@ -3120,6 +3070,15 @@
   etymology: French là
   etym_tags: 'french, romance, indo-european'
 - lemma: laca
+  id: 75
+  pos: noun
+  en_definition: 'king, queen, royal ruler'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Sanskrit राजा (rājā)
+  etym_tags: 'sanskrit, indo-aryan, indo-european'
+- lemma: laca
   id: 508.1
   pos: noun
   en_definition: 'king, ruler, sovereign, prince, chief'
@@ -3137,6 +3096,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: lacadin
+  id: 146
+  pos: noun
+  en_definition: kingdom
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: laca + din
+  etym_tags: 'compound, lexical compound'
 - lemma: ladi
   id: 184.1
   pos: 'verb, ambi.'
@@ -3207,7 +3175,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: lami + -aga
+  etymology: lami + -(a)ga
   etym_tags: 'compound, derivation'
 - lemma: lamiga
   id: 486.2
@@ -3254,15 +3222,6 @@
   derived: ''
   etymology: clipping of lel
   etym_tags: 'slovene, slavic, indo-european'
-- lemma: lea
-  id: 448
-  pos: pronoun
-  en_definition: 'his, her, hers, its'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: le + -a
-  etym_tags: 'compound, derivation'
 - lemma: lego
   id: 188
   pos: 'verb, trans.'
@@ -3284,7 +3243,7 @@
 - lemma: lema
   id: 391
   pos: noun
-  en_definition: 'cow, ox, bull, heifer'
+  en_definition: 'cow, ox, bull, heifer, beef'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -3297,7 +3256,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: le + -s
+  etymology: le + -(a)s
   etym_tags: 'compound, derivation'
 - lemma: lesa
   id: 449
@@ -3306,7 +3265,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: les + -a
+  etymology: les + -(y)a
   etym_tags: 'compound, derivation'
 - lemma: leto
   id: 98
@@ -3317,6 +3276,15 @@
   derived: ''
   etymology: Slovene lẹ́to
   etym_tags: 'slovene, slavic, indo-european'
+- lemma: leya
+  id: 448
+  pos: pronoun
+  en_definition: 'his, her, hers, its'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: le + -(y)a
+  etym_tags: 'compound, derivation'
 - lemma: lidi
   id: 121
   pos: correlative
@@ -3335,15 +3303,6 @@
   derived: ''
   etymology: Estonian lill
   etym_tags: 'estonian, finnic, uralic'
-- lemma: '-lin'
-  id: 468
-  pos: nominal suffix
-  en_definition: Alternative form of -alin used after vowels
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-alin'
-  etym_tags: alternative forms
 - lemma: lle
   id: 202
   pos: contraction
@@ -3371,15 +3330,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: '-lo'
-  id: 141
-  pos: nominal suffix
-  en_definition: Creates nouns that denote a tool for performing some action
-  en_notes: ''
-  en_tags: ''
-  derived: nasolo
-  etymology: lo
-  etym_tags: 'basalo, a priori'
 - lemma: lolin
   id: 475
   pos: noun
@@ -3387,7 +3337,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: lo + -alin
+  etymology: lo + -(a)lin
   etym_tags: 'compound, derivation'
 - lemma: lom
   id: 119
@@ -3481,7 +3431,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: lot + -meti
+  etymology: lot + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: lua
   id: 156
@@ -3514,15 +3464,6 @@
   id: 181
   pos: correlative prefix
   en_definition: 'Forms negative correlaties, analogous to "no" or "none" in English'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ma
-  etym_tags: 'basalo, a priori'
-- lemma: ma-
-  id: 148
-  pos: prefix
-  en_definition: Forms antonyms
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -3627,7 +3568,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: mai + -meti
+  etymology: mai + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: makanigi
   id: 99
@@ -3636,7 +3577,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ma + kan + -igi
+  etymology: ma(l)- + kan + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: makanigi
   id: 139
@@ -3645,17 +3586,17 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ma- + kan + -igi
+  etymology: ma(l)- + kan + -(i)gi
   etym_tags: 'compound, derivation'
-- lemma: mal-
-  id: 149
+- lemma: ma(l)-
+  id: 148
   pos: prefix
-  en_definition: Alternative form of ma- used before vowels
-  en_notes: influenced by Esperanto mal-
+  en_definition: Forms antonyms
+  en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ma-
-  etym_tags: alternative forms
+  etymology: ma
+  etym_tags: 'basalo, a priori'
 - lemma: malal
   id: 287
   pos: adjective
@@ -3663,7 +3604,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ma- + al
+  etymology: ma(l)- + al
   etym_tags: 'compound, derivation'
 - lemma: malalini
   id: 290
@@ -3672,7 +3613,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ma- + alini
+  etymology: ma(l)- + alini
   etym_tags: 'compound, derivation'
 - lemma: malasu
   id: 376.1
@@ -3681,7 +3622,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ma- + asu
+  etymology: ma(l)- + asu
   etym_tags: 'compound, derivation'
 - lemma: malasu
   id: 376.2
@@ -3719,6 +3660,24 @@
   derived: ''
   etymology: ma + meso
   etym_tags: 'greek, indo-european, calque'
+- lemma: man
+  id: 149.1
+  pos: 'verb, aval.'
+  en_definition: to rain
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Sar màn̄
+  etym_tags: 'sar, sara, central sudanic'
+- lemma: man
+  id: 149.2
+  pos: noun
+  en_definition: 'rain, raindrops'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: matiligi
   id: 481
   pos: 'verb, trans.'
@@ -3726,7 +3685,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ma- + tiligi
+  etymology: ma(l)- + tiligi
   etym_tags: 'compound, derivation'
 - lemma: may
   id: 129
@@ -3791,15 +3750,6 @@
   derived: ''
   etymology: the chapter M-T pronouns in WALS
   etym_tags: many
-- lemma: mea
-  id: 206
-  pos: pronoun
-  en_definition: 'my, mine'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: me + -a
-  etym_tags: 'compound, derivation'
 - lemma: medegi
   id: 209.1
   pos: 'verb, trans.'
@@ -3852,7 +3802,7 @@
   en_notes: literally "to cause to be nothing"
   en_tags: ''
   derived: ''
-  etymology: mel + -igi
+  etymology: mel + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: mena
   id: 211.1
@@ -3879,7 +3829,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: me + -s
+  etymology: me + -(a)s
   etym_tags: 'compound, derivation'
 - lemma: mesa
   id: 445
@@ -3888,7 +3838,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: mes + -a
+  etymology: mes + -(y)a
   etym_tags: 'compound, derivation'
 - lemma: meso
   id: 212.1
@@ -3935,7 +3885,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: '-meti'
+- lemma: '-(m)eti'
   id: 268
   pos: nominal suffix
   en_definition: Denotes a place for something
@@ -3944,6 +3894,15 @@
   derived: ''
   etymology: meti
   etym_tags: affixation
+- lemma: meya
+  id: 206
+  pos: pronoun
+  en_definition: 'my, mine'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: me + -(y)a
+  etym_tags: 'compound, derivation'
 - lemma: midi
   id: 133
   pos: correlative
@@ -4095,7 +4054,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: mot + -asu
+  etymology: mot + -(a)su
   etym_tags: 'compound, derivation'
 - lemma: motik
   id: 501
@@ -4104,7 +4063,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: mot + -ik
+  etymology: mot + -(n)ik
   etym_tags: 'compound, derivation'
 - lemma: mua
   id: 227.1
@@ -4173,7 +4132,7 @@
   id: 222.1
   pos: 'verb, intr.'
   en_definition: 'to meow, cry out (of a cat)'
-  en_notes: 'alternatively, mjau'
+  en_notes: ''
   en_tags: ''
   derived: ''
   etymology: onomatopoeic
@@ -4205,15 +4164,6 @@
   derived: ''
   etymology: Hmong nas
   etym_tags: 'hmong, western hmongic, hmongic, hmong-mien'
-- lemma: '-na'
-  id: 457
-  pos: nominal suffix
-  en_definition: Indicates non-binarity for gendered nouns
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: a priori
-  etym_tags: a priori
 - lemma: nalanga
   id: 383.1
   pos: noun
@@ -4319,6 +4269,15 @@
   derived: ''
   etymology: Persian نان (nān)
   etym_tags: 'persian, iranian, indo-european'
+- lemma: '-(n)an'
+  id: 457
+  pos: nominal suffix
+  en_definition: Indicates non-binarity for gendered nouns
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: a priori
+  etym_tags: a priori
 - lemma: nanik
   id: 245
   pos: noun
@@ -4326,7 +4285,7 @@
   en_notes: ''
   en_tags: animals
   derived: ''
-  etymology: na + -ik
+  etymology: na + -(n)ik
   etym_tags: 'compound, derivation'
 - lemma: naso
   id: 246.1
@@ -4353,7 +4312,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: naso + -lo
+  etymology: naso + -(a)lo
   etym_tags: 'compound, derivation'
 - lemma: nat
   id: 247
@@ -4382,7 +4341,7 @@
   derived: ''
   etymology: Hindi नया (nayā)
   etym_tags: 'hindi, indo-iranian, indo-european'
-- lemma: '-ne'
+- lemma: '-(n)en'
   id: 455
   pos: nominal suffix
   en_definition: Indicates femininity for gendered nouns
@@ -4472,17 +4431,17 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: nibo + -igi
+  etymology: nibo + -(i)gi
   etym_tags: ''
-- lemma: '-nik'
-  id: 252
+- lemma: '-(n)ik'
+  id: 83
   pos: nominal suffix
-  en_definition: Alternative form of -ik used after vowels
+  en_definition: Forms diminutives of nouns; Forms fractions from numbers
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: '-ik'
-  etym_tags: alternative forms
+  etymology: 'Armenian -իկ (-ik), descendants of Proto-Slavic -ikъ'
+  etym_tags: 'armenian, slavic, indo-european'
 - lemma: nisam
   id: 253.1
   pos: 'verb, trans.'
@@ -4510,15 +4469,6 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: no son
-  id: 145
-  pos: noun
-  en_definition: west
-  en_notes: literally "away from the sun"
-  en_tags: 'directions, cardinal directions'
-  derived: ''
-  etymology: no + son
-  etym_tags: 'collocation, compound'
 - lemma: 'no'
   id: 254.1
   pos: 'verb, loc. trans.'
@@ -4537,7 +4487,16 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: '-no'
+- lemma: no son
+  id: 145
+  pos: noun
+  en_definition: west
+  en_notes: literally "away from the sun"
+  en_tags: 'directions, cardinal directions'
+  derived: ''
+  etymology: no + son
+  etym_tags: 'collocation, compound'
+- lemma: '-(n)un'
   id: 453
   pos: nominal suffix
   en_definition: Indicates masculinity for gendered nouns
@@ -4600,15 +4559,6 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
-- lemma: '-on'
-  id: 454
-  pos: nominal suffix
-  en_definition: Alternative form of -no used after consonants
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-no'
-  etym_tags: alternative forms
 - lemma: ono
   id: 214.1
   pos: noun
@@ -4636,6 +4586,15 @@
   derived: ''
   etymology: ono + yati
   etym_tags: 'compound, lexical compound'
+- lemma: os
+  id: 454
+  pos: noun
+  en_definition: bone
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Latin os
+  etym_tags: 'latin, romance, indo-european'
 - lemma: '-osi'
   id: 183
   pos: correlative suffix
@@ -4744,6 +4703,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: pa
+  id: 371
+  pos: noun
+  en_definition: 'head, skull'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: (Coastal?) Marind pa
+  etym_tags: 'marind, anim, papuan'
 - lemma: pak
   id: 437
   pos: noun
@@ -4753,6 +4721,15 @@
   derived: ''
   etymology: French parc
   etym_tags: 'french, romance, indo-european'
+- lemma: palo
+  id: 336
+  pos: noun
+  en_definition: 'hill, hilltop'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Sisaala paalɔ
+  etym_tags: 'sisaala, gur, atlantic-congo'
 - lemma: panal
   id: 272.1
   pos: 'verb, trans.'
@@ -4798,6 +4775,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: panlay
+  id: 289
+  pos: noun
+  en_definition: 'ocean, sea'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Shan ပၢင်ႇလၢႆႇ (pàang làai)
+  etym_tags: 'shan, southwestern tai, kra-dai'
 - lemma: pasa
   id: 274.1
   pos: noun
@@ -4816,10 +4802,19 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: pasi
+  id: 458
+  pos: noun
+  en_definition: 'beach, strand, shore, coast'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Balinese pasih
+  etym_tags: 'balinese, bali-sasak-sumbawa, malayo-polynesian, austronesian'
 - lemma: patal
   id: 275.1
   pos: noun
-  en_definition: 'stone, rock'
+  en_definition: 'stone, rock; solid'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4828,7 +4823,7 @@
 - lemma: patal
   id: 275.2
   pos: adjective
-  en_definition: 'hard, hardy'
+  en_definition: 'hard, hardy, solid'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4843,19 +4838,6 @@
   derived: ''
   etymology: SI Prefix peta-
   etym_tags: a priori
-- lemma: '-pi'
-  id: 276
-  pos: verbal suffix
-  en_definition: >-
-    (from a nominal or adjectival sense) to become, to turn into; (from a verbal
-    sense) to change in state
-  en_notes: >-
-    The two senses of this suffix aren't mutually exclusive, and often a word
-    suffixed with -pi will use both of these senses.
-  en_tags: ''
-  derived: ''
-  etymology: 'Burmese ဖြစ် (hprac, hpyit), influenced by Esperanto -iĝi'
-  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
 - lemma: pi
   id: 277.1
   pos: 'verb, ambi.'
@@ -4863,7 +4845,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: '-pi'
+  etymology: '-(a)pi'
   etym_tags: 'basalo, a priori'
 - lemma: pi
   id: 277.2
@@ -4881,7 +4863,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: pi + -alin
+  etymology: pi + -(a)lin
   etym_tags: 'compound, derivation'
 - lemma: pita
   id: 278.1
@@ -5074,7 +5056,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: pul + -pi
+  etymology: pul + -(a)pi
   etym_tags: 'compound, derivation'
 - lemma: pulma
   id: 286.1
@@ -5130,15 +5112,6 @@
   derived: ''
   etymology: a priori
   etym_tags: a priori
-- lemma: '-s'
-  id: 295
-  pos: nominal suffix
-  en_definition: Used to form the plural form of nouns.
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: a priori
-  etym_tags: a priori
 - lemma: sa
   id: 297
   pos: particle
@@ -5157,6 +5130,15 @@
   derived: ''
   etymology: s- + -aga
   etym_tags: 'compound, derivation'
+- lemma: sakoy
+  id: 296
+  pos: noun
+  en_definition: valley; cliff
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'Majang cá:kòj'
+  etym_tags: 'majang, surmic, eastern sudanic'
 - lemma: salam
   id: 298
   pos: 'noun, gendered'
@@ -5173,7 +5155,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: salam + -alin
+  etymology: salam + -(a)lin
   etym_tags: 'compound, derivation'
 - lemma: salamumin
   id: 461
@@ -5214,21 +5196,21 @@
 - lemma: salotel
   id: 390
   pos: noun
-  en_definition: pig
+  en_definition: 'pig, pork'
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: salo + -tel
+  etymology: salo + -(a)tel
   etym_tags: 'compound, derivation'
-- lemma: '-sam'
-  id: 364
+- lemma: '-(s)am'
+  id: 363
   pos: numeral suffix
-  en_definition: Alternative form of -am used after vowels
+  en_definition: Used to form ordinals.
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: '-am'
-  etym_tags: alternative forms
+  etymology: nisam
+  etym_tags: 'a priori, derivation'
 - lemma: sata
   id: 159
   pos: numeral
@@ -5328,7 +5310,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: sel + al + -meti
+  etymology: sel + al + -(m)eti
   etym_tags: 'compound, lexical compound, derivation'
 - lemma: selasu
   id: 242
@@ -5337,7 +5319,7 @@
   en_notes: literally "collection of everything"
   en_tags: ''
   derived: ''
-  etymology: sel + -asu
+  etymology: sel + -(a)su
   etym_tags: 'compound, derivation'
 - lemma: semya
   id: 299
@@ -5382,7 +5364,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: senet + -tel
+  etymology: senet + -(a)tel
   etym_tags: 'compound, derivation'
 - lemma: senetubasa
   id: 199
@@ -5494,7 +5476,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: siku + -ik
+  etymology: siku + -(n)ik
   etym_tags: 'compound, derivation'
 - lemma: sikunik
   id: 304.2
@@ -5514,6 +5496,15 @@
   derived: ''
   etymology: Portuguese cima
   etym_tags: 'portuguese, romance, indo-european'
+- lemma: simasinatel
+  id: 306
+  pos: noun
+  en_definition: 'overseer, administrator, supervisor; (Internet) moderator'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sima + sin + -(a)tel
+  etym_tags: 'compound, lexical compound'
 - lemma: sin
   id: 305.2
   pos: 'verb, trans.'
@@ -5579,7 +5570,7 @@
   derived: ''
   etymology: ''
   etym_tags: ''
-- lemma: '-sini'
+- lemma: '-(s)ini'
   id: 288
   pos: nominal suffix
   en_definition: Forms nouns denoting the state or quality of being some adjective
@@ -5624,15 +5615,6 @@
   derived: ''
   etymology: sinko + min
   etym_tags: 'compound, lexical compound'
-- lemma: sinusima
-  id: 306
-  pos: noun
-  en_definition: 'overseer, administrator, supervisor; (Internet) moderator'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Univerbation of li sin sima
-  etym_tags: 'compound, lexical compound, univerbation'
 - lemma: skiko
   id: 316.1
   pos: noun
@@ -5723,7 +5705,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: soga + -gi
+  etymology: soga + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: sogataga
   id: 321
@@ -5815,6 +5797,15 @@
   derived: ''
   etymology: s- + osi
   etym_tags: 'compound, derivation'
+- lemma: sot
+  id: 468
+  pos: noun
+  en_definition: 'seed, propagule; semen'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Plautdietsch Sot
+  etym_tags: 'plautdietsch, germanic, indo-european'
 - lemma: stam
   id: 324
   pos: noun
@@ -5833,15 +5824,6 @@
   derived: ''
   etymology: Dutch stof
   etym_tags: 'dutch, germanic, indo-european'
-- lemma: '-su'
-  id: 371
-  pos: nominal suffix
-  en_definition: Alternative form of -asu used after vowels
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: '-asu'
-  etym_tags: alternative forms
 - lemma: sual
   id: 325
   pos: noun
@@ -5930,7 +5912,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: talka + -tel; calque of Greek πλανήτης (planétes)
+  etymology: talka + -(a)tel; calque of Greek πλανήτης (planétes)
   etym_tags: 'greek, indo-european'
 - lemma: tasa
   id: 176
@@ -5970,15 +5952,6 @@
   derived: ''
   etymology: the chapter M-T pronouns in WALS
   etym_tags: many
-- lemma: tea
-  id: 208
-  pos: pronoun
-  en_definition: your
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: te + -a
-  etym_tags: 'compound, derivation'
 - lemma: teata
   id: 438
   pos: noun
@@ -5995,17 +5968,8 @@
   en_notes: ''
   en_tags: linguistics
   derived: ''
-  etymology: '-tel'
+  etymology: '-(a)tel'
   etym_tags: 'basalo, a priori'
-- lemma: '-tel'
-  id: 335
-  pos: nominal suffix
-  en_definition: 'Used to form agent nouns; -er, -ist'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Ukrainian -тель (-tel')
-  etym_tags: 'ukrainian, slavic, indo-european'
 - lemma: tela
   id: 309
   pos: numeral
@@ -6022,7 +5986,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: te + -s
+  etymology: te + -(a)s
   etym_tags: 'compound, derivation'
 - lemma: tesa
   id: 447
@@ -6031,7 +5995,16 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: tes + -a
+  etymology: tes + -(y)a
+  etym_tags: 'compound, derivation'
+- lemma: teya
+  id: 208
+  pos: pronoun
+  en_definition: your
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: te + -(y)a
   etym_tags: 'compound, derivation'
 - lemma: tif
   id: 337
@@ -6042,15 +6015,6 @@
   derived: ''
   etymology: German Tief
   etym_tags: 'german, germanic, indo-european'
-- lemma: til son
-  id: 144
-  pos: noun
-  en_definition: east
-  en_notes: literally "towards the sun"
-  en_tags: 'directions, cardinal directions'
-  derived: ''
-  etymology: til + son
-  etym_tags: 'collocation, compound'
 - lemma: til
   id: 255.1
   pos: 'verb, loc. trans.'
@@ -6085,7 +6049,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: til + -igi
+  etymology: til + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: tiligi
   id: 338.2
@@ -6098,6 +6062,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: til son
+  id: 144
+  pos: noun
+  en_definition: east
+  en_notes: literally "towards the sun"
+  en_tags: 'directions, cardinal directions'
+  derived: ''
+  etymology: til + son
+  etym_tags: 'collocation, compound'
 - lemma: tilulot
   id: 404
   pos: noun
@@ -6150,7 +6123,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: tinulot + -meti
+  etymology: tinulot + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: tit
   id: 339
@@ -6225,7 +6198,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: tol + -igi
+  etymology: tol + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: toligi
   id: 344.2
@@ -6315,7 +6288,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ugalulot + -meti
+  etymology: ugalulot + -(m)eti
   etym_tags: 'compound, derivation'
 - lemma: ugata
   id: 348
@@ -6383,15 +6356,6 @@
   derived: ''
   etymology: Huichol ꞌúna
   etym_tags: 'huichol, corachol, uto-aztecan'
-- lemma: unam mama
-  id: 240
-  pos: noun
-  en_definition: 'God, monotheistic god'
-  en_notes: ''
-  en_tags: religion
-  derived: ''
-  etymology: uni + mama
-  etym_tags: 'compound, lexical compound'
 - lemma: unamelika
   id: 345
   pos: noun
@@ -6400,6 +6364,15 @@
   en_tags: ''
   derived: ''
   etymology: un + amelika
+  etym_tags: 'compound, lexical compound'
+- lemma: unam mama
+  id: 240
+  pos: noun
+  en_definition: 'God, monotheistic god'
+  en_notes: ''
+  en_tags: religion
+  derived: ''
+  etymology: uni + mama
   etym_tags: 'compound, lexical compound'
 - lemma: uni amelika
   id: 218
@@ -6509,7 +6482,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: utika + -igi
+  etymology: utika + -(i)gi
   etym_tags: 'compound, derivation'
 - lemma: utikagi
   id: 368.2
@@ -6527,7 +6500,7 @@
   en_notes: ''
   en_tags: animals
   derived: ''
-  etymology: utika + -tel + -ik
+  etymology: utika + -(a)tel + -(n)ik
   etym_tags: 'compound, derivation'
 - lemma: uyuku
   id: 509.1
@@ -6608,8 +6581,26 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: vangu + -meti
+  etymology: vangu + -(m)eti
   etym_tags: 'compound, derivation'
+- lemma: vanuca
+  id: 60.1
+  pos: 'verb, trans.'
+  en_definition: 'to inspire, incite, invigorate, arouse; to convince, persuade'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Russian внушать (vnušat')
+  etym_tags: 'russian, slavic, indo-european'
+- lemma: vanuca
+  id: 60.2
+  pos: noun
+  en_definition: 'inspiration, motivation; persuasion'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: vay
   id: 354.1
   pos: noun
@@ -6628,6 +6619,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: vayan
+  id: 364
+  pos: noun
+  en_definition: 'root (of a plant); root (of a word), radical'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Githabul wayan
+  etym_tags: 'githabul, bandjalangic, pama-nyungan'
 - lemma: ven
   id: 356.1
   pos: 'verb, ambi.'
@@ -6655,6 +6655,15 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+- lemma: venam
+  id: 252
+  pos: noun
+  en_definition: 'lake, inland sea'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Wik-Mungkan weenam
+  etym_tags: 'wik-mungkan, wik, paman, pama-nyungan'
 - lemma: vi
   id: 469.1
   pos: 'verb, intr.'
@@ -6698,8 +6707,17 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: vi + -alin
+  etymology: vi + -(a)lin
   etym_tags: 'compound, derivation'
+- lemma: '-(y)a'
+  id: 1
+  pos: pronominal suffiix
+  en_definition: Forms the possessives of pronouns
+  en_notes: ''
+  en_tags: ''
+  derived: 'mea, tea, mesa, tesa'
+  etymology: Esperanto -a
+  etym_tags: 'esperanto, conlangs'
 - lemma: ya
   id: 92
   pos: conjunction
@@ -6788,7 +6806,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: yati + -alin
+  etymology: yati + -(a)lin
   etym_tags: 'compound, derivation'
 - lemma: yatilo
   id: 452
@@ -6797,7 +6815,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: yati + -lo
+  etymology: yati + -(a)lo
   etym_tags: 'compound, derivation'
 - lemma: yatinik
   id: 489
@@ -6806,8 +6824,26 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: yati + -ik
+  etymology: yati + -(n)ik
   etym_tags: 'compound, derivation'
+- lemma: yay
+  id: 456.1
+  pos: 'verb, ambi.'
+  en_definition: 'to sing, play, perform'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Abau yayh
+  etym_tags: 'abau, sepik, papuan'
+- lemma: yay
+  id: 456.2
+  pos: noun
+  en_definition: song
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
 - lemma: yek
   id: 496.1
   pos: noun
@@ -6869,7 +6905,7 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: yok + -tel
+  etymology: yok + -(a)tel
   etym_tags: 'compound, derivation'
 - lemma: yokay
   id: 369
