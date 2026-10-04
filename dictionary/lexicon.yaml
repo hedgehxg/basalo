@@ -22,7 +22,7 @@
   etym_source: Wiktionary
 - lemma: '-aga'
   id: 3
-  pos: correlative suffix
+  pos: suffix
   en_definition: Forms correlatives of quantity; -many
   en_notes: ''
   en_tags: ''
@@ -55,8 +55,8 @@
   etym_source: ''
 - lemma: '-(a)ga'
   id: 484
-  pos: nominal suffix
-  en_definition: Forms augmentatives from nouns (e.g. a larger or greater thing)
+  pos: suffix
+  en_definition: Forms words denoting a larger or greater version of something
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -99,8 +99,8 @@
   etym_source: ''
 - lemma: ak
   id: 7.1
-  pos: 'verb, ambi.'
-  en_definition: 'to turn white, become white'
+  pos: noun
+  en_definition: white
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -110,28 +110,6 @@
   etym_source: Wiktionary
 - lemma: ak
   id: 7.2
-  pos: 'verb, trans.'
-  en_definition: 'to clean, purify, whiten'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  lang_code: ''
-  etym_source: ''
-- lemma: ak
-  id: 7.3
-  pos: noun
-  en_definition: white
-  en_notes: ''
-  en_tags: colors
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  lang_code: ''
-  etym_source: ''
-- lemma: ak
-  id: 7.4
   pos: adjective
   en_definition: 'white; clean, pure'
   en_notes: does not refer to the skin tone
@@ -152,6 +130,17 @@
   etym_tags: 'greek, indo-european'
   lang_code: 'ell, ine'
   etym_source: Wiktionary
+- lemma: akigi
+  id: 596
+  pos: 'verb, trans.'
+  en_definition: 'to clean, wash, make clean'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ak + -(i)gi
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
 - lemma: al
   id: 9.1
   pos: 'verb, trans.'
@@ -602,10 +591,8 @@
   etym_source: ''
 - lemma: '-(a)pi'
   id: 276
-  pos: verbal suffix
-  en_definition: >-
-    (from a nominal or adjectival sense) to become, to turn into; (from a verbal
-    sense) to change in state
+  pos: suffix
+  en_definition: Forms words relating to becoming something or changing in state
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -615,8 +602,8 @@
   etym_source: Wiktionary
 - lemma: '-(a)s'
   id: 295
-  pos: nominal suffix
-  en_definition: Used to form the plural form of nouns.
+  pos: suffix
+  en_definition: Used to form the plural of nouns.
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -627,7 +614,7 @@
 - lemma: asak
   id: 22
   pos: noun
-  en_definition: foot
+  en_definition: foot (part of body); foot (unit of length)
   en_notes: ''
   en_tags: body
   derived: ''
@@ -659,8 +646,8 @@
   etym_source: Wiktionary
 - lemma: '-(a)su'
   id: 24
-  pos: nominal suffix
-  en_definition: Creates nouns for a group or collection of something
+  pos: suffix
+  en_definition: Forms words relating to a group or collection of something
   en_notes: ''
   en_tags: ''
   derived: 'alasu, gidasu'
@@ -760,8 +747,8 @@
   etym_source: ''
 - lemma: '-(a)tel'
   id: 335
-  pos: nominal suffix
-  en_definition: 'Used to form agent nouns; -er, -ist'
+  pos: suffix
+  en_definition: 'Forms words denoting a person who often does an action; -er, -ist'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -848,7 +835,7 @@
   etym_source: ''
 - lemma: '-ay'
   id: 5
-  pos: correlative suffix
+  pos: suffix
   en_definition: 'Forms correlatives of possession; -one''s, -thing''s'
   en_notes: ''
   en_tags: ''
@@ -1850,7 +1837,7 @@
   etym_source: Wiktionary
 - lemma: '-el'
   id: 56
-  pos: correlative suffix
+  pos: suffix
   en_definition: Forms demonstrative determiner-pronoun correlatives
   en_notes: ''
   en_tags: ''
@@ -1873,7 +1860,7 @@
 - lemma: ele
   id: 58
   pos: noun
-  en_definition: 'leaf; sheet (of paper); ticket, slip, sheet; sail (of a boat)'
+  en_definition: 'leaf; sheet (of paper); ticket, slip, sheet; card; sail (of a boat)'
   en_notes: ''
   en_tags: nature
   derived: dinele
@@ -1996,7 +1983,7 @@
   pos: noun
   en_definition: >-
     money, currency, funds; the primary unit of any given monetary system (e.g.
-    dollar, dong, dinar) price, price point
+    dollar, dong, dinar); price, price point
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -2213,6 +2200,17 @@
   etym_tags: ''
   lang_code: ''
   etym_source: ''
+- lemma: fon
+  id: 589
+  pos: noun
+  en_definition: 'telephone, phone, cell phone'
+  en_notes: synonymous with telefon
+  en_tags: ''
+  derived: ''
+  etymology: English phone
+  etym_tags: 'english, germanic, indo-european'
+  lang_code: 'eng, gem, ine'
+  etym_source: ''
 - lemma: fu
   id: 68.1
   pos: 'verb, intr.'
@@ -2262,6 +2260,17 @@
   etym_tags: 'gurage, semitic, afroasiatic'
   lang_code: 'und, sem, afa'
   etym_source: Wiktionary
+- lemma: galam
+  id: 593
+  pos: noun
+  en_definition: gram
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English gram
+  etym_tags: 'english, germanic, indo-european'
+  lang_code: 'eng, gem, ine'
+  etym_source: ''
 - lemma: gas
   id: 397
   pos: noun
@@ -2495,7 +2504,7 @@
   etym_source: ''
 - lemma: '-idi'
   id: 81
-  pos: correlative suffix
+  pos: suffix
   en_definition: Forms correlatives of location; -where
   en_notes: ''
   en_tags: ''
@@ -2506,9 +2515,9 @@
   etym_source: ''
 - lemma: '-(i)gi'
   id: 82
-  pos: verbal suffix
+  pos: suffix
   en_definition: >-
-    Forms causative or factitive verbs, indicating an action being done to
+    Forms causative or factitive words, indicating an action being done to
     something
   en_notes: ''
   en_tags: ''
@@ -2618,8 +2627,8 @@
   etym_source: Wiktionary
 - lemma: '-(i)lo'
   id: 141
-  pos: nominal suffix
-  en_definition: Creates nouns that denote a tool for performing some action
+  pos: suffix
+  en_definition: 'Forms words for tools, devices to perform something'
   en_notes: ''
   en_tags: ''
   derived: nasolo
@@ -2794,6 +2803,17 @@
   etym_tags: 'oroch, tungusic'
   lang_code: 'oac, tuw'
   etym_source: Wiktionary
+- lemma: inci
+  id: 594
+  pos: noun
+  en_definition: inch
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English inch
+  etym_tags: 'english, germanic, indo-european'
+  lang_code: 'eng, gem, ine'
+  etym_source: ''
 - lemma: ine
   id: 157
   pos: numeral
@@ -3885,6 +3905,83 @@
   etym_tags: 'german, germanic, indo-european'
   lang_code: 'deu, gem, ine'
   etym_source: Wiktionary
+- lemma: kukanigi
+  id: 139
+  pos: verb
+  en_definition: 'to remove, take off; to let go'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ku(l)- + kanigi
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: ku(l)-
+  id: 599
+  pos: prefix
+  en_definition: Forms words relating to undoing or reversing an action
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Irish cúl
+  etym_tags: 'irish, celtic, indo-european'
+  lang_code: 'gle, cel, ine'
+  etym_source: ''
+- lemma: kulal
+  id: 602.1
+  pos: 'verb, trans.'
+  en_definition: to forget; to misremember
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ku(l)- + al
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: kulal
+  id: 602.2
+  pos: adjective
+  en_definition: forgetful
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: kulasu
+  id: 376.1
+  pos: 'verb, trans.'
+  en_definition: 'to disconnect, break into parts, split up, break up, break apart'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ku(l)- + asu
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: kulasu
+  id: 376.2
+  pos: noun
+  en_definition: 'member, unit, individual'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: kulasu
+  id: 376.3
+  pos: adjective
+  en_definition: 'alone, away from a group, split up; forked (of a code repository)'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  lang_code: ''
+  etym_source: ''
 - lemma: kulubi
   id: 238
   pos: noun
@@ -3905,6 +4002,17 @@
   derived: ''
   etymology: kulubi + nan
   etym_tags: 'compound, lexical compound'
+  lang_code: ''
+  etym_source: ''
+- lemma: kumetigi
+  id: 481
+  pos: 'verb, trans.'
+  en_definition: 'to disconnect, sever'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ku(l)- + metigi
+  etym_tags: 'compound, derivation'
   lang_code: ''
   etym_source: ''
 - lemma: kumuwa
@@ -3989,7 +4097,7 @@
   pos: noun
   en_definition: >-
     box, caddy, canister, container, tupperware, canister; packet, sack, pouch,
-    carton; room, space, compartment, cell, chamber
+    bag, carton; room, space, compartment, cell, chamber
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4107,6 +4215,17 @@
   etym_tags: ''
   lang_code: ''
   etym_source: ''
+- lemma: ladio
+  id: 590
+  pos: noun
+  en_definition: 'radio, radiotelegraph, radiotelegraphy'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English radio
+  etym_tags: 'english, germanic, indo-european'
+  lang_code: 'eng, gem, ine'
+  etym_source: ''
 - lemma: laga
   id: 118
   pos: correlative
@@ -4176,7 +4295,7 @@
 - lemma: lamiga
   id: 486.2
   pos: noun
-  en_definition: 'electricity, power; thunder, lightning'
+  en_definition: 'electricity, power, energy; thunder, lightning'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -4650,81 +4769,17 @@
   etym_tags: 'compound, derivation'
   lang_code: ''
   etym_source: ''
-- lemma: makanigi
-  id: 139
-  pos: verb
-  en_definition: 'to remove, take off; to let go'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ma(l)- + kanigi
-  etym_tags: 'compound, derivation'
-  lang_code: ''
-  etym_source: ''
 - lemma: ma(l)-
   id: 148
   pos: prefix
-  en_definition: Forms antonyms
+  en_definition: >-
+    An obsolete prefix for forming antonyms, superseded by ku(l)-, on(i)-, and
+    po(d)-
   en_notes: ''
   en_tags: ''
   derived: ''
   etymology: ma
   etym_tags: 'basalo, a priori'
-  lang_code: ''
-  etym_source: ''
-- lemma: malal
-  id: 287
-  pos: adjective
-  en_definition: impossible
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ma(l)- + al
-  etym_tags: 'compound, derivation'
-  lang_code: ''
-  etym_source: ''
-- lemma: malalini
-  id: 290
-  pos: noun
-  en_definition: impossibility
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ma(l)- + alini
-  etym_tags: 'compound, derivation'
-  lang_code: ''
-  etym_source: ''
-- lemma: malasu
-  id: 376.1
-  pos: 'verb, trans.'
-  en_definition: 'to disconnect, break into parts, split up, break up, break apart'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ma(l)- + asu
-  etym_tags: 'compound, derivation'
-  lang_code: ''
-  etym_source: ''
-- lemma: malasu
-  id: 376.2
-  pos: noun
-  en_definition: 'member, unit, individual'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  lang_code: ''
-  etym_source: ''
-- lemma: malasu
-  id: 376.3
-  pos: adjective
-  en_definition: 'alone, away from a group, split up; forked (of a code repository)'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
   lang_code: ''
   etym_source: ''
 - lemma: mama
@@ -4749,17 +4804,6 @@
   etym_tags: 'greek, indo-european, calque'
   lang_code: 'ell, ine'
   etym_source: ''
-- lemma: mametigi
-  id: 481
-  pos: 'verb, trans.'
-  en_definition: 'to disconnect, sever'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ma(l)- + metigi
-  etym_tags: 'compound, derivation'
-  lang_code: ''
-  etym_source: ''
 - lemma: man
   id: 149.1
   pos: 'verb, aval.'
@@ -4775,6 +4819,28 @@
   id: 149.2
   pos: noun
   en_definition: 'rain, raindrops'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: manik
+  id: 591.1
+  pos: 'verb, intr.'
+  en_definition: 'to cry, make tears'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: man + -(n)ik
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: manik
+  id: 591.2
+  pos: noun
+  en_definition: 'tear, teardrop, tear drop'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5101,6 +5167,17 @@
   etym_tags: ''
   lang_code: ''
   etym_source: ''
+- lemma: mete
+  id: 592
+  pos: noun
+  en_definition: meter
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English meter
+  etym_tags: 'english, germanic, indo-european'
+  lang_code: 'eng, gem, ine'
+  etym_source: ''
 - lemma: meti
   id: 213.1
   pos: 'verb, trans.'
@@ -5125,8 +5202,8 @@
   etym_source: ''
 - lemma: '-(m)eti'
   id: 268
-  pos: nominal suffix
-  en_definition: Denotes a place for something
+  pos: suffix
+  en_definition: Forms words indicating a location
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5156,6 +5233,17 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: metulot
+  id: 404
+  pos: noun
+  en_definition: 'transportation, moving, method of travel'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'met + lot, literally "by vehicle"'
+  etym_tags: 'compound, lexical compound'
   lang_code: ''
   etym_source: ''
 - lemma: meya
@@ -5584,7 +5672,7 @@
   etym_source: Wiktionary
 - lemma: '-(n)an'
   id: 457
-  pos: nominal suffix
+  pos: suffix
   en_definition: Indicates non-binarity for gendered nouns
   en_notes: ''
   en_tags: ''
@@ -5819,8 +5907,8 @@
   etym_source: ''
 - lemma: '-(n)ik'
   id: 83
-  pos: nominal suffix
-  en_definition: Forms diminutives of nouns; Forms fractions from numbers
+  pos: suffix
+  en_definition: Forms diminutives of words; Forms fractions from numbers
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -5830,13 +5918,35 @@
   etym_source: Wiktionary
 - lemma: '-(n)in'
   id: 455
-  pos: nominal suffix
+  pos: suffix
   en_definition: Indicates femininity for gendered nouns
   en_notes: ''
   en_tags: ''
   derived: ''
   etymology: a priori
   etym_tags: a priori
+  lang_code: ''
+  etym_source: ''
+- lemma: nin
+  id: 598.1
+  pos: noun
+  en_definition: female; femininity
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-(n)in'
+  etym_tags: a priori
+  lang_code: ''
+  etym_source: ''
+- lemma: nin
+  id: 598.2
+  pos: adjective
+  en_definition: 'female, feminine'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
   lang_code: ''
   etym_source: ''
 - lemma: nisam
@@ -5931,13 +6041,35 @@
     castellano-shuar (F-Z)
 - lemma: '-(n)un'
   id: 453
-  pos: nominal suffix
+  pos: suffix
   en_definition: Indicates masculinity for gendered nouns
   en_notes: ''
   en_tags: ''
   derived: ''
   etymology: a priori
   etym_tags: a priori
+  lang_code: ''
+  etym_source: ''
+- lemma: nun
+  id: 597.1
+  pos: noun
+  en_definition: male; masculinity
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: '-(n)un'
+  etym_tags: a priori
+  lang_code: ''
+  etym_source: ''
+- lemma: nun
+  id: 597.2
+  pos: adjective
+  en_definition: 'male, masculine'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
   lang_code: ''
   etym_source: ''
 - lemma: nuyat
@@ -5998,8 +6130,8 @@
 - lemma: ok
   id: 581
   pos: noun
-  en_definition: foot
-  en_notes: ''
+  en_definition: toe
+  en_notes: 'originally meant "foot", not realizing "asak" already had that meaning'
   en_tags: ''
   derived: ''
   etymology: Yucatec ook
@@ -6019,7 +6151,7 @@
   etym_source: Wiktionary
 - lemma: '-om'
   id: 182
-  pos: correlative suffix
+  pos: suffix
   en_definition: 'Forms manner or reason correlatives, analogous to "way" or "how" in English'
   en_notes: ''
   en_tags: ''
@@ -6027,6 +6159,72 @@
   etymology: a priori
   etym_tags: a priori
   lang_code: ''
+  etym_source: ''
+- lemma: onak
+  id: 585.1
+  pos: noun
+  en_definition: 'stain, blemish'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: on(i)- + ak
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: onak
+  id: 585.2
+  pos: adjective
+  en_definition: 'stained, marked, blemished, dirty'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: onal
+  id: 287
+  pos: adjective
+  en_definition: impossible
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: on(i)- + al
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: onalilo
+  id: 603
+  pos: adjective
+  en_definition: brainless; lobotomized
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: on(i)- + alilo
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: onalini
+  id: 290
+  pos: noun
+  en_definition: impossibility
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: onal + -(s)ini
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: on(i)-
+  id: 600
+  pos: prefix
+  en_definition: Forms words relating to lacking a quality or part of something
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Alemannic German ooni
+  etym_tags: 'alemannic german, germanic, indo-european'
+  lang_code: 'gsw, gem, ine'
   etym_source: ''
 - lemma: ono
   id: 214.1
@@ -6074,7 +6272,7 @@
   etym_source: Wiktionary
 - lemma: '-osi'
   id: 183
-  pos: correlative suffix
+  pos: suffix
   en_definition: 'Forms time correlatives, analogous to "when" in English'
   en_notes: ''
   en_tags: ''
@@ -6459,6 +6657,17 @@
   etym_tags: ''
   lang_code: ''
   etym_source: ''
+- lemma: paun
+  id: 595
+  pos: noun
+  en_definition: pound
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: English pound
+  etym_tags: 'english, germanic, indo-european'
+  lang_code: 'eng, gem, ine'
+  etym_source: ''
 - lemma: peta
   id: 310
   pos: numeral
@@ -6556,6 +6765,28 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: po(d)-
+  id: 601
+  pos: prefix
+  en_definition: Forms words relating to going against or impeding an action
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Polish pod
+  etym_tags: 'polish, slavic, indo-european'
+  lang_code: 'pol, sla, ine'
+  etym_source: ''
+- lemma: podesa
+  id: 604
+  pos: 'verb, intr.'
+  en_definition: to starve
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: po(d)- + esa
+  etym_tags: 'compound, derivation'
   lang_code: ''
   etym_source: ''
 - lemma: pola
@@ -6659,6 +6890,17 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: poysalot
+  id: 586
+  pos: noun
+  en_definition: 'truck, vehicle carrying large amounts of something'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: poysa + lot
+  etym_tags: 'compound, lexical compound'
   lang_code: ''
   etym_source: ''
 - lemma: puka
@@ -6859,17 +7101,6 @@
   etym_tags: 'majang, surmic, eastern sudanic'
   lang_code: mpe
   etym_source: 'The Majang Language (Joswig, A. 2019)'
-- lemma: saksak
-  id: 515
-  pos: 'verb, trans.'
-  en_definition: 'to shake, rustle, vibrate, fluff up'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Darija زعزع (zʕzʕ)
-  etym_tags: 'darija, arabic, semitic, afroasiatic'
-  lang_code: 'ary, ara, sem, afa'
-  etym_source: Native speaker
 - lemma: sala
   id: 493.1
   pos: 'verb, intr.'
@@ -6972,7 +7203,7 @@
 - lemma: salo
   id: 389.3
   pos: adjective
-  en_definition: 'fatty; greasy, oily'
+  en_definition: fatty; greasy
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -7015,8 +7246,8 @@
   etym_source: ''
 - lemma: '-(s)am'
   id: 363
-  pos: numeral suffix
-  en_definition: Used to form ordinals.
+  pos: suffix
+  en_definition: Forms ordinals from numerals
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -7059,6 +7290,17 @@
   etym_tags: 'compound, derivation'
   lang_code: ''
   etym_source: ''
+- lemma: sasa
+  id: 515
+  pos: 'verb, trans.'
+  en_definition: 'to shake, rustle, vibrate, fluff up'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Darija زعزع (zʕzʕ)
+  etym_tags: 'darija, arabic, semitic, afroasiatic'
+  lang_code: 'ary, ara, sem, afa'
+  etym_source: Native speaker
 - lemma: sasi
   id: 560
   pos: noun
@@ -7497,7 +7739,7 @@
 - lemma: sima
   id: 305.1
   pos: preposition
-  en_definition: 'above, over, overhead; top, summit'
+  en_definition: 'above, over, overhead; top, summit; up, upwards, upward'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -7505,6 +7747,17 @@
   etym_tags: 'portuguese, romance, indo-european'
   lang_code: 'por, roe, ine'
   etym_source: Wiktionary
+- lemma: simanulica
+  id: 587
+  pos: noun
+  en_definition: bridge
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: sima + ulica
+  etym_tags: 'compound, lexical compound'
+  lang_code: ''
+  etym_source: ''
 - lemma: simasinatel
   id: 306
   pos: noun
@@ -7597,8 +7850,8 @@
   etym_source: ''
 - lemma: '-(s)ini'
   id: 288
-  pos: nominal suffix
-  en_definition: Forms nouns denoting the state or quality of being some adjective
+  pos: suffix
+  en_definition: Forms words denoting the state or quality of being some adjective
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -7774,7 +8027,7 @@
 - lemma: sok
   id: 147.2
   pos: adjective
-  en_definition: cold
+  en_definition: 'cold, cool'
   en_notes: ''
   en_tags: temperature
   derived: ''
@@ -8027,7 +8280,7 @@
 - lemma: tak
   id: 332
   pos: preposition
-  en_definition: 'bottom, underside; under, underneath'
+  en_definition: 'bottom, underside; under, underneath; down, downwards, downward'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -8136,6 +8389,17 @@
   etym_tags: internationalism
   lang_code: ''
   etym_source: Wiktionary
+- lemma: telefon
+  id: 588
+  pos: noun
+  en_definition: 'telephone, phone, cell phone'
+  en_notes: synonymous with fon
+  en_tags: ''
+  derived: ''
+  etymology: English telephone
+  etym_tags: 'english, germanic, indo-european'
+  lang_code: 'eng, gem, ine'
+  etym_source: ''
 - lemma: tes
   id: 446
   pos: pronoun
@@ -8211,17 +8475,6 @@
   derived: ''
   etymology: til + son
   etym_tags: 'collocation, compound'
-  lang_code: ''
-  etym_source: ''
-- lemma: tilulot
-  id: 404
-  pos: noun
-  en_definition: 'transportation, moving, method of travel'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: 'til + lot, literally "by vehicle"'
-  etym_tags: 'compound, lexical compound'
   lang_code: ''
   etym_source: ''
 - lemma: tilutaga
@@ -8906,7 +9159,7 @@
 - lemma: wangu
   id: 355.3
   pos: noun
-  en_definition: 'purchase, acquisition of some item; commodity, merchandise, good; gift'
+  en_definition: 'purchase, acquisition of some item; commodity, merchandise, good'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -9082,7 +9335,7 @@
 - lemma: wi
   id: 469.3
   pos: adjective
-  en_definition: 'alive, living, animated'
+  en_definition: 'alive, living, animated; healthy'
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -9180,6 +9433,17 @@
   etym_source: ''
 - lemma: yaset
   id: 96.3
+  pos: noun
+  en_definition: 'back (of body), backside'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: yaset
+  id: 96.4
   pos: adjective
   en_definition: 'late, last, behind; previous, before'
   en_notes: ''
