@@ -1301,6 +1301,19 @@
   etym_tags: ''
   lang_code: ''
   etym_source: ''
+- lemma: cu
+  id: 569
+  pos: particle
+  en_definition: >-
+    Sentence-final particle implying the speaker expects the listener to agree,
+    forms polar questions, yes-no questions; innit?, right?
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: 'Quechua -chu, coincidentally similar to Esperanto ĉu'
+  etym_tags: 'quechua, isolate'
+  lang_code: que
+  etym_source: '(PDF) A typology of question marking in Quechuan, Wiktionary'
 - lemma: da
   id: 42
   pos: preposition
@@ -2258,8 +2271,8 @@
   derived: ''
   etymology: Gurage gäčä
   etym_tags: 'gurage, semitic, afroasiatic'
-  lang_code: 'und, sem, afa'
-  etym_source: Wiktionary
+  lang_code: 'gru, sem, afa'
+  etym_source: 'https://archive.org/details/etymologicaldict0002lesl/page/328'
 - lemma: galam
   id: 593
   pos: noun
@@ -2392,6 +2405,28 @@
   etym_tags: 'hungarian, ugric, uralic'
   lang_code: 'hun, urj'
   etym_source: Wiktionary
+- lemma: guguy
+  id: 610
+  pos: 'verb, trans.'
+  en_definition: to push
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Ritharrŋu djudjuy'yun
+  etym_tags: 'ritharrngu, yolngu, pama-nyungan'
+  lang_code: rit
+  etym_source: 'https://yolngudictionary.cdu.edu.au/'
+- lemma: i
+  id: 615
+  pos: particle
+  en_definition: Sentence-ending particle used to overtly express a statement (declarative)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: a priori
+  etym_tags: a priori
+  lang_code: ''
+  etym_source: ''
 - lemma: ibuma
   id: 370.1
   pos: 'verb, ambi.'
@@ -2825,6 +2860,17 @@
   etym_tags: 'ainu, isolates'
   lang_code: ain
   etym_source: Wiktionary
+- lemma: inetel
+  id: 605
+  pos: noun
+  en_definition: square
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ine + -(a)tel
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
 - lemma: inon
   id: 87
   pos: preposition
@@ -3045,41 +3091,8 @@
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: ka
+  etymology: ki
   etym_tags: 'basalo, a priori'
-  lang_code: ''
-  etym_source: ''
-- lemma: ka
-  id: 106.1
-  pos: verb
-  en_definition: 'to question, ask'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: Japanese か (ka)
-  etym_tags: 'japanese, japonic'
-  lang_code: 'jpn, jpx'
-  etym_source: Wiktionary
-- lemma: ka
-  id: 106.2
-  pos: noun
-  en_definition: question
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
-  lang_code: ''
-  etym_source: ''
-- lemma: ka
-  id: 106.3
-  pos: particle
-  en_definition: 'Interrogative particle, used either at the beginning or end of a sentence'
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: ''
-  etym_tags: ''
   lang_code: ''
   etym_source: ''
 - lemma: kados
@@ -3523,6 +3536,41 @@
   derived: ''
   etymology: kesek + gida
   etym_tags: 'compound, lexical compound'
+  lang_code: ''
+  etym_source: ''
+- lemma: ki
+  id: 106.1
+  pos: verb
+  en_definition: 'to question, ask'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Tillamook ki
+  etym_tags: 'tillamook, coast salish, salishan'
+  lang_code: 'til, sal'
+  etym_source: 'https://lingpapers.sites.olt.ubc.ca/files/2018/03/1997_Kroeber.pdf'
+- lemma: ki
+  id: 106.2
+  pos: noun
+  en_definition: question
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: ki
+  id: 106.3
+  pos: particle
+  en_definition: >-
+    Sentence-ending interrogative (sentence) particle for content questions
+    (e.g. wh-questions)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
   lang_code: ''
   etym_source: ''
 - lemma: ki
@@ -4141,13 +4189,15 @@
 - lemma: la
   id: 293
   pos: particle
-  en_definition: Used before a noun to separate it from any adjectives that modify it
+  en_definition: >-
+    Used after a noun to separate it from any adjectives, numerals, etc. that
+    modify it
   en_notes: ''
   en_tags: ''
   derived: ''
-  etymology: French là
-  etym_tags: 'french, romance, indo-european'
-  lang_code: 'fra, roe, ine'
+  etymology: Äiwoo lä
+  etym_tags: 'äiwoo, oceanic, malayo-polynesian, austronesian'
+  lang_code: 'nfl, poz, map'
   etym_source: Wiktionary
 - lemma: laca
   id: 75
@@ -4348,7 +4398,7 @@
   lang_code: 'slv, sla, ine'
   etym_source: ''
 - lemma: lego
-  id: 188
+  id: 188.1
   pos: 'verb, trans.'
   en_definition: 'to choose, pick, select; to elect, delegate, assign, vote for'
   en_notes: ''
@@ -4358,6 +4408,17 @@
   etym_tags: 'greek, indo-european'
   lang_code: 'ell, ine'
   etym_source: Wiktionary
+- lemma: lego
+  id: 188.2
+  pos: noun
+  en_definition: 'selection, choice'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: ''
+  etym_tags: ''
+  lang_code: ''
+  etym_source: ''
 - lemma: lel
   id: 116
   pos: correlative
@@ -4797,12 +4858,12 @@
   id: 204
   pos: adjective
   en_definition: 'direct, swift, fast'
-  en_notes: calque of Greek άμεσος (ámesos) "without a middle"
+  en_notes: ''
   en_tags: ''
   derived: ''
   etymology: ma + meso
-  etym_tags: 'greek, indo-european, calque'
-  lang_code: 'ell, ine'
+  etym_tags: 'compound, lexical compound'
+  lang_code: ''
   etym_source: ''
 - lemma: man
   id: 149.1
@@ -5499,6 +5560,17 @@
   etym_tags: 'georgian, kartvelian'
   lang_code: 'kat, ccs'
   etym_source: Wiktionary
+- lemma: muluca
+  id: 609
+  pos: noun
+  en_definition: 'spider web; net, web; network'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Burarra mulucha
+  etym_tags: 'burarra, maningrida, arnhem'
+  lang_code: bvr
+  etym_source: Burrara and Gun-nartpa dictionary
 - lemma: musik
   id: 230.1
   pos: 'verb, ambi.'
@@ -5519,6 +5591,28 @@
   derived: ''
   etymology: ''
   etym_tags: ''
+  lang_code: ''
+  etym_source: ''
+- lemma: musikatel
+  id: 607
+  pos: noun
+  en_definition: 'musician, performer'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: musik + -(a)tel
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: musikilo
+  id: 606
+  pos: noun
+  en_definition: 'instrument, musical instrument'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: musik + -(i)lo
+  etym_tags: 'compound, derivation'
   lang_code: ''
   etym_source: ''
 - lemma: mut
@@ -5790,19 +5884,6 @@
   etymology: Hindi नया (nayā)
   etym_tags: 'hindi, indo-iranian, indo-european'
   lang_code: 'hin, inc, ine'
-  etym_source: Wiktionary
-- lemma: ne
-  id: 569
-  pos: particle
-  en_definition: >-
-    Sentence-final particle implying the speaker expects the listener to agree;
-    innit?, right?
-  en_notes: ''
-  en_tags: ''
-  derived: ''
-  etymology: 'Portuguese né, Latin ne, Japanese ね (ne)'
-  etym_tags: multiple
-  lang_code: ''
   etym_source: Wiktionary
 - lemma: neya
   id: 248.1
@@ -6225,6 +6306,39 @@
   etymology: Alemannic German ooni
   etym_tags: 'alemannic german, germanic, indo-european'
   lang_code: 'gsw, gem, ine'
+  etym_source: ''
+- lemma: onimedegisema
+  id: 614
+  pos: adjective
+  en_definition: hard of hearing
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: on(i)- + medegi + sema
+  etym_tags: 'compound, derivation, lexical compound'
+  lang_code: ''
+  etym_source: ''
+- lemma: onisema
+  id: 612
+  pos: adjective
+  en_definition: 'deaf, without hearing'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: on(i)- + sema
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
+- lemma: onisin
+  id: 613
+  pos: adjective
+  en_definition: 'blind, without sight'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: on(i)- + sin
+  etym_tags: 'compound, derivation'
+  lang_code: ''
   etym_source: ''
 - lemma: ono
   id: 214.1
@@ -6811,6 +6925,17 @@
   etym_tags: 'czech, slavic, indo-european'
   lang_code: 'ces, sla, ine'
   etym_source: Wiktionary
+- lemma: pomai
+  id: 608
+  pos: noun
+  en_definition: 'medicine, aid'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: po(d)- + mai
+  etym_tags: 'compound, derivation'
+  lang_code: ''
+  etym_source: ''
 - lemma: powine
   id: 282.1
   pos: 'verb, modal'
@@ -7071,7 +7196,9 @@
 - lemma: sabal
   id: 574
   pos: adjective
-  en_definition: 'wide, thick'
+  en_definition: >-
+    wide, thick; general, unspecific, widely known; generally, usually,
+    commonly, often
   en_notes: ''
   en_tags: ''
   derived: ''
@@ -8307,8 +8434,8 @@
   en_tags: ''
   derived: ''
   etymology: talka + -(a)tel; calque of Greek πλανήτης (planétes)
-  etym_tags: 'greek, indo-european'
-  lang_code: 'ell, ine'
+  etym_tags: 'compound, derivation, calque'
+  lang_code: ''
   etym_source: ''
 - lemma: tayam
   id: 269
@@ -8433,6 +8560,17 @@
   etym_tags: 'compound, derivation'
   lang_code: ''
   etym_source: ''
+- lemma: ti
+  id: 616
+  pos: particle
+  en_definition: Sentence-ending particle used to express a command (imperative)
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Kayardild tha
+  etym_tags: 'Kayardild, Tangkic'
+  lang_code: gyd
+  etym_source: A Grammar of Kayardild (Evans 1995)
 - lemma: tif
   id: 337
   pos: adjective
@@ -9123,6 +9261,17 @@
   etym_tags: 'adyghe, northwest caucasian'
   lang_code: ady
   etym_source: Wiktionary
+- lemma: waday
+  id: 611
+  pos: 'verb, trans.'
+  en_definition: 'to pull, pull out, pull along; to drag'
+  en_notes: ''
+  en_tags: ''
+  derived: ''
+  etymology: Ritharrŋu waḏay'yun
+  etym_tags: 'ritharrngu, yolngu, pama-nyungan'
+  lang_code: rit
+  etym_source: 'https://yolngudictionary.cdu.edu.au/'
 - lemma: walu
   id: 160
   pos: numeral
