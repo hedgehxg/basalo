@@ -1,14 +1,10 @@
 const field_label_map = {
 	"id": "ID",
-	"derived": "Derived terms",
 	"etymology": "Etymology",
 	"etym_tags": "Etymological tags",
 	"en_definition": "Definition",
 	"en_notes": "Notes",
-	"en_tags": "Tags",
-	"lang_code": "ISO-639 codes",
+	"iso_code": "ISO-639 codes",
+	"glottolog_code": "Glottolog codes",
 	"etym_source": "Etymology source",
-	"de_definition": "Definition (German)",
-	"de_notes": "Notes (German)",
-	"de_tags": "Tags (German)"
 }
