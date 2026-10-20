@@ -6,6 +6,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aba
   id: 150
@@ -15,6 +16,9 @@
   etymology: German aber
   etym_tags: 'german, germanic, indo-european'
   iso_code: 'deu, gem, ine'
+  glottolog_code: >-
+    stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: '-aga'
   id: 3
@@ -24,6 +28,7 @@
   etymology: aga
   etym_tags: affixation
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aga
   id: 4.1
@@ -33,7 +38,8 @@
   etymology: Enets ага (aga)
   etym_tags: 'enets, samoyedic, uralic'
   iso_code: 'enh, syd, urj'
-  etym_source: Wiktionary
+  glottolog_code: 'fore1265, enet1250, enet1251, samo1298, ural1272'
+  etym_source: 'Enzische Sprachmaterialien, Enets text 01. Vacation. Отпуск'
 - lemma: aga
   id: 4.2
   pos: adjective
@@ -42,6 +48,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-(a)ga'
   id: 484
@@ -51,6 +58,7 @@
   etymology: aga
   etym_tags: affixation
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: agagi
   id: 186
@@ -60,6 +68,7 @@
   etymology: aga + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aganimut
   id: 554
@@ -69,6 +78,7 @@
   etymology: aga + imut
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aganulica
   id: 540
@@ -78,6 +88,7 @@
   etymology: aga + ulica
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ak
   id: 7.1
@@ -87,6 +98,7 @@
   etymology: Turkish ak
   etym_tags: 'turkish, turkic'
   iso_code: 'tur, trk'
+  glottolog_code: 'nucl1301, west2406, nucl1769, oghu1243, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: ak
   id: 7.2
@@ -96,6 +108,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: akakia
   id: 8
@@ -105,6 +118,9 @@
   etymology: Greek ἀκακία (akakía)
   etym_tags: 'greek, indo-european'
   iso_code: 'ell, ine'
+  glottolog_code: >-
+    mode1248, nucl1783, mode1266, koin1234, cent2404, east2798, gree1276,
+    grae1234, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: akigi
   id: 596
@@ -114,6 +130,7 @@
   etymology: ak + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: al
   id: 9.1
@@ -125,6 +142,7 @@
   etymology: Korean 알다 (al-da)
   etym_tags: 'korean, koreanic'
   iso_code: kor
+  glottolog_code: 'kore1280, kore1284'
   etym_source: Wiktionary
 - lemma: al
   id: 9.2
@@ -136,6 +154,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: al
   id: 9.3
@@ -145,6 +164,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: al
   id: 9.4
@@ -154,6 +174,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: al
   id: 9.5
@@ -165,6 +186,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ala
   id: 387
@@ -174,6 +196,9 @@
   etymology: Spanish ala
   etym_tags: 'spanish, romance, indo-european'
   iso_code: 'spa, roe, ine'
+  glottolog_code: >-
+    stan1288, cast1243, west2838, sout3183, shif1234, west2813, ital1285,
+    roma1334, impe1234, lati1263, lati1262, lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: alapi
   id: 15.1
@@ -183,6 +208,7 @@
   etymology: al + -(a)pi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: alapi
   id: 15.2
@@ -192,6 +218,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: alapimeti
   id: 407
@@ -201,6 +228,7 @@
   etymology: alapi + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: alapitel
   id: 16
@@ -210,6 +238,7 @@
   etymology: alapi + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: alasu
   id: 10
@@ -219,6 +248,7 @@
   etymology: al + -(a)su
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aligi
   id: 11.1
@@ -228,6 +258,7 @@
   etymology: al + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aligi
   id: 11.2
@@ -237,6 +268,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aligitel
   id: 12
@@ -246,6 +278,7 @@
   etymology: aligi + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: alilo
   id: 480
@@ -255,6 +288,7 @@
   etymology: al + -(i)lo
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: alin
   id: 13
@@ -264,6 +298,7 @@
   etymology: Manchu ᠠᠯᡳᠨ (alin)
   etym_tags: 'manchu, tungusic'
   iso_code: 'mnc, tuw'
+  glottolog_code: 'manc1252, manc1251, manc1250, tung1282'
   etym_source: Wiktionary
 - lemma: alkik
   id: 14
@@ -273,6 +308,7 @@
   etymology: Tamazight ⴰⵍⵅⵉⵅ (alkik)
   etym_tags: 'central atlas tamazight, amazigh, afroasiatic'
   iso_code: 'tzm, ber, afa'
+  glottolog_code: 'cent2194, atla1275, kaby1244, berb1260, afro1255'
   etym_source: Wiktionary
 - lemma: alosti
   id: 291
@@ -282,6 +318,7 @@
   etymology: al + -(o)sti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: altan
   id: 17
@@ -291,6 +328,7 @@
   etymology: Buryat алтан (altan)
   etym_tags: 'buryat, mongolic'
   iso_code: 'bua, xgn'
+  glottolog_code: 'mong1330, buri1258, khal1273, oira1260, mong1329, mong1349'
   etym_source: Wiktionary
 - lemma: amal
   id: 18
@@ -300,6 +338,9 @@
   etymology: Romani amal
   etym_tags: 'romani, indo-aryan, indo-european'
   iso_code: 'rom, inc, ine'
+  glottolog_code: >-
+    vlax1238, roma1329, indo1322, shau1239, midl1245, cont1248, midd1375,
+    indo1321, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: aman
   id: 243.1
@@ -309,6 +350,7 @@
   etymology: Kabyle aman
   etym_tags: 'kabyle, amazigh, afroasiatic'
   iso_code: 'kab, ber, afa'
+  glottolog_code: 'kaby1243, kaby1244, berb1260, afro1255'
   etym_source: ''
 - lemma: aman
   id: 243.2
@@ -318,6 +360,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aman
   id: 243.3
@@ -327,6 +370,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aman
   id: 243.4
@@ -336,6 +380,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: amanatel
   id: 396
@@ -345,6 +390,7 @@
   etymology: aman + -(a)tel
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: amaninaki
   id: 483
@@ -354,6 +400,7 @@
   etymology: aman + inaki
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: amanulot
   id: 395
@@ -363,6 +410,7 @@
   etymology: aman + lot
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: amelika
   id: 19.1
@@ -374,6 +422,9 @@
   etymology: English America
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: amelika
   id: 19.2
@@ -383,6 +434,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: anis
   id: 570
@@ -392,6 +444,7 @@
   etymology: Khoekhoegowab anis
   etym_tags: 'khoekhoe, khoe'
   iso_code: naq
+  glottolog_code: 'nama1264, nort3245, khoe1242, khoe1241, khoe1240'
   etym_source: 'https://lexikhoe.com/#, Khoekhoegoawb Made Simple'
 - lemma: anta
   id: 20.1
@@ -401,6 +454,7 @@
   etymology: Finnish antaa
   etym_tags: 'finnish, finnic, uralic'
   iso_code: 'fin, urj'
+  glottolog_code: 'finn1318, nucl1717, nort3282, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: anta
   id: 20.2
@@ -410,6 +464,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: anta
   id: 20.3
@@ -419,6 +474,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: anta
   id: 20.4
@@ -428,6 +484,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: anto
   id: 527
@@ -437,6 +494,7 @@
   etymology: Tewa anto
   etym_tags: 'tewa, tanoan'
   iso_code: tew
+  glottolog_code: 'tewa1260, tewa1261, kiow1265'
   etym_source: Wiktionary
 - lemma: anu
   id: 21
@@ -446,6 +504,7 @@
   etymology: Koryak ынну (ʔənnu)
   etym_tags: 'koryak, chukotkan, chukotko-kamchatkan'
   iso_code: kpy
+  glottolog_code: 'kory1246, jkor1234, rkor1234, chuk1272, chuk1271'
   etym_source: Wiktionary (page ынныын)
 - lemma: anyan
   id: 478.1
@@ -455,6 +514,9 @@
   etymology: Welsh anian
   etym_tags: 'welsh, celtic, indo-european'
   iso_code: 'cym, cel, ine'
+  glottolog_code: >-
+    wels1247, oldm1247, bryt1239, insu1254, tgbc1234, nucl1715, celt1248,
+    clas1257, indo1319
   etym_source: Wiktionary
 - lemma: anyan
   id: 478.2
@@ -464,6 +526,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: anyanalin
   id: 479
@@ -473,6 +536,7 @@
   etymology: anyan + -(a)lin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-(a)pi'
   id: 276
@@ -482,6 +546,9 @@
   etymology: 'Burmese ဖြစ် (hprac, hpyit), influenced by Esperanto -iĝi'
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
   iso_code: 'mya, tbq, sit'
+  glottolog_code: >-
+    nucl1310, nucl1811, mran1234, sout3159, burm1266, lolo1265, burm1265,
+    sino1245
   etym_source: Wiktionary
 - lemma: '-(a)s'
   id: 295
@@ -491,6 +558,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: asak
   id: 22
@@ -500,6 +568,7 @@
   etymology: Western Yugur azaq
   etym_tags: 'western yugur, turkic'
   iso_code: 'ybe, trk'
+  glottolog_code: 'west2402, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: asakulot
   id: 394
@@ -509,6 +578,7 @@
   etymology: asak + lot
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: asan
   id: 23
@@ -518,6 +588,9 @@
   etymology: Persian آسان (âsân)
   etym_tags: 'persian, iranian, indo-european'
   iso_code: 'pes, fas, ira, ine'
+  glottolog_code: >-
+    west2369, fars1255, fars1254, mode1259, midd1352, sout3157, iran1269,
+    iran1271, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: '-(a)su'
   id: 24
@@ -527,6 +600,7 @@
   etymology: asu
   etym_tags: affixation
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: asu
   id: 25.1
@@ -536,6 +610,9 @@
   etymology: Burmese အစု (a.cu.)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
   iso_code: 'mya, tbq, sit'
+  glottolog_code: >-
+    nucl1310, nucl1811, mran1234, sout3159, burm1266, lolo1265, burm1265,
+    sino1245
   etym_source: Wiktionary
 - lemma: asu
   id: 25.2
@@ -545,6 +622,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: asu
   id: 25.3
@@ -556,15 +634,17 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: asusti
   id: 463
   pos: noun
-  en_definition: 'cameraderie, cohesion, culture (e.g. a work culture)'
+  en_definition: 'camaraderie, cohesion, culture (e.g. a work culture)'
   en_notes: ''
   etymology: asu + -(o)sti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: at
   id: 26.1
@@ -574,6 +654,7 @@
   etymology: Korean -었- (-eot-)
   etym_tags: 'korean, koreanic'
   iso_code: kor
+  glottolog_code: 'kore1280, kore1284'
   etym_source: Wiktionary
 - lemma: at
   id: 26.2
@@ -583,6 +664,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ataf
   id: 27.1
@@ -592,6 +674,9 @@
   etymology: Hebrew עטף (ataf)
   etym_tags: 'hebrew, semitic, afroasiatic'
   iso_code: 'heb, sem, afa'
+  glottolog_code: >-
+    hebr1245, hebr1246, cana1267, nort3165, cent2236, west2786, semi1276,
+    afro1255
   etym_source: Wiktionary
 - lemma: ataf
   id: 27.2
@@ -601,6 +686,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-(a)tel'
   id: 335
@@ -610,6 +696,7 @@
   etymology: Ukrainian -тель (-tel')
   etym_tags: 'ukrainian, slavic, indo-european'
   iso_code: 'ukr, sla, ine'
+  glottolog_code: 'ukra1253, ukra1257, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: atusi
   id: 499
@@ -619,6 +706,7 @@
   etymology: at + si
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: aweli
   id: 29.1
@@ -628,6 +716,7 @@
   etymology: Armenian ավելի (aveli)
   etym_tags: 'armenian, indo-european'
   iso_code: 'hye, ine'
+  glottolog_code: 'nucl1235, east2768, arme1241, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: aweli
   id: 29.2
@@ -637,6 +726,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: awelinimutapi
   id: 564
@@ -646,6 +736,7 @@
   etymology: aveli + imutapi
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: awelinimutigi
   id: 563
@@ -655,6 +746,7 @@
   etymology: aveli + imutigi
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: awelis
   id: 30.1
@@ -664,6 +756,7 @@
   etymology: aveli + -(a)s
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: awelis
   id: 30.2
@@ -673,6 +766,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-ay'
   id: 5
@@ -682,6 +776,7 @@
   etymology: '-(y)a'
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ay
   id: 6
@@ -691,6 +786,7 @@
   etymology: Turkish ay
   etym_tags: 'turkish, turkic'
   iso_code: 'tur, trk'
+  glottolog_code: 'nucl1301, west2406, nucl1769, oghu1243, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: ay
   id: 451
@@ -700,6 +796,7 @@
   etymology: '-ay'
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ba
   id: 436
@@ -709,6 +806,9 @@
   etymology: English bar
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: badincan
   id: 531
@@ -718,6 +818,9 @@
   etymology: Persian بادنجان (bādinjān)
   etym_tags: 'persian, iranian, indo-european'
   iso_code: 'pes, fas, ira, ine'
+  glottolog_code: >-
+    west2369, fars1255, fars1254, mode1259, midd1352, sout3157, iran1269,
+    iran1271, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: balwa
   id: 32.1
@@ -727,6 +830,7 @@
   etymology: Northern Sami balva
   etym_tags: 'northern sami, sami, uralic'
   iso_code: 'sme, smi, urj'
+  glottolog_code: 'nort2671, cent2240, west2390, saam1281, ural1272'
   etym_source: Wiktionary
 - lemma: balwa
   id: 32.2
@@ -736,6 +840,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: balwa
   id: 32.3
@@ -745,6 +850,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: banana
   id: 271
@@ -754,6 +860,7 @@
   etymology: internationalism
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: banyak
   id: 33.1
@@ -763,6 +870,7 @@
   etymology: Indonesian banyak
   etym_tags: 'indonesian, malayo-polynesian, austronesian'
   iso_code: 'ind, poz, map'
+  glottolog_code: 'indo1316, stan1327, nucl1806, mala1538, mala1554, mala1545, aust1307'
   etym_source: Wiktionary
 - lemma: banyak
   id: 33.2
@@ -772,6 +880,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: basa
   id: 34
@@ -781,6 +890,7 @@
   etymology: Sanskrit भाषा (bhāṣā) and descendants
   etym_tags: 'sanskrit, indo-aryan, indo-european'
   iso_code: 'san, inc, ine'
+  glottolog_code: 'sans1269, indo1321, indo1320, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: basalin
   id: 474
@@ -790,6 +900,7 @@
   etymology: basa + -(a)lin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: basalo
   id: 35
@@ -799,6 +910,7 @@
   etymology: basa + -(i)lo
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: basapanga
   id: 510
@@ -808,6 +920,7 @@
   etymology: basa + panga
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: batal
   id: 485
@@ -817,6 +930,9 @@
   etymology: English bottle
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: bel
   id: 38
@@ -826,6 +942,7 @@
   etymology: Jeju 벨 (bel)
   etym_tags: 'jeju, koreanic'
   iso_code: jje
+  glottolog_code: 'jeju1234, kore1284'
   etym_source: Wiktionary
 - lemma: bes
   id: 491.1
@@ -837,6 +954,7 @@
     from basa
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: bes
   id: 491.2
@@ -846,6 +964,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: biki
   id: 573
@@ -855,6 +974,9 @@
   etymology: Guaraní mbyky
   etym_tags: 'guarani, tupi-guarani, tupian'
   iso_code: 'grn, tup'
+  glottolog_code: >-
+    para1311, para1319, tupi1282, tupi1277, sout3271, tupi1276, awet1245,
+    mawe1252, east2909, tupi1275
   etym_source: 'Wiktionary, Avañe''ẽ del Taragui'
 - lemma: bilu
   id: 36
@@ -866,6 +988,9 @@
   etymology: Kannada ಬೀಳು (bīḷu)
   etym_tags: 'kannada, south dravidian, dravidian'
   iso_code: 'kan, dra'
+  glottolog_code: >-
+    nucl1305, kann1255, kann1259, bada1263, tami1291, sout3138, sout3133,
+    drav1251
   etym_source: Wiktionary
 - lemma: bilupuka
   id: 37
@@ -877,6 +1002,7 @@
   etymology: bilu + puka
   etym_tags: 'compound, lexical compound, calque'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: bo
   id: 39.1
@@ -886,6 +1012,7 @@
   etymology: Vietnamese bó
   etym_tags: 'vietnamese, vietic, austroasiatic'
   iso_code: 'vie, aav'
+  glottolog_code: 'viet1252, viet1251, viet1250, aust1305'
   etym_source: Wiktionary
 - lemma: bo
   id: 39.2
@@ -895,6 +1022,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: bol
   id: 40
@@ -904,6 +1032,9 @@
   etymology: English bowl
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: bombom
   id: 57
@@ -913,6 +1044,10 @@
   etymology: French bonbon
   etym_tags: 'french, romance, indo-european'
   iso_code: 'fra, roe, ine'
+  glottolog_code: >-
+    stan1290, glob1239, macr1273, cent2283, oila1234, gall1280, nort3208,
+    shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
+    lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: bubus
   id: 511
@@ -922,6 +1057,9 @@
   etymology: Darija بُبّوش (bʷbbuc)
   etym_tags: 'darija, arabic, semitic, afroasiatic'
   iso_code: 'ary, ara, sem, afa'
+  glottolog_code: >-
+    moro1292, magh1239, west3017, nort3191, arab1395, arab1394, cent2236,
+    west2786, semi1276, afro1255
   etym_source: Native speaker
 - lemma: bulito
   id: 532
@@ -931,6 +1069,9 @@
   etymology: Spanish burrito
   etym_tags: 'spanish, romance, indo-european'
   iso_code: 'spa, roe, ine'
+  glottolog_code: >-
+    stan1288, cast1243, west2838, sout3183, shif1234, west2813, ital1285,
+    roma1334, impe1234, lati1263, lati1262, lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: bumi
   id: 41
@@ -940,6 +1081,9 @@
   etymology: Hindi भूमि (bhūmi)
   etym_tags: 'hindi, indo-aryan, indo-european'
   iso_code: 'hin, inc, ine'
+  glottolog_code: >-
+    hind1269, hind1270, west2812, indo1322, shau1239, midl1245, cont1248,
+    midd1375, indo1321, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: bus
   id: 385
@@ -949,6 +1093,9 @@
   etymology: English bus
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: ca
   id: 497
@@ -958,6 +1105,7 @@
   etymology: Mandarin 茶 (chá)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
   iso_code: 'cmn, zhx, sit'
+  glottolog_code: 'mand1415, mand1471, nort2155, midd1354, clas1255, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: caket
   id: 358
@@ -967,6 +1115,9 @@
   etymology: English jacket
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: camal
   id: 359
@@ -976,6 +1127,7 @@
   etymology: Arabic جمل (jamal)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: can
   id: 360.1
@@ -985,6 +1137,7 @@
   etymology: Mandarin 震 (zhèn)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
   iso_code: 'cmn, zhx, sit'
+  glottolog_code: 'mand1415, mand1471, nort2155, midd1354, clas1255, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: can
   id: 360.2
@@ -994,6 +1147,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ceba
   id: 266
@@ -1003,6 +1157,7 @@
   etymology: Georgian ჯდება (ǯdeba)
   etym_tags: 'georgian, kartvelian'
   iso_code: 'kat, ccs'
+  glottolog_code: 'nucl1302, geor1253, geor1252, kart1248'
   etym_source: Wiktionary
 - lemma: cek
   id: 626
@@ -1012,7 +1167,18 @@
   etymology: Mongolian цэг (ceg)
   etym_tags: 'mongolian, mongolic'
   iso_code: 'mon, xgn'
+  glottolog_code: 'mong1331, khal1273, oira1260, mong1329, mong1349'
   etym_source: ''
+- lemma: ciluk
+  id: 631
+  pos: noun
+  en_definition: 'corn, maize'
+  en_notes: ''
+  etymology: 'Hlai cɨ.2 lu:k.9'
+  etym_tags: 'hlai, kra-dai'
+  iso_code: lic
+  glottolog_code: 'hlai1239, nucl1241, hlai1238, taik1256'
+  etym_source: 'https://ids.clld.org/valuesets/8-470-421'
 - lemma: citi
   id: 265
   pos: noun
@@ -1020,7 +1186,10 @@
   en_notes: ''
   etymology: Odia ଚିଠି (ciṭhi)
   etym_tags: 'odia, indo-aryan, indo-european'
-  iso_code: 'ori, inc, ine'
+  iso_code: 'ory, inc, ine'
+  glottolog_code: >-
+    oriy1255, macr1269, oriy1254, indo1323, cont1248, midd1375, indo1321,
+    indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: cokolat
   id: 528
@@ -1030,6 +1199,7 @@
   etymology: Nahuatl chocolātl
   etym_tags: 'nahuatl, southern uto-aztecan, uto-aztecan'
   iso_code: 'nhe, azc'
+  glottolog_code: 'east2538, huas1257, east2720, azte1234, cora1261, sout3136, utoa1244'
   etym_source: Wiktionary
 - lemma: con
   id: 362.1
@@ -1039,6 +1209,7 @@
   etymology: Mandarin 冲 (chōng)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
   iso_code: 'cmn, zhx, sit'
+  glottolog_code: 'mand1415, mand1471, nort2155, midd1354, clas1255, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: con
   id: 362.2
@@ -1048,6 +1219,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: con
   id: 362.3
@@ -1057,6 +1229,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: cos
   id: 366.1
@@ -1066,6 +1239,7 @@
   etymology: Navajo chʼosh
   etym_tags: 'navajo, southern dené, dené, na-dené'
   iso_code: 'nav, apa, ath, xnd'
+  glottolog_code: 'nava1243, west2810, sout3151, apac1239, atha1247, atha1246, atha1245'
   etym_source: Wiktionary
 - lemma: cos
   id: 366.2
@@ -1075,17 +1249,17 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: cu
   id: 569
   pos: particle
-  en_definition: >-
-    Sentence-final particle implying the speaker expects the listener to agree,
-    forms polar questions, yes-no questions; innit?, right?
+  en_definition: Sentence-final particle for forming yes-no (polar) questions
   en_notes: ''
   etymology: 'Quechua -chu, coincidentally similar to Esperanto ĉu'
   etym_tags: 'quechua, isolate'
   iso_code: que
+  glottolog_code: 'ayac1239, ayac1238, quec1389, quec1387'
   etym_source: '(PDF) A typology of question marking in Quechuan, Wiktionary'
 - lemma: da
   id: 42
@@ -1095,6 +1269,7 @@
   etymology: Telugu డా (ḍā)
   etym_tags: 'telugu, south dravidian, dravidian'
   iso_code: 'tel, dra'
+  glottolog_code: 'telu1262, telu1265, sout3139, sout3133, drav1251'
   etym_source: Wiktionary
 - lemma: dagal
   id: 577
@@ -1104,6 +1279,7 @@
   etymology: Haida dáagal
   etym_tags: 'haida, isolate'
   iso_code: hai
+  glottolog_code: haid1248
   etym_source: Dictionary of Alaskan Haida
 - lemma: dala
   id: 258.1
@@ -1115,6 +1291,7 @@
   etymology: Arabic دل (dalla)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: dala
   id: 258.2
@@ -1126,6 +1303,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dam
   id: 502.1
@@ -1135,6 +1313,7 @@
   etymology: Kazakh дәм (däm)
   etym_tags: 'kazakh, turkic'
   iso_code: 'kaz, trk'
+  glottolog_code: 'kaza1248, sout2701, sout3396, kipc1239, kipc1240, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: dam
   id: 502.2
@@ -1144,6 +1323,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dam
   id: 502.3
@@ -1153,6 +1333,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dan
   id: 43.1
@@ -1162,6 +1343,7 @@
   etymology: 'Vietnamese đánh, đấm, đá, đập'
   etym_tags: 'vietnamese, vietic, austroasiatic'
   iso_code: 'vie, aav'
+  glottolog_code: 'viet1252, viet1251, viet1250, aust1305'
   etym_source: Wiktionary
 - lemma: dan
   id: 43.2
@@ -1171,6 +1353,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dan
   id: 43.3
@@ -1180,6 +1363,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dan
   id: 43.4
@@ -1191,6 +1375,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dan
   id: 43.5
@@ -1200,6 +1385,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: da son
   id: 380
@@ -1209,6 +1395,7 @@
   etymology: da + son
   etym_tags: 'compound, collocation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: daynasa
   id: 367
@@ -1218,6 +1405,9 @@
   etymology: English dinosaur
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: defi
   id: 45.1
@@ -1227,6 +1417,10 @@
   etymology: French défi
   etym_tags: 'french, romance, indo-european'
   iso_code: 'fra, roe, ine'
+  glottolog_code: >-
+    stan1290, glob1239, macr1273, cent2283, oila1234, gall1280, nort3208,
+    shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
+    lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: defi
   id: 45.2
@@ -1236,6 +1430,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: deka
   id: 162
@@ -1245,6 +1440,7 @@
   etymology: SI Prefix deca-
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: destul
   id: 379.1
@@ -1254,6 +1450,9 @@
   etymology: Romanian destul
   etym_tags: 'romanian, romance, indo-european'
   iso_code: 'ron, roe, ine'
+  glottolog_code: >-
+    roma1327, east2865, nort3361, east2714, roma1334, impe1234, lati1263,
+    lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: destul
   id: 379.2
@@ -1263,6 +1462,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: destul
   id: 379.3
@@ -1272,6 +1472,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: din
   id: 46
@@ -1281,6 +1482,9 @@
   etymology: Thai ดิน (din)
   etym_tags: 'thai, southwestern thai, kra-dai'
   iso_code: 'tha, tai'
+  glottolog_code: >-
+    thai1261, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
+    daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: dinele
   id: 59
@@ -1290,6 +1494,7 @@
   etymology: din + ele
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dolna
   id: 518
@@ -1299,6 +1504,9 @@
   etymology: Urdu دوڑنا (dauṛnā)
   etym_tags: 'urdu, indo-aryan, indo-european'
   iso_code: 'urd, inc, ine'
+  glottolog_code: >-
+    urdu1245, hind1270, west2812, indo1322, shau1239, midl1245, cont1248,
+    midd1375, indo1321, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: dolo
   id: 47
@@ -1308,6 +1516,7 @@
   etymology: Manchu ᡩᠣᠯᠣ (dolo)
   etym_tags: 'manchu, tungusic'
   iso_code: 'mnc, tuw'
+  glottolog_code: 'manc1252, manc1251, manc1250, tung1282'
   etym_source: Wiktionary
 - lemma: dolokan
   id: 553
@@ -1317,7 +1526,18 @@
   etymology: dolo + kan
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
+- lemma: doni
+  id: 636
+  pos: noun
+  en_definition: lip; mouth
+  en_notes: ''
+  etymology: Tsafiki ˀdo'ni
+  etym_tags: 'tsafiki, barbacoan'
+  iso_code: cof
+  glottolog_code: 'colo1256, caya1244, awas1234, barb1265'
+  etym_source: 'https://ids.clld.org/valuesets/4-250-246'
 - lemma: doska
   id: 50
   pos: noun
@@ -1326,6 +1546,7 @@
   etymology: Slovak doska
   etym_tags: 'slovak, slavic, indo-european'
   iso_code: 'slk, sla, ine'
+  glottolog_code: 'slov1269, czec1260, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: doskapatal
   id: 51
@@ -1335,6 +1556,7 @@
   etymology: doska + patal
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dostep
   id: 52.1
@@ -1344,6 +1566,9 @@
   etymology: Polish dostęp
   etym_tags: 'polish, slavic, indo-european'
   iso_code: 'pol, sla, ine'
+  glottolog_code: >-
+    poli1260, poli1262, lech1241, west2792, slav1255, balt1263, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: dostep
   id: 52.2
@@ -1353,6 +1578,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dostep
   id: 52.3
@@ -1362,6 +1588,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dul
   id: 514.1
@@ -1371,6 +1598,9 @@
   etymology: Darija ضوڔ (ḍur)
   etym_tags: 'darija, arabic, semitic, afroasiatic'
   iso_code: 'ary, ara, sem, afa'
+  glottolog_code: >-
+    moro1292, magh1239, west3017, nort3191, arab1395, arab1394, cent2236,
+    west2786, semi1276, afro1255
   etym_source: Native speaker
 - lemma: dul
   id: 514.2
@@ -1380,6 +1610,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: dulum
   id: 53.1
@@ -1389,6 +1620,9 @@
   etymology: Hiligaynon dulum
   etym_tags: 'hiligaynon, malayo-polynesian, austronesian'
   iso_code: 'hil, poz, map'
+  glottolog_code: >-
+    hili1240, capi1240, peri1261, cent2263, bisa1268, cent2246, grea1284,
+    mala1545, aust1307
   etym_source: Wiktionary
 - lemma: dulum
   id: 53.2
@@ -1398,6 +1632,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: e
   id: 73
@@ -1407,6 +1642,7 @@
   etymology: Toki Pona e
   etym_tags: 'toki pona, conlangs'
   iso_code: 'tok, art'
+  glottolog_code: 'toki1239, arti1236'
   etym_source: Wiktionary
 - lemma: ega
   id: 54.1
@@ -1416,6 +1652,9 @@
   etymology: German Ärger
   etym_tags: 'german, germanic, indo-european'
   iso_code: 'deu, gem, ine'
+  glottolog_code: >-
+    stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: ega
   id: 54.2
@@ -1425,6 +1664,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ega
   id: 54.3
@@ -1434,6 +1674,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ek
   id: 55
@@ -1443,6 +1684,9 @@
   etymology: Swedish ek
   etym_tags: 'swedish, germanic, indo-european'
   iso_code: 'swe, gem, ine'
+  glottolog_code: >-
+    swed1254, east2781, east2780, nort3266, nort3160, nort3152, germ1287,
+    clas1257, indo1319
   etym_source: Wiktionary
 - lemma: eksa
   id: 311
@@ -1452,6 +1696,7 @@
   etymology: SI Prefix exa-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: '-el'
   id: 56
@@ -1461,6 +1706,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: el
   id: 450
@@ -1470,6 +1716,7 @@
   etymology: '-el'
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ele
   id: 58
@@ -1479,6 +1726,9 @@
   etymology: Kannada ಎಲೆ (ele)
   etym_tags: 'kannada, south dravidian, dravidian'
   iso_code: 'kan, dra'
+  glottolog_code: >-
+    nucl1305, kann1255, kann1259, bada1263, tami1291, sout3138, sout3133,
+    drav1251
   etym_source: Wiktionary
 - lemma: enyum
   id: 576
@@ -1488,6 +1738,7 @@
   etymology: Mapudungun eñum
   etym_tags: 'mapudungun, isolate'
   iso_code: arn
+  glottolog_code: 'mapu1245, arau1255'
   etym_source: Wiktionary
 - lemma: esa
   id: 61.1
@@ -1497,6 +1748,9 @@
   etymology: German essen
   etym_tags: 'german, germanic, indo-european'
   iso_code: 'deu, gem, ine'
+  glottolog_code: >-
+    stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: esa
   id: 61.2
@@ -1506,6 +1760,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: esafas
   id: 537
@@ -1515,6 +1770,7 @@
   etymology: esa + fas
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: esafasukuti
   id: 538
@@ -1524,6 +1780,7 @@
   etymology: esafas + kuti
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: esagi
   id: 62
@@ -1533,6 +1790,7 @@
   etymology: esa + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: esameti
   id: 412
@@ -1542,6 +1800,7 @@
   etymology: esa + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: eski
   id: 63
@@ -1551,6 +1810,7 @@
   etymology: Kyrgyz эски (eski)
   etym_tags: 'kyrgyz, turkic'
   iso_code: 'kir, trk'
+  glottolog_code: 'kirg1245, east2791, sout3396, kipc1239, kipc1240, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: eto
   id: 31
@@ -1560,6 +1820,7 @@
   etymology: SI Prefix hecto-
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: ewo
   id: 416.1
@@ -1569,6 +1830,7 @@
   etymology: Nupe ewó
   etym_tags: 'nupe, nupoid, volta-niger, atlantic-congo'
   iso_code: 'nup, alv'
+  glottolog_code: 'nupe1254, nupo1239, nupe1252, ebir1244, benu1247, volt1241, atla1278'
   etym_source: Wiktionary
 - lemma: ewo
   id: 416.2
@@ -1580,6 +1842,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ewo
   id: 416.3
@@ -1589,6 +1852,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ewokan
   id: 417
@@ -1598,6 +1862,7 @@
   etymology: evo + kan
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ewokanatel
   id: 418
@@ -1607,6 +1872,7 @@
   etymology: evokan + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ewometi
   id: 419
@@ -1616,6 +1882,7 @@
   etymology: evo + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fan
   id: 526
@@ -1625,6 +1892,9 @@
   etymology: English fan
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: fas
   id: 64.1
@@ -1634,6 +1904,10 @@
   etymology: Portuguese fazer
   etym_tags: 'portuguese, romance, indo-european'
   iso_code: 'por, roe, ine'
+  glottolog_code: >-
+    port1283, braz1247, macr1272, gali1263, west2838, sout3183, shif1234,
+    west2813, ital1285, roma1334, impe1234, lati1263, lati1262, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: fas
   id: 64.2
@@ -1643,6 +1917,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fas
   id: 64.3
@@ -1652,6 +1927,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fasatel
   id: 66
@@ -1661,6 +1937,7 @@
   etymology: fas + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fasono
   id: 65.1
@@ -1670,6 +1947,7 @@
   etymology: fas + ono
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fasono
   id: 65.2
@@ -1679,6 +1957,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fasono
   id: 65.3
@@ -1688,6 +1967,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fasono la nasolo
   id: 143
@@ -1697,6 +1977,7 @@
   etymology: fasono + nasolo
   etym_tags: 'collocation, compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fasubasa
   id: 198.1
@@ -1706,6 +1987,7 @@
   etymology: fas + basa
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fasubasa
   id: 198.2
@@ -1715,6 +1997,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fo
   id: 571
@@ -1724,6 +2007,9 @@
   etymology: Malagasy fo
   etym_tags: 'malagasy, malayo-polynesian, austronesian'
   iso_code: 'mlg, poz, map'
+  glottolog_code: >-
+    plat1254, cent2382, nort3196, mala1537, sout2919, grea1283, basa1291,
+    mala1545, aust1307
   etym_source: 'Wiktionary, malagasyword'
 - lemma: fok
   id: 67.1
@@ -1733,6 +2019,7 @@
   etymology: Hungarian fog
   etym_tags: 'hungarian, ugric, uralic'
   iso_code: 'hun, urj'
+  glottolog_code: 'hung1274, hung1287, ural1272,'
   etym_source: Wiktionary
 - lemma: fok
   id: 67.2
@@ -1742,6 +2029,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fok
   id: 67.3
@@ -1751,6 +2039,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fon
   id: 589
@@ -1760,6 +2049,9 @@
   etymology: English phone
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
 - lemma: fu
   id: 68.1
@@ -1769,6 +2061,7 @@
   etymology: onomatopoeic
   etym_tags: 'onomatopoeia, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: fu
   id: 68.2
@@ -1778,6 +2071,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ga
   id: 69
@@ -1792,6 +2086,7 @@
   etymology: Tày cạ
   etym_tags: 'tày, central tai, kra-dai'
   iso_code: 'tyz, tai'
+  glottolog_code: 'tayy1238, wenm1239, cent2251, daic1237, daic1238, kamt1241, taik1256'
   etym_source: Wiktionary
 - lemma: gaca
   id: 74
@@ -1799,8 +2094,11 @@
   en_definition: 'hyena, aardwolf'
   en_notes: ''
   etymology: Gurage gäčä
-  etym_tags: 'gurage, semitic, afroasiatic'
+  etym_tags: 'soddo, semitic, afroasiatic'
   iso_code: 'gru, sem, afa'
+  glottolog_code: >-
+    kist1241, ngro1237, oute1258, sout3078, ethi1244, west2786, semi1276,
+    afro1255
   etym_source: 'https://archive.org/details/etymologicaldict0002lesl/page/328'
 - lemma: galam
   id: 593
@@ -1810,6 +2108,9 @@
   etymology: English gram
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
 - lemma: gas
   id: 397
@@ -1819,6 +2120,9 @@
   etymology: English gas
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: gat
   id: 70
@@ -1828,6 +2132,7 @@
   etymology: Vietnamese gạch
   etym_tags: 'vietnamese, vietic, austroasiatic'
   iso_code: 'vie, aav'
+  glottolog_code: 'viet1252, viet1251, viet1250, aust1305'
   etym_source: Wiktionary
 - lemma: gata
   id: 71
@@ -1837,6 +2142,7 @@
   etymology: Cherokee ᎦᏔ (gata)
   etym_tags: 'cherokee, iroquoian'
   iso_code: 'chr, iro'
+  glottolog_code: 'cher1273, iroq1247'
   etym_source: Wiktionary
 - lemma: gatagi
   id: 72
@@ -1846,6 +2152,7 @@
   etymology: gata + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: gia
   id: 76
@@ -1855,6 +2162,7 @@
   etymology: Georgian ღია (ɣia)
   etym_tags: 'georgian, kartvelian'
   iso_code: 'kat, ccs'
+  glottolog_code: 'nucl1302, geor1253, geor1252, kart1248'
   etym_source: Wiktionary
 - lemma: giagi
   id: 77
@@ -1864,6 +2172,7 @@
   etymology: gia + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: gida
   id: 78.1
@@ -1873,6 +2182,7 @@
   etymology: Hausa gida
   etym_tags: 'hausa, chadic, afroasiatic'
   iso_code: 'hau, cdc, afa'
+  glottolog_code: 'hasu1257, west2718, west2714, west2785, chad1250, afro1255'
   etym_source: Wiktionary
 - lemma: gida
   id: 78.2
@@ -1882,6 +2192,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: gidasu
   id: 235
@@ -1891,6 +2202,7 @@
   etymology: gida + -(a)su
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: giga
   id: 308
@@ -1900,7 +2212,20 @@
   etymology: SI Prefix giga-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
+- lemma: gok
+  id: 632
+  pos: 'verb, trans.'
+  en_definition: 'to bend, curve, crease, crook'
+  en_notes: ''
+  etymology: Wa gɔk.A
+  etym_tags: 'wa, palaungic, austroasiatic'
+  iso_code: 'wbm, aav'
+  glottolog_code: >-
+    nucl1290, waaa1245, wala1271, waic1245, east2331, pala1352, khas1273,
+    aust1305
+  etym_source: 'https://ids.clld.org/valuesets/9-140-807'
 - lemma: gugol
   id: 79
   pos: verb
@@ -1909,6 +2234,7 @@
   etymology: Hungarian guggol
   etym_tags: 'hungarian, ugric, uralic'
   iso_code: 'hun, urj'
+  glottolog_code: 'hung1274, hung1287, ural1272,'
   etym_source: Wiktionary
 - lemma: guguy
   id: 610
@@ -1918,6 +2244,7 @@
   etymology: Ritharrŋu djudjuy'yun
   etym_tags: 'ritharrngu, yolngu, pama-nyungan'
   iso_code: rit
+  glottolog_code: 'rita1239, sout3142, yuul1239, pama1250'
   etym_source: 'https://yolngudictionary.cdu.edu.au/'
 - lemma: i
   id: 615
@@ -1927,7 +2254,18 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
+- lemma: ibidap
+  id: 634
+  pos: noun
+  en_definition: 'beard, mustache, facial hair'
+  en_notes: ''
+  etymology: Mundurukú ibi-dap
+  etym_tags: 'munduruku, tupian'
+  iso_code: 'myu, tup'
+  glottolog_code: 'mund1330, mund1329, east2909, tupi1275'
+  etym_source: 'https://ids.clld.org/valuesets/4-142-287'
 - lemma: ibuma
   id: 370.1
   pos: 'verb, ambi.'
@@ -1936,6 +2274,7 @@
   etymology: Arrernte jibuma
   etym_tags: 'arrernte, aranic, pama-nyungan'
   iso_code: aer
+  glottolog_code: 'east2379, cent2403, aran1263, sout3384, aran1267, aran1266, pama1250'
   etym_source: Unknown
 - lemma: ibuma
   id: 370.2
@@ -1945,6 +2284,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ibuma
   id: 370.3
@@ -1954,6 +2294,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: iculu
   id: 498
@@ -1963,6 +2304,7 @@
   etymology: Kanakanavu ʔicúuru
   etym_tags: 'kanakanavu, tsouic, austronesian'
   iso_code: 'xnb, map'
+  glottolog_code: 'kana1286, kana1292, tsou1250, aust1307'
   etym_source: Austronesian Comparative Dictionary
 - lemma: idaman
   id: 80.1
@@ -1972,6 +2314,7 @@
   etymology: Tarifit idammen
   etym_tags: 'tarifit, amazigh, afroasiatic'
   iso_code: 'rif, ber, afa'
+  glottolog_code: 'tari1263, zena1250, grea1296, berb1260, afro1255'
   etym_source: Wiktionary
 - lemma: idaman
   id: 80.2
@@ -1981,6 +2324,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: idaman
   id: 80.3
@@ -1990,6 +2334,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: idaman
   id: 80.4
@@ -1999,6 +2344,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ide
   id: 517.1
@@ -2008,6 +2354,9 @@
   etymology: Polish idę
   etym_tags: 'polish, slavic, indo-european'
   iso_code: 'pol, sla, ine'
+  glottolog_code: >-
+    poli1260, poli1262, lech1241, west2792, slav1255, balt1263, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: ide
   id: 517.2
@@ -2017,6 +2366,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-idi'
   id: 81
@@ -2026,6 +2376,7 @@
   etymology: din
   etym_tags: 'basalo, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-(i)gi'
   id: 82
@@ -2037,6 +2388,7 @@
   etymology: Esperanto -igi
   etym_tags: 'esperanto, conlangs'
   iso_code: 'epo, art'
+  glottolog_code: 'espe1235, espe1236, arti1236'
   etym_source: Wiktionary
 - lemma: ik
   id: 84
@@ -2046,6 +2398,7 @@
   etymology: '-(n)ik'
   etym_tags: back-formation
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ikigi
   id: 542
@@ -2055,6 +2408,7 @@
   etymology: ik + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ikuyati
   id: 555.1
@@ -2064,6 +2418,7 @@
   etymology: ik + yati
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ikuyati
   id: 555.2
@@ -2073,7 +2428,18 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
+- lemma: il
+  id: 633
+  pos: noun
+  en_definition: body
+  en_notes: ''
+  etymology: Ghulfan il
+  etym_tags: 'ghulfan, hill nubian, nubian'
+  iso_code: 'ghl, nub'
+  glottolog_code: 'ghul1238, east2715, kord1246, cent2232, nubi1251'
+  etym_source: 'https://ids.clld.org/valuesets/4-110-318'
 - lemma: ila
   id: 294.1
   pos: verb
@@ -2082,6 +2448,7 @@
   etymology: Choctaw i̱la
   etym_tags: 'choctaw, muskogean'
   iso_code: cho
+  glottolog_code: 'choc1276, west2614, musk1252'
   etym_source: Choctaw Dictionary
 - lemma: ila
   id: 294.2
@@ -2091,6 +2458,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ila
   id: 294.3
@@ -2100,6 +2468,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ili
   id: 490
@@ -2109,6 +2478,9 @@
   etymology: Greek ύλη (íli)
   etym_tags: 'greek, indo-european'
   iso_code: 'ell, ine'
+  glottolog_code: >-
+    mode1248, nucl1783, mode1266, koin1234, cent2404, east2798, gree1276,
+    grae1234, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: ilo
   id: 100
@@ -2118,6 +2490,7 @@
   etymology: 'Esperanto -ilo, ilo'
   etym_tags: 'esperanto, conlangs'
   iso_code: 'epo, art'
+  glottolog_code: 'espe1235, espe1236, arti1236'
   etym_source: Wiktionary
 - lemma: '-(i)lo'
   id: 141
@@ -2127,6 +2500,7 @@
   etymology: lo
   etym_tags: 'basalo, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ilu
   id: 441.1
@@ -2136,6 +2510,7 @@
   etymology: Greenlandic illu
   etym_tags: 'greenlandic, inuit, eskaleut'
   iso_code: 'kal, esx'
+  glottolog_code: 'kala1399, gree1280, inui1246, eski1265, eski1264'
   etym_source: Wiktionary
 - lemma: ilu
   id: 441.2
@@ -2145,15 +2520,17 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: imut
   id: 85.1
   pos: 'verb, intr.'
   en_definition: to smile
   en_notes: ''
-  etymology: Indoesian imut
+  etymology: Indonesian imut
   etym_tags: 'indonesian, malayo-polynesian, austronesian'
   iso_code: 'ind, poz, map'
+  glottolog_code: 'indo1316, stan1327, nucl1806, mala1538, mala1554, mala1545, aust1307'
   etym_source: Wiktionary
 - lemma: imut
   id: 85.2
@@ -2163,6 +2540,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: imut
   id: 85.3
@@ -2174,6 +2552,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: imutanta
   id: 559.1
@@ -2183,6 +2562,7 @@
   etymology: imut + anta
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: imutanta
   id: 559.2
@@ -2192,6 +2572,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: imutigi
   id: 562
@@ -2201,6 +2582,7 @@
   etymology: imut + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: imut sin
   id: 200
@@ -2210,6 +2592,7 @@
   etymology: imut + sin
   etym_tags: collocation
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: imut til
   id: 201
@@ -2219,6 +2602,7 @@
   etymology: imut + til
   etym_tags: collocation
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: in
   id: 2
@@ -2228,6 +2612,7 @@
   etymology: Slovene in
   etym_tags: 'slovene, slavic, indo-european'
   iso_code: 'slv, sla, ine'
+  glottolog_code: 'slov1268, west2804, sout3147, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: ina
   id: 86.1
@@ -2237,6 +2622,9 @@
   etymology: Yoruba iná
   etym_tags: 'yoruba, volta-niger, atlantic-congo'
   iso_code: 'yor, alv'
+  glottolog_code: >-
+    yoru1245, nucl1747, sout3186, east2738, edea1234, edek1238, yoru1244,
+    defo1239, benu1247, volt1241, atla1278
   etym_source: Wiktionary
 - lemma: ina
   id: 86.2
@@ -2246,6 +2634,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ina
   id: 86.3
@@ -2255,6 +2644,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: inaki
   id: 166
@@ -2264,6 +2654,7 @@
   etymology: Oroch инаки (inaki)
   etym_tags: 'oroch, tungusic'
   iso_code: 'oac, tuw'
+  glottolog_code: 'oroc1248, oroc1249, cent2235, nort3417, tung1282'
   etym_source: Wiktionary
 - lemma: inci
   id: 594
@@ -2273,6 +2664,9 @@
   etymology: English inch
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
 - lemma: ine
   id: 157
@@ -2282,6 +2676,7 @@
   etymology: Ainu イネ (ine)
   etym_tags: 'ainu, isolates'
   iso_code: ain
+  glottolog_code: 'ainu1240, ainu1252'
   etym_source: Wiktionary
 - lemma: inetel
   id: 605
@@ -2291,7 +2686,18 @@
   etymology: ine + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
+- lemma: init
+  id: 637
+  pos: noun
+  en_definition: 'sweat, perspiration'
+  en_notes: ''
+  etymology: Mansaka init
+  etym_tags: 'mansaka, philippine, malayo-polynesian, austronesian'
+  iso_code: 'msk, phi, poz, map'
+  glottolog_code: 'mans1262, east2477, mans1261, cent2246, grea1284, mala1545, aust1307'
+  etym_source: Wiktionary
 - lemma: inkide
   id: 44.1
   pos: 'verb, trans.'
@@ -2300,6 +2706,9 @@
   etymology: Romanian închide
   etym_tags: 'romanian, romance, indo-european'
   iso_code: 'ron, roe, ine'
+  glottolog_code: >-
+    roma1327, east2865, nort3361, east2714, roma1334, impe1234, lati1263,
+    lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: inkide
   id: 44.2
@@ -2309,6 +2718,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: inkide
   id: 44.3
@@ -2318,6 +2728,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: inon
   id: 87
@@ -2327,6 +2738,7 @@
   etymology: Mohawk í꞉non
   etym_tags: 'mohawk, northern iroquois, iroquois'
   iso_code: 'moh, iro'
+  glottolog_code: 'moha1258, moha1257, iroq1249, grea1306, lake1264, nort2947, iroq1247'
   etym_source: Wiktionary
 - lemma: intanet
   id: 88.1
@@ -2336,6 +2748,9 @@
   etymology: English internet
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: intanet
   id: 88.2
@@ -2345,6 +2760,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: intanet
   id: 88.3
@@ -2354,6 +2770,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: iski
   id: 89
@@ -2363,6 +2780,7 @@
   etymology: Tamazight ⵉⵙⴽ (isk)
   etym_tags: 'central atlas tamazight, amazigh, afroasiatic'
   iso_code: 'tzm, ber, afa'
+  glottolog_code: 'cent2194, atla1275, kaby1244, berb1260, afro1255'
   etym_source: Wiktionary
 - lemma: iso
   id: 90.1
@@ -2372,6 +2790,9 @@
   etymology: Greek ίσο (íso)
   etym_tags: 'greek, indo-european'
   iso_code: 'ell, ine'
+  glottolog_code: >-
+    mode1248, nucl1783, mode1266, koin1234, cent2404, east2798, gree1276,
+    grae1234, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: iso
   id: 90.2
@@ -2381,6 +2802,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: iso
   id: 90.3
@@ -2390,6 +2812,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: iso
   id: 90.4
@@ -2399,6 +2822,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: iso
   id: 90.5
@@ -2410,6 +2834,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: iso
   id: 90.6
@@ -2419,6 +2844,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: isogi
   id: 93
@@ -2428,6 +2854,7 @@
   etymology: iso + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ista
   id: 91.1
@@ -2438,7 +2865,8 @@
   en_notes: ''
   etymology: Azerbaijani istəmək
   etym_tags: 'azerbaijani, turkic'
-  iso_code: 'aze, trk'
+  iso_code: 'azb, aze, trk'
+  glottolog_code: 'sout2697, azer1255, nucl1769, oghu1243, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: ista
   id: 91.2
@@ -2448,6 +2876,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ista
   id: 91.3
@@ -2457,6 +2886,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ista
   id: 91.4
@@ -2466,6 +2896,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ista
   id: 91.5
@@ -2475,6 +2906,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: istameti
   id: 414
@@ -2484,6 +2916,7 @@
   etymology: ista + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: istatilatel
   id: 620
@@ -2493,6 +2926,7 @@
   etymology: istatil + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: istatileti
   id: 415
@@ -2502,6 +2936,7 @@
   etymology: ista til + -(m)eti
   etym_tags: 'compound, derivation, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: k-
   id: 105
@@ -2511,6 +2946,7 @@
   etymology: ki
   etym_tags: 'basalo, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kados
   id: 505.1
@@ -2520,6 +2956,9 @@
   etymology: Hebrew קדוש (kadósh)
   etym_tags: 'hebrew, semitic, afroasiatic'
   iso_code: 'heb, sem, afa'
+  glottolog_code: >-
+    hebr1245, hebr1246, cana1267, nort3165, cent2236, west2786, semi1276,
+    afro1255
   etym_source: Wiktionary
 - lemma: kados
   id: 505.2
@@ -2529,6 +2968,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kaf
   id: 109
@@ -2538,6 +2978,7 @@
   etymology: Wolof këf
   etym_tags: 'wolof, west atlantic, atlantic-congo'
   iso_code: 'wol, alv'
+  glottolog_code: 'nucl1347, wolo1247, wolo1248, nort3146, atla1278'
   etym_source: Wiktionary
 - lemma: kafe
   id: 384.1
@@ -2547,6 +2988,10 @@
   etymology: French café
   etym_tags: 'french, romance, indo-european'
   iso_code: 'fra, roe, ine'
+  glottolog_code: >-
+    stan1290, glob1239, macr1273, cent2283, oila1234, gall1280, nort3208,
+    shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
+    lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kafe
   id: 384.2
@@ -2556,6 +3001,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kaga
   id: 112
@@ -2567,6 +3013,7 @@
   etymology: k- + -aga
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kak
   id: 134.1
@@ -2578,6 +3025,7 @@
   etymology: O'odham ke꞉k "to stand"
   etym_tags: 'o''odham, tepiman, uto-aztecan'
   iso_code: 'ood, azc'
+  glottolog_code: 'toho1245, pima1249, tepi1240, sout3136, utoa1244'
   etym_source: Wiktionary
 - lemma: kak
   id: 134.2
@@ -2587,6 +3035,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kak
   id: 134.3
@@ -2596,6 +3045,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kak
   id: 134.4
@@ -2605,6 +3055,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kakapi
   id: 136
@@ -2614,6 +3065,7 @@
   etymology: kak + -(a)pi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kakigi
   id: 135
@@ -2623,6 +3075,7 @@
   etymology: kak + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kakoy
   id: 296
@@ -2632,6 +3085,7 @@
   etymology: 'Majang cá:kòj'
   etym_tags: 'majang, surmic, eastern sudanic'
   iso_code: mpe
+  glottolog_code: 'maja1242, surm1244'
   etym_source: 'The Majang Language (Joswig, A. 2019)'
 - lemma: kalap
   id: 435
@@ -2641,6 +3095,9 @@
   etymology: English club
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kalman
   id: 467
@@ -2650,6 +3107,7 @@
   etymology: Manchu ᡥᡝᠯᠮᡝᠨ (helmen)
   etym_tags: 'manchu, tungusic'
   iso_code: 'mnc, tuw'
+  glottolog_code: 'manc1252, manc1251, manc1250, tung1282'
   etym_source: ''
 - lemma: kam
   id: 137.1
@@ -2659,6 +3117,7 @@
   etymology: Khmer កាំ (kam)
   etym_tags: 'khmer, austroasiatic'
   iso_code: 'khm, aav'
+  glottolog_code: 'cent1989, khme1253, aust1305'
   etym_source: Wiktionary
 - lemma: kam
   id: 137.2
@@ -2668,6 +3127,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kampa
   id: 382
@@ -2679,6 +3139,9 @@
   etymology: Pitjantjatjara kampa
   etym_tags: 'pitjantjatjara, western desert, wati, pama-nyungan'
   iso_code: pjt
+  glottolog_code: >-
+    pitj1243, tjar1234, wang1300, nucl1724, pint1254, wati1241, dese1234,
+    pama1250
   etym_source: Wiktionary
 - lemma: kan
   id: 138.1
@@ -2688,6 +3151,7 @@
   etymology: Khmer កាន់ (kan)
   etym_tags: 'khmer, austroasiatic'
   iso_code: 'khm, aav'
+  glottolog_code: 'cent1989, khme1253, aust1305'
   etym_source: Wiktionary
 - lemma: kan
   id: 138.2
@@ -2699,6 +3163,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kan
   id: 138.3
@@ -2708,6 +3173,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kan
   id: 138.4
@@ -2717,6 +3183,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kan
   id: 138.5
@@ -2728,6 +3195,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kanada
   id: 220
@@ -2737,6 +3205,9 @@
   etymology: English Canada
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kanan
   id: 140
@@ -2745,7 +3216,8 @@
   en_notes: ''
   etymology: Malay kanan
   etym_tags: 'malay, malayo-polynesian, austronesian'
-  iso_code: 'msa, poz, map'
+  iso_code: 'zsm, poz, map'
+  glottolog_code: 'stan1306, stan1327, nucl1806, mala1538, mala1554, mala1545, aust1307'
   etym_source: Wiktionary
 - lemma: kanan son
   id: 381
@@ -2755,6 +3227,7 @@
   etymology: kanan + son
   etym_tags: 'compound, collocation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kanigi
   id: 99
@@ -2764,6 +3237,7 @@
   etymology: kan + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kanu
   id: 151
@@ -2773,6 +3247,7 @@
   etymology: Ingrian kanu
   etym_tags: 'ingrian, finnic, uralic'
   iso_code: 'izh, urj'
+  glottolog_code: 'ingr1248, lado1234, nort3282, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: kanuyon
   id: 401.1
@@ -2782,6 +3257,7 @@
   etymology: 'kanu + yon, calque of Thai หุ่นยนต์ (hùn-yon)'
   etym_tags: 'compound, lexical compound, calque'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kanuyon
   id: 401.2
@@ -2791,7 +3267,18 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
+- lemma: kap
+  id: 635
+  pos: 'verb, intr.'
+  en_definition: 'to jump, leap; to bounce'
+  en_notes: ''
+  etymology: Seri -kap
+  etym_tags: 'seri, isolates'
+  iso_code: sei
+  glottolog_code: seri1257
+  etym_source: 'https://ids.clld.org/valuesets/10-430-225'
 - lemma: kasi
   id: 525
   pos: noun
@@ -2800,6 +3287,7 @@
   etymology: Finnish käsi
   etym_tags: 'finnish, finnic, uralic'
   iso_code: 'fin, urj'
+  glottolog_code: 'finn1318, nucl1717, nort3282, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: kay
   id: 111
@@ -2811,7 +3299,18 @@
   etymology: k- + -ay
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
+- lemma: kayam
+  id: 630
+  pos: noun
+  en_definition: oil
+  en_notes: ''
+  etymology: Enlhet cayaam’
+  etym_tags: 'enlhet, mascoian'
+  iso_code: enl
+  glottolog_code: 'nort2971, leng1262, leng1261'
+  etym_source: 'https://spl.gov.py/recurso/Diccionario%20Enlhet/index-spanish/index.htm'
 - lemma: kel
   id: 110
   pos: correlative
@@ -2820,6 +3319,7 @@
   etymology: k- + -el
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kelit
   id: 152.1
@@ -2829,6 +3329,9 @@
   etymology: Persian کلید (kelid)
   etym_tags: 'persian, iranian, indo-european'
   iso_code: 'pes, fas, ira, ine'
+  glottolog_code: >-
+    west2369, fars1255, fars1254, mode1259, midd1352, sout3157, iran1269,
+    iran1271, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kelit
   id: 152.2
@@ -2838,6 +3341,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kelit
   id: 152.3
@@ -2847,6 +3351,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kempok
   id: 342
@@ -2856,6 +3361,9 @@
   etymology: Welsh crempog
   etym_tags: 'welsh, celtic, indo-european'
   iso_code: 'cym, cel, ine'
+  glottolog_code: >-
+    wels1247, oldm1247, bryt1239, insu1254, tgbc1234, nucl1715, celt1248,
+    clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kesek
   id: 153
@@ -2867,6 +3375,7 @@
   etymology: Kyrgyz кесек (kesek)
   etym_tags: 'kyrgyz, turkic'
   iso_code: 'kir, trk'
+  glottolog_code: 'kirg1245, east2791, sout3396, kipc1239, kipc1240, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: kesekigi
   id: 541
@@ -2876,6 +3385,7 @@
   etymology: kesek + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kesekugida
   id: 236
@@ -2885,6 +3395,7 @@
   etymology: kesek + gida
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kesti
   id: 163.1
@@ -2894,6 +3405,7 @@
   etymology: Hungarian kezdi
   etym_tags: 'hungarian, ugric, uralic'
   iso_code: 'hun, urj'
+  glottolog_code: 'hung1274, hung1287, ural1272,'
   etym_source: Wiktionary
 - lemma: kesti
   id: 163.2
@@ -2903,6 +3415,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kesti
   id: 163.3
@@ -2912,6 +3425,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ki
   id: 106.1
@@ -2921,6 +3435,7 @@
   etymology: Tillamook ki
   etym_tags: 'tillamook, coast salish, salishan'
   iso_code: 'til, sal'
+  glottolog_code: 'till1254, coas1325, sali1255'
   etym_source: 'https://lingpapers.sites.olt.ubc.ca/files/2018/03/1997_Kroeber.pdf'
 - lemma: ki
   id: 106.2
@@ -2930,6 +3445,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ki
   id: 106.3
@@ -2941,6 +3457,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ki
   id: 482.1
@@ -2950,6 +3467,7 @@
   etymology: Khmer ឈឺ (chɨɨ)
   etym_tags: 'khmer, austroasiatic'
   iso_code: 'khm, aav'
+  glottolog_code: 'cent1989, khme1253, aust1305'
   etym_source: Wiktionary
 - lemma: ki
   id: 482.2
@@ -2959,6 +3477,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ki
   id: 482.3
@@ -2968,6 +3487,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kiba
   id: 154.1
@@ -2979,6 +3499,9 @@
   etymology: Hebrew כיבה (kiba)
   etym_tags: 'hebrew, semitic, afroasiatic'
   iso_code: 'heb, sem, afa'
+  glottolog_code: >-
+    hebr1245, hebr1246, cana1267, nort3165, cent2236, west2786, semi1276,
+    afro1255
   etym_source: Wiktionary
 - lemma: kiba
   id: 154.2
@@ -2988,6 +3511,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kidi
   id: 115
@@ -2997,6 +3521,7 @@
   etymology: k- + -idi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kil
   id: 101
@@ -3006,6 +3531,7 @@
   etymology: Volapük kil
   etym_tags: 'volapük, constructed'
   iso_code: 'vol, art'
+  glottolog_code: 'vola1234, arti1236'
   etym_source: Wiktionary
 - lemma: kilo
   id: 28
@@ -3015,6 +3541,7 @@
   etymology: SI Prefix kilo-
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: kin
   id: 420.1
@@ -3024,6 +3551,9 @@
   etymology: Scottish Gaelic cinn
   etym_tags: 'scottish gaelic, celtic, indo-european'
   iso_code: 'gla, cel, ine'
+  glottolog_code: >-
+    scot1245, east2734, mode1265, goid1240, insu1254, tgbc1234, nucl1715,
+    celt1248, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kin
   id: 420.2
@@ -3035,6 +3565,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kin
   id: 420.3
@@ -3044,6 +3575,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kinatel
   id: 421
@@ -3053,6 +3585,7 @@
   etymology: 'kin + -(a)tel, disambiguation of kin'
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kisa
   id: 164.1
@@ -3062,6 +3595,9 @@
   etymology: Spanish quizá
   etym_tags: 'spanish, romance, indo-european'
   iso_code: 'spa, roe, ine'
+  glottolog_code: >-
+    stan1288, cast1243, west2838, sout3183, shif1234, west2813, ital1285,
+    roma1334, impe1234, lati1263, lati1262, lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kisa
   id: 164.2
@@ -3071,6 +3607,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kitap
   id: 165.1
@@ -3080,6 +3617,7 @@
   etymology: Arabic كتاب (kitāb)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: kitap
   id: 165.2
@@ -3089,6 +3627,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kitap
   id: 165.3
@@ -3098,6 +3637,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kitapatel
   id: 622
@@ -3107,6 +3647,7 @@
   etymology: kitap + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kitapeti
   id: 410
@@ -3116,6 +3657,7 @@
   etymology: kitap + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: koke
   id: 169
@@ -3125,6 +3667,7 @@
   etymology: Klamath-Modoc ɢoɢe
   etym_tags: 'klamath-modoc, plateau penutian'
   iso_code: kla
+  glottolog_code: klam1254
   etym_source: Wiktionary
 - lemma: kom
   id: 113
@@ -3136,6 +3679,7 @@
   etymology: k- + om
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: komputa
   id: 171
@@ -3145,6 +3689,9 @@
   etymology: English computer
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: konsol
   id: 172
@@ -3154,6 +3701,9 @@
   etymology: English console
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kosi
   id: 114
@@ -3163,6 +3713,7 @@
   etymology: k- + osi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kot
   id: 173
@@ -3172,16 +3723,8 @@
   etymology: Mongolian хот (xot)
   etym_tags: 'mongolian, mongolic'
   iso_code: 'mon, xgn'
+  glottolog_code: 'mong1331, khal1273, oira1260, mong1329, mong1349'
   etym_source: Wiktionary
-- lemma: kotini
-  id: 462.2
-  pos: adjective
-  en_definition: 'cultural, dependent on culture, subjective; social'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  etym_source: ''
 - lemma: kotinilin
   id: 471
   pos: noun
@@ -3190,6 +3733,7 @@
   etymology: kotini + -(a)lin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kotosti
   id: 462.1
@@ -3199,6 +3743,17 @@
   etymology: kot + -(o)sti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: kotosti
+  id: 462.2
+  pos: adjective
+  en_definition: 'cultural, dependent on culture, subjective; social'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: koy
   id: 167
@@ -3208,6 +3763,7 @@
   etymology: Vietnamese khối
   etym_tags: 'vietnamese, vietic, austroasiatic'
   iso_code: 'vie, aav'
+  glottolog_code: 'viet1252, viet1251, viet1250, aust1305'
   etym_source: Wiktionary
 - lemma: koyma
   id: 168.1
@@ -3217,6 +3773,9 @@
   etymology: Bashkir ҡойма (qojma)
   etym_tags: 'bashkir, turkic'
   iso_code: 'bak, trk'
+  glottolog_code: >-
+    bash1264, bash1267, nort2696, nort3424, kipc1239, kipc1240, comm1245,
+    turk1311
   etym_source: Wiktionary
 - lemma: koyma
   id: 168.2
@@ -3226,6 +3785,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kuas
   id: 174
@@ -3235,6 +3795,9 @@
   etymology: German Quarz
   etym_tags: 'german, germanic, indo-european'
   iso_code: 'deu, gem, ine'
+  glottolog_code: >-
+    stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kukanigi
   id: 139
@@ -3244,6 +3807,7 @@
   etymology: ku(l)- + kanigi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ku(l)-
   id: 599
@@ -3253,6 +3817,9 @@
   etymology: Irish cúl
   etym_tags: 'irish, celtic, indo-european'
   iso_code: 'gle, cel, ine'
+  glottolog_code: >-
+    iris1253, mode1265, goid1240, insu1254, tgbc1234, nucl1715, celt1248,
+    clas1257, indo1319
   etym_source: ''
 - lemma: kulal
   id: 602.1
@@ -3262,6 +3829,7 @@
   etymology: ku(l)- + al
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kulal
   id: 602.2
@@ -3271,6 +3839,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kulasu
   id: 376.1
@@ -3280,6 +3849,7 @@
   etymology: ku(l)- + asu
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kulasu
   id: 376.2
@@ -3289,6 +3859,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kulasu
   id: 376.3
@@ -3298,6 +3869,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kulubi
   id: 238
@@ -3307,6 +3879,9 @@
   etymology: Oromo qullubbii
   etym_tags: 'oromo, cushitic, afroasiatic'
   iso_code: 'orm, cus, afa'
+  glottolog_code: >-
+    west2721, nucl1736, nucl1701, main1283, sout3055, lowl1267, east2699,
+    cush1243, afro1255
   etym_source: Wiktionary
 - lemma: kulubinan
   id: 239
@@ -3316,6 +3891,7 @@
   etymology: kulubi + nan
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kumetigi
   id: 481
@@ -3325,6 +3901,7 @@
   etymology: ku(l)- + metigi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kumuwa
   id: 506.1
@@ -3334,6 +3911,9 @@
   etymology: Kirundi kwūmva
   etym_tags: 'kirundi, bantu, atlantic-congo'
   iso_code: 'run, bnt, alv'
+  glottolog_code: >-
+    rund1242, rund1244, rwan1241, kivu1239, west2842, grea1289, nort3203,
+    east2731, narr1281, sout3152, bant1294, benu1247, volt1241, atla1278
   etym_source: Wiktionary
 - lemma: kumuwa
   id: 506.2
@@ -3343,6 +3923,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kumuwa
   id: 507.3
@@ -3352,6 +3933,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kununa
   id: 170.1
@@ -3363,6 +3945,9 @@
   etymology: Romanian cunună
   etym_tags: 'romanian, romance, indo-european'
   iso_code: 'ron, roe, ine'
+  glottolog_code: >-
+    roma1327, east2865, nort3361, east2714, roma1334, impe1234, lati1263,
+    lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kununa
   id: 170.2
@@ -3372,6 +3957,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kus
   id: 178
@@ -3381,6 +3967,7 @@
   etymology: Yakut кыс (kïs)
   etym_tags: 'yakut, turkic'
   iso_code: 'sah, trk'
+  glottolog_code: 'yaku1245, nort2688, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: kuti
   id: 433.1
@@ -3390,6 +3977,9 @@
   etymology: Greek κουτί (koutí)
   etym_tags: 'greek, indo-european'
   iso_code: 'ell, ine'
+  glottolog_code: >-
+    mode1248, nucl1783, mode1266, koin1234, cent2404, east2798, gree1276,
+    grae1234, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: kuti
   id: 433.2
@@ -3401,6 +3991,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kuti
   id: 433.3
@@ -3410,6 +4001,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: kuweta
   id: 315
@@ -3419,6 +4011,7 @@
   etymology: SI Prefix quetta-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: l-
   id: 179
@@ -3428,6 +4021,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: la
   id: 293
@@ -3439,6 +4033,7 @@
   etymology: Äiwoo lä
   etym_tags: 'äiwoo, oceanic, malayo-polynesian, austronesian'
   iso_code: 'nfl, poz, map'
+  glottolog_code: 'ayiw1239, reef1242, temo1244, ocea1241, east2712, mala1545, aust1307'
   etym_source: Wiktionary
 - lemma: laca
   id: 75
@@ -3448,6 +4043,7 @@
   etymology: Sanskrit राजा (rājā)
   etym_tags: 'sanskrit, indo-aryan, indo-european'
   iso_code: 'san, inc, ine'
+  glottolog_code: 'sans1269, indo1321, indo1320, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: laca
   id: 508.1
@@ -3457,6 +4053,7 @@
   etymology: Sanskrit राजन् (rajah) and descendants
   etym_tags: 'sanskrit, indo-aryan, indo-european'
   iso_code: 'san, inc, ine'
+  glottolog_code: 'sans1269, indo1321, indo1320, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: laca
   id: 508.2
@@ -3466,6 +4063,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lacadin
   id: 146
@@ -3475,6 +4073,7 @@
   etymology: laca + din
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ladi
   id: 184.1
@@ -3484,6 +4083,7 @@
   etymology: Czech ladit
   etym_tags: 'czech, slavic, indo-european'
   iso_code: 'ces, sla, ine'
+  glottolog_code: 'czec1258, czec1260, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: ladi
   id: 184.2
@@ -3493,6 +4093,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ladio
   id: 590
@@ -3502,6 +4103,9 @@
   etymology: English radio
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
 - lemma: laga
   id: 118
@@ -3511,6 +4115,7 @@
   etymology: l- + -aga
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lagi
   id: 503
@@ -3520,6 +4125,7 @@
   etymology: Javanese ꦊꦒꦶ (legi)
   etym_tags: 'javanese, malayo-polynesian, austronesian'
   iso_code: 'jav, poz, map'
+  glottolog_code: 'java1254, glob1245, mode1251, java1253, mala1545, aust1307'
   etym_source: Wiktionary
 - lemma: lami
   id: 185.1
@@ -3529,6 +4135,7 @@
   etymology: Arabic لامع (lāmiʕ)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: lami
   id: 185.2
@@ -3538,6 +4145,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lami
   id: 185.3
@@ -3547,6 +4155,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lamiga
   id: 486.1
@@ -3556,6 +4165,7 @@
   etymology: lami + -(a)ga
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lamiga
   id: 486.2
@@ -3565,6 +4175,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lamigayan
   id: 487
@@ -3574,6 +4185,7 @@
   etymology: lamiga + yan
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lawa
   id: 187
@@ -3583,6 +4195,9 @@
   etymology: English lava
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: lay
   id: 117
@@ -3592,6 +4207,7 @@
   etymology: l- + -ay
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: le
   id: 189
@@ -3601,6 +4217,7 @@
   etymology: clipping of lel
   etym_tags: clipping
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lel
   id: 116
@@ -3610,6 +4227,7 @@
   etymology: l- + -el
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lema
   id: 391
@@ -3619,6 +4237,7 @@
   etymology: Finnish lehmä
   etym_tags: 'finnish, finnic, uralic'
   iso_code: 'fin, urj'
+  glottolog_code: 'finn1318, nucl1717, nort3282, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: les
   id: 443
@@ -3628,6 +4247,7 @@
   etymology: le + -(a)s
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lesa
   id: 449
@@ -3637,6 +4257,7 @@
   etymology: les + -(y)a
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: leto
   id: 98
@@ -3646,6 +4267,7 @@
   etymology: Slovene lẹ́to
   etym_tags: 'slovene, slavic, indo-european'
   iso_code: 'slv, sla, ine'
+  glottolog_code: 'slov1268, west2804, sout3147, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: leya
   id: 448
@@ -3655,6 +4277,7 @@
   etymology: le + -(y)a
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lidi
   id: 121
@@ -3664,6 +4287,7 @@
   etymology: l- + -idi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lik
   id: 202
@@ -3673,6 +4297,9 @@
   etymology: "Ahom \U0001170E\U00011722\U00011700\U0001172B (lik)"
   etym_tags: 'ahom, southwestern tai, kra-dai'
   iso_code: 'aho, tai'
+  glottolog_code: >-
+    ahom1240, assa1264, shan1276, sout2743, sout3184, sapa1255, wenm1239,
+    cent2251, daic1237, daic1238, kamt1241, taik1256
   etym_source: sealang.net
 - lemma: lil
   id: 175
@@ -3682,6 +4309,7 @@
   etymology: Estonian lill
   etym_tags: 'estonian, finnic, uralic'
   iso_code: 'est, urj'
+  glottolog_code: 'esto1258, cent2329, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: lip
   id: 284.1
@@ -3691,6 +4319,9 @@
   etymology: Walloon libe
   etym_tags: 'walloon, romance, indo-european'
   iso_code: 'wln, roe, ine'
+  glottolog_code: >-
+    wall1255, oila1234, gall1280, nort3208, shif1234, west2813, ital1285,
+    roma1334, impe1234, lati1263, lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: lip
   id: 284.2
@@ -3700,6 +4331,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lip
   id: 284.3
@@ -3709,6 +4341,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lip
   id: 284.4
@@ -3718,6 +4351,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lip
   id: 284.5
@@ -3727,6 +4361,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lip
   id: 284.6
@@ -3736,6 +4371,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lipapi
   id: 285.1
@@ -3745,6 +4381,7 @@
   etymology: lip + -(a)pi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lipapi
   id: 285.2
@@ -3754,6 +4391,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lipapi
   id: 285.3
@@ -3763,6 +4401,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: loke
   id: 495.1
@@ -3772,6 +4411,9 @@
   etymology: Hawaiian loke
   etym_tags: 'hawaiian, oceanic, malayo-polynesian, austronesian'
   iso_code: 'haw, poz, map'
+  glottolog_code: >-
+    hawa1245, east2896, east2449, cent2298, solo1260, nort3246, nucl1485,
+    poly1242, east2445, cent2060, ocea1241, east2712, mala1545, aust1307
   etym_source: Wiktionary
 - lemma: loke
   id: 495.2
@@ -3781,6 +4423,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lolin
   id: 475
@@ -3790,6 +4433,7 @@
   etymology: lo + -(a)lin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lom
   id: 119
@@ -3799,6 +4443,7 @@
   etymology: l- + om
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lom
   id: 191.1
@@ -3808,6 +4453,9 @@
   etymology: Thai ลม (lom)
   etym_tags: 'thai, southwestern tai, kra-dai'
   iso_code: 'tha, tai'
+  glottolog_code: >-
+    thai1261, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
+    daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: lom
   id: 191.2
@@ -3817,6 +4465,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lom
   id: 191.3
@@ -3828,6 +4477,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lona
   id: 314
@@ -3837,6 +4487,7 @@
   etymology: SI Prefix ronna-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: losi
   id: 120
@@ -3846,6 +4497,7 @@
   etymology: l- + osi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lot
   id: 107
@@ -3857,6 +4509,9 @@
   etymology: Lao ລົດ (lot)
   etym_tags: 'lao, southwestern tai, kra-dai'
   iso_code: 'lao, tai'
+  glottolog_code: >-
+    laoo1244, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
+    daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: loteti
   id: 406
@@ -3866,6 +4521,7 @@
   etymology: lot + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lotukuti
   id: 539
@@ -3875,6 +4531,7 @@
   etymology: lot + kuti
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: lua
   id: 156
@@ -3884,6 +4541,9 @@
   etymology: Hawaiian lua
   etym_tags: 'hawaiian, oceanic, malayo-polynesian, austronesian'
   iso_code: 'haw, poz, map'
+  glottolog_code: >-
+    hawa1245, east2896, east2449, cent2298, solo1260, nort3246, nucl1485,
+    poly1242, east2445, cent2060, ocea1241, east2712, mala1545, aust1307
   etym_source: Wiktionary
 - lemma: luanam
   id: 234
@@ -3893,6 +4553,7 @@
   etymology: lua + nam
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: luasu
   id: 543
@@ -3902,6 +4563,7 @@
   etymology: lua + -(a)su
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: luk
   id: 192
@@ -3911,6 +4573,9 @@
   etymology: Zhuang lwg
   etym_tags: 'zhuang, northern tai, kra-dai'
   iso_code: 'zha, tai'
+  glottolog_code: >-
+    yong1276, yong1274, nort3180, nort3326, daic1237, daic1238, kamt1241,
+    taik1256
   etym_source: Wiktionary
 - lemma: m-
   id: 181
@@ -3920,6 +4585,7 @@
   etymology: ma
   etym_tags: 'basalo, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ma
   id: 194.1
@@ -3929,6 +4595,7 @@
   etymology: Turkish -ma
   etym_tags: 'turkish, turkic'
   iso_code: 'tur, trk'
+  glottolog_code: 'nucl1301, west2406, nucl1769, oghu1243, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: ma
   id: 194.2
@@ -3938,6 +4605,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maci
   id: 195.1
@@ -3947,6 +4615,9 @@
   etymology: Corsican magia
   etym_tags: 'corsican, romance, indo-european'
   iso_code: 'cos, roe, ine'
+  glottolog_code: >-
+    cors1241, cors1242, cent2427, ital1287, ital1286, ital1285, roma1334,
+    impe1234, lati1263, lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: maci
   id: 195.2
@@ -3956,6 +4627,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maci
   id: 195.3
@@ -3965,6 +4637,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maci
   id: 195.4
@@ -3974,6 +4647,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maga
   id: 130
@@ -3983,6 +4657,7 @@
   etymology: m- + -aga
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mai
   id: 439.1
@@ -3992,6 +4667,9 @@
   etymology: Hawaiian maʻi
   etym_tags: 'hawaiian, oceanic, malayo-polynesian, austronesian'
   iso_code: 'haw, poz, map'
+  glottolog_code: >-
+    hawa1245, east2896, east2449, cent2298, solo1260, nort3246, nucl1485,
+    poly1242, east2445, cent2060, ocea1241, east2712, mala1545, aust1307
   etym_source: Wiktionary
 - lemma: mai
   id: 439.2
@@ -4001,6 +4679,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mai
   id: 439.3
@@ -4010,6 +4689,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maimeti
   id: 440
@@ -4019,6 +4699,7 @@
   etymology: mai + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maitel
   id: 619
@@ -4028,6 +4709,7 @@
   etymology: mai + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ma(l)-
   id: 148
@@ -4039,6 +4721,7 @@
   etymology: ma
   etym_tags: 'basalo, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mama
   id: 203
@@ -4048,6 +4731,7 @@
   etymology: almost every language
   etym_tags: many
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mameso
   id: 204
@@ -4057,6 +4741,7 @@
   etymology: ma + meso
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: man
   id: 149.1
@@ -4066,6 +4751,9 @@
   etymology: Sar màn̄
   etym_tags: 'sar, sara, central sudanic'
   iso_code: 'mwm, csu'
+  glottolog_code: >-
+    sarr1246, sara1344, cent2044, sara1349, nucl1719, sbbo1237, sara1341,
+    cent2225
   etym_source: 'Sara Languages Lexicon, 2nd ed. (Keegan, John M. 2014)'
 - lemma: man
   id: 149.2
@@ -4075,6 +4763,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: manik
   id: 591.1
@@ -4084,6 +4773,7 @@
   etymology: man + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: manik
   id: 591.2
@@ -4093,6 +4783,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maw
   id: 222.1
@@ -4102,6 +4793,7 @@
   etymology: onomatopoeic
   etym_tags: onomatopoeia
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maw
   id: 222.2
@@ -4111,6 +4803,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maw
   id: 222.3
@@ -4120,6 +4813,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: may
   id: 129
@@ -4129,6 +4823,7 @@
   etymology: m- + -ay
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mayo
   id: 193
@@ -4138,6 +4833,7 @@
   etymology: ma + yo
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maysi
   id: 196.1
@@ -4147,6 +4843,7 @@
   etymology: Latvian maisit
   etym_tags: 'latvian, baltic, indo-european'
   iso_code: 'lav, bat, ine'
+  glottolog_code: 'latv1249, east2280, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: maysi
   id: 196.2
@@ -4156,6 +4853,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maysi
   id: 196.3
@@ -4165,6 +4863,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: maysi
   id: 196.4
@@ -4174,6 +4873,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: me
   id: 205
@@ -4183,6 +4883,7 @@
   etymology: the chapter M-T pronouns in WALS
   etym_tags: many
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: medegi
   id: 209.1
@@ -4192,6 +4893,7 @@
   etymology: Georgian მედეგი (medegi)
   etym_tags: 'georgian, kartvelian'
   iso_code: 'kat, ccs'
+  glottolog_code: 'nucl1302, geor1253, geor1252, kart1248'
   etym_source: Wiktionary
 - lemma: medegi
   id: 209.2
@@ -4201,6 +4903,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: medegi
   id: 209.3
@@ -4210,6 +4913,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: medegitel
   id: 621
@@ -4219,6 +4923,7 @@
   etymology: medegi + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: medusematel
   id: 625
@@ -4228,6 +4933,7 @@
   etymology: med + sematel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mega
   id: 307
@@ -4237,6 +4943,7 @@
   etymology: SI Prefix mega-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: mel
   id: 128
@@ -4246,6 +4953,7 @@
   etymology: m- + -el
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: meligi
   id: 210
@@ -4255,6 +4963,7 @@
   etymology: mel + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mena
   id: 211.1
@@ -4264,6 +4973,9 @@
   etymology: Spanish mena
   etym_tags: 'spanish, romance, indo-european'
   iso_code: 'spa, roe, ine'
+  glottolog_code: >-
+    stan1288, cast1243, west2838, sout3183, shif1234, west2813, ital1285,
+    roma1334, impe1234, lati1263, lati1262, lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: mena
   id: 211.2
@@ -4273,6 +4985,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mes
   id: 444
@@ -4282,6 +4995,7 @@
   etymology: me + -(a)s
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mesa
   id: 445
@@ -4291,6 +5005,7 @@
   etymology: mes + -(y)a
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: meso
   id: 212.1
@@ -4300,6 +5015,9 @@
   etymology: Greek μέσο (méso)
   etym_tags: 'greek, indo-european'
   iso_code: 'ell, ine'
+  glottolog_code: >-
+    mode1248, nucl1783, mode1266, koin1234, cent2404, east2798, gree1276,
+    grae1234, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: meso
   id: 212.2
@@ -4309,6 +5027,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mesodin
   id: 535
@@ -4318,6 +5037,7 @@
   etymology: meso + din
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mesofas
   id: 547
@@ -4327,6 +5047,7 @@
   etymology: meso + fas
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mesonak
   id: 292
@@ -4336,6 +5057,7 @@
   etymology: meso + ak
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mesoyati
   id: 534
@@ -4345,6 +5067,7 @@
   etymology: meso + yati
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: met
   id: 519
@@ -4354,6 +5077,7 @@
   etymology: Norwegian med
   etym_tags: 'norwegian, germanic, indo-european'
   iso_code: 'nor, gem, ine'
+  glottolog_code: 'norw1258, west2805, nort3160, nort3152, germ1287, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: metanta
   id: 558.1
@@ -4363,6 +5087,7 @@
   etymology: met + anta
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: metanta
   id: 558.2
@@ -4372,6 +5097,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mete
   id: 592
@@ -4381,6 +5107,9 @@
   etymology: English meter
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
 - lemma: meti
   id: 213.1
@@ -4390,6 +5119,9 @@
   etymology: Friulian meti
   etym_tags: 'friulian, romance, indo-european'
   iso_code: 'fur, roe, ine'
+  glottolog_code: >-
+    friu1240, ital1287, ital1286, ital1285, roma1334, impe1234, lati1263,
+    lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: meti
   id: 213.2
@@ -4399,6 +5131,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-(m)eti'
   id: 268
@@ -4408,6 +5141,7 @@
   etymology: meti
   etym_tags: affixation
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: metigi
   id: 338.1
@@ -4417,6 +5151,7 @@
   etymology: met + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: metigi
   id: 338.2
@@ -4428,6 +5163,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: metulot
   id: 404
@@ -4437,6 +5173,7 @@
   etymology: 'met + lot, literally "by vehicle"'
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: meya
   id: 206
@@ -4446,6 +5183,7 @@
   etymology: me + -(y)a
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: midi
   id: 133
@@ -4455,6 +5193,7 @@
   etymology: m- + -idi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: min
   id: 377
@@ -4464,6 +5203,9 @@
   etymology: Hebrew מין (min)
   etym_tags: 'hebrew, semitic, afroasiatic'
   iso_code: 'heb, sem, afa'
+  glottolog_code: >-
+    hebr1245, hebr1246, cana1267, nort3165, cent2236, west2786, semi1276,
+    afro1255
   etym_source: Wiktionary
 - lemma: mis
   id: 270.1
@@ -4473,6 +5215,7 @@
   etymology: Armenian միս (mis)
   etym_tags: 'armenian, indo-european'
   iso_code: 'hye, ine'
+  glottolog_code: 'nucl1235, east2768, arme1241, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: mis
   id: 270.2
@@ -4482,6 +5225,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: miskinak
   id: 216.1
@@ -4491,6 +5235,7 @@
   etymology: Cree miskinâhk
   etym_tags: 'cree, central algonquian, algonquian, algic'
   iso_code: 'cre, alg, aql'
+  glottolog_code: 'plai1258, plai1264, cree1272, cree1271, algo1257, algo1256, algi1248'
   etym_source: Wiktionary
 - lemma: miskinak
   id: 216.2
@@ -4500,6 +5245,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: miskinak sual
   id: 217
@@ -4511,6 +5257,7 @@
   etymology: miskinak + sual
   etym_tags: 'compound, collocation, calque'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: modo
   id: 223.1
@@ -4520,6 +5267,9 @@
   etymology: Italian modo
   etym_tags: 'italian, romance, indo-european'
   iso_code: 'ita, roe, ine'
+  glottolog_code: >-
+    ital1282, cent2427, ital1287, ital1286, ital1285, roma1334, impe1234,
+    lati1263, lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: modo
   id: 223.2
@@ -4529,15 +5279,17 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: modo
   id: 223.3
   pos: noun
-  en_definition: 'manner, way, method; (grammar) form; version'
+  en_definition: 'manner, way, method; (grammar) form; version; mode'
   en_notes: ''
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mol
   id: 224
@@ -4547,6 +5299,7 @@
   etymology: Norwegian mål
   etym_tags: 'norwegian, germanic, indo-european'
   iso_code: 'nor, gem, ine'
+  glottolog_code: 'norw1258, west2805, nort3160, nort3152, germ1287, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: molukitap
   id: 225
@@ -4556,6 +5309,7 @@
   etymology: mol + kitap
   etym_tags: 'compound, lexical compound, calque'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mom
   id: 131
@@ -4565,6 +5319,7 @@
   etymology: m- + om
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mosi
   id: 132
@@ -4574,6 +5329,7 @@
   etymology: m- + osi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mot
   id: 226
@@ -4583,6 +5339,7 @@
   etymology: Mongolian мод (mod)
   etym_tags: 'mongolian, mongolic'
   iso_code: 'mon, xgn'
+  glottolog_code: 'mong1331, khal1273, oira1260, mong1329, mong1349'
   etym_source: Wiktionary
 - lemma: mota
   id: 403
@@ -4592,6 +5349,9 @@
   etymology: English motor
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: motasu
   id: 330
@@ -4601,6 +5361,7 @@
   etymology: mot + -(a)su
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: motik
   id: 501
@@ -4610,6 +5371,7 @@
   etymology: mot + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mua
   id: 227.1
@@ -4619,6 +5381,10 @@
   etymology: Maori mua
   etym_tags: 'maori, oceanic, malayo-polynesian, austronesian'
   iso_code: 'mri, poz, map'
+  glottolog_code: >-
+    maor1246, maor1247, sout3383, east2896, east2449, cent2298, solo1260,
+    nort3246, nucl1485, poly1242, east2445, cent2060, ocea1241, east2712,
+    mala1545, aust1307
   etym_source: Wiktionary
 - lemma: mua
   id: 227.2
@@ -4628,6 +5394,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: muak
   id: 228
@@ -4637,6 +5404,9 @@
   etymology: Lao ໝວກ (mūak)
   etym_tags: 'lao, southwestern tai, kra-dai'
   iso_code: 'lao, tai'
+  glottolog_code: >-
+    laoo1244, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
+    daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: muceli
   id: 229
@@ -4646,6 +5416,7 @@
   etymology: Georgian მუცელი (muceli)
   etym_tags: 'georgian, kartvelian'
   iso_code: 'kat, ccs'
+  glottolog_code: 'nucl1302, geor1253, geor1252, kart1248'
   etym_source: Wiktionary
 - lemma: muluca
   id: 609
@@ -4655,6 +5426,7 @@
   etymology: Burarra mulucha
   etym_tags: 'burarra, maningrida, arnhem'
   iso_code: bvr
+  glottolog_code: 'bura1267, bure1238, mani1293'
   etym_source: Burrara and Gun-nartpa dictionary
 - lemma: musik
   id: 230.1
@@ -4664,6 +5436,7 @@
   etymology: many languages
   etym_tags: many
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: musik
   id: 230.2
@@ -4673,6 +5446,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: musikatel
   id: 607
@@ -4682,6 +5456,7 @@
   etymology: musik + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: musikatelasu
   id: 617
@@ -4691,6 +5466,7 @@
   etymology: musikatel + -(a)su
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: musikilo
   id: 606
@@ -4700,6 +5476,7 @@
   etymology: musik + -(i)lo
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: mut
   id: 231
@@ -4709,15 +5486,21 @@
   etymology: Afrikaans moet
   etym_tags: 'afrikaans, germanic, indo-european'
   iso_code: 'afr, gem, ine'
+  glottolog_code: >-
+    afri1274, afri1273, glob1241, mode1257, midd1347, macr1270, west2793,
+    nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: na
   id: 232
   pos: noun
   en_definition: 'mouse, rodent, rat'
   en_notes: ''
-  etymology: Hmong nas
+  etymology: White Hmong nas
   etym_tags: 'hmong, western hmongic, hmongic, hmong-mien'
-  iso_code: 'hmn, hmx'
+  iso_code: 'mww, hmn, hmx'
+  glottolog_code: >-
+    hmon1333, huam1250, firs1234, chua1248, grea1295, west2803, nucl1720,
+    nucl1714, hmon1337, hmon1336
   etym_source: Wiktionary
 - lemma: nalanga
   id: 383.1
@@ -4727,6 +5510,7 @@
   etymology: Sanskrit नारङ्ग (nāraṅga)
   etym_tags: 'sanskrit, indo-aryan, indo-european'
   iso_code: 'san, inc, ine'
+  glottolog_code: 'sans1269, indo1321, indo1320, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: nalanga
   id: 383.2
@@ -4736,6 +5520,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nalu
   id: 328.1
@@ -4747,6 +5532,9 @@
   etymology: Hawaiian nalu
   etym_tags: 'hawaiian, oceanic, malayo-polynesian, austronesian'
   iso_code: 'haw, poz, map'
+  glottolog_code: >-
+    hawa1245, east2896, east2449, cent2298, solo1260, nort3246, nucl1485,
+    poly1242, east2445, cent2060, ocea1241, east2712, mala1545, aust1307
   etym_source: Wiktionary
 - lemma: nalu
   id: 328.2
@@ -4758,6 +5546,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nalu
   id: 328.3
@@ -4769,6 +5558,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nalu
   id: 328.4
@@ -4778,6 +5568,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nam
   id: 233.1
@@ -4787,24 +5578,27 @@
   etymology: many
   etym_tags: many
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nam
   id: 233.2
-  pos: 'verb, trans., til'
-  en_definition: 'to call someone, name someone'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  etym_source: ''
-- lemma: nam
-  id: 233.3
   pos: noun
   en_definition: name; title; (yati la~) noun
   en_notes: ''
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: namigi
+  id: 628
+  pos: 'verb, trans.'
+  en_definition: 'to call someone, name someone'
+  en_notes: ''
+  etymology: nam + -(i)gi
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nan
   id: 237
@@ -4814,6 +5608,9 @@
   etymology: Persian نان (nān)
   etym_tags: 'persian, iranian, indo-european'
   iso_code: 'pes, fas, ira, ine'
+  glottolog_code: >-
+    west2369, fars1255, fars1254, mode1259, midd1352, sout3157, iran1269,
+    iran1271, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: '-(n)an'
   id: 457
@@ -4823,6 +5620,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: naneti
   id: 546
@@ -4832,6 +5630,7 @@
   etymology: nan + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nanik
   id: 245
@@ -4841,6 +5640,7 @@
   etymology: na + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nao
   id: 575
@@ -4850,6 +5650,10 @@
   etymology: Rapa Nui ŋao/ngao/gao
   etym_tags: 'rapa nui, oceanic, malayo-polynesian, austronesian'
   iso_code: 'rap, poz, map'
+  glottolog_code: >-
+    rapa1244, fare1245, east2895, east2449, cent2298, solo1260, nort3246,
+    nucl1485, poly1242, east2445, cent2060, ocea1241, east2712, mala1545,
+    aust1307
   etym_source: Wiktionary
 - lemma: naso
   id: 246.1
@@ -4859,6 +5663,7 @@
   etymology: Navajo naʹazo
   etym_tags: 'navajo, southern dené, dené, na-dené'
   iso_code: 'nav, apa, ath, xnd'
+  glottolog_code: 'nava1243, west2810, sout3151, apac1239, atha1247, atha1246, atha1245'
   etym_source: Wiktionary
 - lemma: naso
   id: 246.2
@@ -4868,6 +5673,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nasolo
   id: 142
@@ -4877,6 +5683,7 @@
   etymology: naso + -(i)lo
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nasonik
   id: 561
@@ -4886,6 +5693,7 @@
   etymology: naso + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nat
   id: 247
@@ -4895,6 +5703,7 @@
   etymology: Korean 낮 (nat)
   etym_tags: 'korean, koreanic'
   iso_code: kor
+  glottolog_code: 'kore1280, kore1284'
   etym_source: Wiktionary
 - lemma: natesa
   id: 476
@@ -4904,6 +5713,7 @@
   etymology: nat + esa
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: naya
   id: 233
@@ -4913,7 +5723,25 @@
   etymology: Hindi नया (nayā)
   etym_tags: 'hindi, indo-iranian, indo-european'
   iso_code: 'hin, inc, ine'
+  glottolog_code: >-
+    hind1269, hind1270, west2812, indo1322, shau1239, midl1245, cont1248,
+    midd1375, indo1321, indo1320, clas1257, indo1319
   etym_source: Wiktionary
+- lemma: ne
+  id: 627
+  pos: particle
+  en_definition: >-
+    Sentence-ending particle indicating the speaker expects the listener to
+    agree; right?, innit?, yeah?
+  en_notes: ''
+  etymology: Portuguese né
+  etym_tags: 'portuguese, romance, indo-european'
+  iso_code: 'por, roe, ine'
+  glottolog_code: >-
+    port1283, braz1247, macr1272, gali1263, west2838, sout3183, shif1234,
+    west2813, ital1285, roma1334, impe1234, lati1263, lati1262, clas1257,
+    indo1319
+  etym_source: ''
 - lemma: neya
   id: 248.1
   pos: 'verb, intr.'
@@ -4922,6 +5750,9 @@
   etymology: Swedish nöja
   etym_tags: 'swedish, germanic, indo-european'
   iso_code: 'swe, gem, ine'
+  glottolog_code: >-
+    swed1254, east2781, east2780, nort3266, nort3160, nort3152, germ1287,
+    clas1257, indo1319
   etym_source: Wiktionary
 - lemma: neya
   id: 248.2
@@ -4933,6 +5764,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: neya
   id: 248.3
@@ -4942,6 +5774,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: neya
   id: 248.4
@@ -4951,6 +5784,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: neya
   id: 248.5
@@ -4960,6 +5794,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nia
   id: 249
@@ -4969,6 +5804,9 @@
   etymology: English near
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: niatel
   id: 623
@@ -4978,6 +5816,7 @@
   etymology: nia + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nibo
   id: 250.1
@@ -4987,6 +5826,9 @@
   etymology: Ojibwe nibo
   etym_tags: 'ojibwe, central algonquian, algonquian, algic'
   iso_code: 'oji, alg, aql'
+  glottolog_code: >-
+    chip1241, cent2252, nucl1723, ojib1241, ojib1240, east2765, algo1257,
+    algo1256, algi1248
   etym_source: Wiktionary
 - lemma: nibo
   id: 250.2
@@ -4996,15 +5838,27 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nibogi
-  id: 251
+  id: 251.1
   pos: 'verb, trans.'
   en_definition: to kill
   en_notes: ''
   etymology: nibo + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: nibogi
+  id: 251.2
+  pos: noun
+  en_definition: 'murder, killing'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-(n)ik'
   id: 83
@@ -5014,6 +5868,7 @@
   etymology: Russian -ик (-ik)
   etym_tags: 'russian, slavic, indo-european'
   iso_code: 'rus, sla, ine'
+  glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: '-(n)in'
   id: 455
@@ -5023,6 +5878,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nin
   id: 598.1
@@ -5032,6 +5888,7 @@
   etymology: '-(n)in'
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nin
   id: 598.2
@@ -5041,6 +5898,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nisam
   id: 253.1
@@ -5050,6 +5908,7 @@
   etymology: Arabic نظام (niẓām)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: nisam
   id: 253.2
@@ -5059,6 +5918,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nisam
   id: 253.3
@@ -5068,6 +5928,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: 'no'
   id: 254.1
@@ -5077,6 +5938,7 @@
   etymology: Latvian no
   etym_tags: 'latvian, baltic, indo-european'
   iso_code: 'lav, bat, ine'
+  glottolog_code: 'latv1249, east2280, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: 'no'
   id: 254.2
@@ -5086,6 +5948,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: no son
   id: 145
@@ -5095,6 +5958,7 @@
   etymology: no + son
   etym_tags: 'collocation, compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: notaga
   id: 550
@@ -5104,6 +5968,7 @@
   etymology: no + taga
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nui
   id: 583
@@ -5113,6 +5978,7 @@
   etymology: Shuar nuji̱
   etym_tags: 'shuar, chimcham'
   iso_code: jiv
+  glottolog_code: 'shua1257, huam1251, shua1256, jiva1245'
   etym_source: >-
     Diccionario enciclopédico castellano-shuar (A-E), Diccionario enciclopédico
     castellano-shuar (F-Z)
@@ -5124,6 +5990,7 @@
   etymology: Arabic نحاس (nuħas)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: '-(n)un'
   id: 453
@@ -5133,6 +6000,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nun
   id: 597.1
@@ -5142,6 +6010,7 @@
   etymology: '-(n)un'
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nun
   id: 597.2
@@ -5151,6 +6020,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: nuyat
   id: 578
@@ -5160,6 +6030,7 @@
   etymology: Iñupiaq nuyat
   etym_tags: 'iñupiaq, inuit, eskaleut'
   iso_code: 'ipk, esx'
+  glottolog_code: 'nort2943, inup1234, inui1246, eski1265, eski1264'
   etym_source: 'https://inupiaqonline.com/nuyat'
 - lemma: o
   id: 257
@@ -5169,6 +6040,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: obus
   id: 259.1
@@ -5178,6 +6050,9 @@
   etymology: Polish obóz
   etym_tags: 'polish, slavic, indo-european'
   iso_code: 'pol, sla, ine'
+  glottolog_code: >-
+    poli1260, poli1262, lech1241, west2792, slav1255, balt1263, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: obus
   id: 259.2
@@ -5187,6 +6062,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ofis
   id: 434
@@ -5196,6 +6072,9 @@
   etymology: English office
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: ogop
   id: 48.1
@@ -5205,6 +6084,7 @@
   etymology: Maranao ogop
   etym_tags: 'maranao, philippine, malayo-polynesian, austronesian'
   iso_code: 'mrw, phi, poz, map'
+  glottolog_code: 'mara1404, dana1253, grea1284, aust1307'
   etym_source: Wiktionary
 - lemma: ogop
   id: 48.2
@@ -5214,6 +6094,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ogopatel
   id: 49.1
@@ -5223,6 +6104,7 @@
   etymology: ogop + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ogopatel
   id: 49.2
@@ -5232,6 +6114,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ogopubasa
   id: 197
@@ -5241,6 +6124,7 @@
   etymology: ogop + basa
   etym_tags: 'compound, lexical compound, calque'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ok
   id: 581
@@ -5250,6 +6134,7 @@
   etymology: Yucatec ook
   etym_tags: 'yucatec, mayan'
   iso_code: 'yua, myn'
+  glottolog_code: 'yuca1254, yuca1253, nucl1844, yuca1252, core1254, maya1287'
   etym_source: Maya Diccionario Español. Familia lingüistica.
 - lemma: okol
   id: 261
@@ -5259,6 +6144,7 @@
   etymology: Tzotzil okol
   etym_tags: 'tzotzil, western mayan, mayan'
   iso_code: 'tzo, myn'
+  glottolog_code: 'tzot1259, tzel1253, chol1286, west2865, core1254, maya1287'
   etym_source: Wiktionary
 - lemma: '-om'
   id: 182
@@ -5268,6 +6154,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: onak
   id: 585.1
@@ -5277,6 +6164,7 @@
   etymology: on(i)- + ak
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: onak
   id: 585.2
@@ -5286,6 +6174,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: onal
   id: 287
@@ -5295,6 +6184,7 @@
   etymology: on(i)- + al
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: onalilo
   id: 603
@@ -5304,6 +6194,7 @@
   etymology: on(i)- + alilo
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: onalosti
   id: 290
@@ -5313,6 +6204,7 @@
   etymology: onal + -(o)sti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: on(i)-
   id: 600
@@ -5322,6 +6214,9 @@
   etymology: Alemannic German ooni
   etym_tags: 'alemannic german, germanic, indo-european'
   iso_code: 'gsw, gem, ine'
+  glottolog_code: >-
+    swis1247, sout3294, alem1243, mode1258, midd1349, high1286, high1289,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
 - lemma: onimedegisema
   id: 614
@@ -5331,6 +6226,7 @@
   etymology: on(i)- + medegi + sema
   etym_tags: 'compound, derivation, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: onisema
   id: 612
@@ -5340,6 +6236,7 @@
   etymology: on(i)- + sema
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: onisin
   id: 613
@@ -5349,6 +6246,7 @@
   etymology: on(i)- + sin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ono
   id: 214.1
@@ -5358,6 +6256,7 @@
   etymology: 'Japanese 己 [おの] (ono)'
   etym_tags: 'japanese, japonic'
   iso_code: 'jpn, jpx'
+  glottolog_code: 'nucl1643, japa1258, japa1256, japo1237'
   etym_source: Wiktionary
 - lemma: ono
   id: 214.2
@@ -5367,6 +6266,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: onoyati
   id: 221
@@ -5376,6 +6276,7 @@
   etymology: ono + yati
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: os
   id: 454
@@ -5385,6 +6286,9 @@
   etymology: Emilian òs
   etym_tags: 'emilian, romance, indo-european'
   iso_code: 'egl, roe, ine'
+  glottolog_code: >-
+    emil1241, emil1243, gall1279, nort3208, shif1234, west2813, ital1285,
+    roma1334, impe1234, lati1263, lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: '-osi'
   id: 183
@@ -5394,6 +6298,7 @@
   etymology: si
   etym_tags: 'basalo, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: oskiko
   id: 316.1
@@ -5403,6 +6308,7 @@
   etymology: 'Unami skiko, plural form of skikw'
   etym_tags: 'unami, eastern algonquian, algonquian, algic'
   iso_code: 'unm, alg, aql'
+  glottolog_code: 'unam1242, comm1246, dela1253, east2700, algo1257, algo1256, algi1248'
   etym_source: Wiktionary
 - lemma: oskiko
   id: 316.2
@@ -5412,6 +6318,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: osten
   id: 568
@@ -5421,6 +6328,9 @@
   etymology: Swedish osten
   etym_tags: 'swedish, germanic, indo-european'
   iso_code: 'swe, gem, ine'
+  glottolog_code: >-
+    swed1254, east2781, east2780, nort3266, nort3160, nort3152, germ1287,
+    clas1257, indo1319
   etym_source: Wiktionary
 - lemma: '-(o)sti'
   id: 288
@@ -5432,6 +6342,7 @@
   etymology: Ukrainian -ості (-osti)
   etym_tags: 'ukrainian, slavic, indo-european'
   iso_code: 'ukr, sla, ine'
+  glottolog_code: 'ukra1253, ukra1257, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: osu
   id: 262.1
@@ -5441,6 +6352,7 @@
   etymology: 'Japanese 押す [おす] (osu)'
   etym_tags: 'japanese, japonic'
   iso_code: 'jpn, jpx'
+  glottolog_code: 'nucl1643, japa1258, japa1256, japo1237'
   etym_source: Wiktionary
 - lemma: osu
   id: 262.2
@@ -5450,6 +6362,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: osu
   id: 262.3
@@ -5459,6 +6372,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: otel
   id: 422
@@ -5468,6 +6382,10 @@
   etymology: French hôtel among others
   etym_tags: 'french, romance, indo-european'
   iso_code: 'fra, roe, ine'
+  glottolog_code: >-
+    stan1290, glob1239, macr1273, cent2283, oila1234, gall1280, nort3208,
+    shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
+    lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: oto
   id: 393
@@ -5477,6 +6395,9 @@
   etymology: English auto(mobile)
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: otoyon
   id: 402
@@ -5486,6 +6407,7 @@
   etymology: oto + yon
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: owa
   id: 263.1
@@ -5495,6 +6417,7 @@
   etymology: 'Japanese 終わる [おわる] (owaru)'
   etym_tags: 'japanese, japonic'
   iso_code: 'jpn, jpx'
+  glottolog_code: 'nucl1643, japa1258, japa1256, japo1237'
   etym_source: Wiktionary
 - lemma: owa
   id: 263.2
@@ -5504,6 +6427,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: owi
   id: 584
@@ -5513,6 +6437,7 @@
   etymology: Pirahã xòòí
   etym_tags: 'piraha, mura'
   iso_code: myp
+  glottolog_code: pira1253
   etym_source: Piraha (UCLA Phonetics Lab Archive)
 - lemma: owoce
   id: 264
@@ -5522,6 +6447,7 @@
   etymology: Czech ovocie
   etym_tags: 'czech, slavic, indo-european'
   iso_code: 'ces, sla, ine'
+  glottolog_code: 'czec1258, czec1260, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: owocemeti
   id: 545
@@ -5531,6 +6457,7 @@
   etymology: ovoce + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: oyge
   id: 260.1
@@ -5539,7 +6466,8 @@
   en_notes: ''
   etymology: 'Estonian õige, õigus'
   etym_tags: 'estonian, finnic, uralic'
-  iso_code: 'est, urj'
+  iso_code: 'ekk, urj'
+  glottolog_code: 'esto1258, cent2329, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: oyge
   id: 260.2
@@ -5549,6 +6477,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: oyla
   id: 520.1
@@ -5560,6 +6489,9 @@
   etymology: Crimean Tatar oylamaq
   etym_tags: 'crimean tatar, turkic'
   iso_code: 'crh, trk'
+  glottolog_code: >-
+    crim1257, crim1259, crim1256, west1472, nort3424, kipc1239, kipc1240,
+    comm1245, turk1311
   etym_source: Wiktionary
 - lemma: oyla
   id: 520.2
@@ -5569,6 +6501,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: oyla
   id: 520.3
@@ -5578,6 +6511,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pa
   id: 371
@@ -5587,6 +6521,7 @@
   etymology: Marind pa
   etym_tags: 'marind, anim, papuan'
   iso_code: 'mrz, ngf, paa'
+  glottolog_code: 'nucl1622, nucl1621, mari1437, anim1240'
   etym_source: 'The Coastal Marind Language (Olsson, B. 2017)'
 - lemma: paca
   id: 274.1
@@ -5596,6 +6531,7 @@
   etymology: Esperanto paca
   etym_tags: 'esperanto, conlangs'
   iso_code: 'epo, art'
+  glottolog_code: 'espe1235, espe1236, arti1236'
   etym_source: Wiktionary
 - lemma: paca
   id: 274.2
@@ -5605,6 +6541,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pak
   id: 437
@@ -5614,6 +6551,10 @@
   etymology: French parc
   etym_tags: 'french, romance, indo-european'
   iso_code: 'fra, roe, ine'
+  glottolog_code: >-
+    stan1290, glob1239, macr1273, cent2283, oila1234, gall1280, nort3208,
+    shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
+    lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: palo
   id: 336
@@ -5623,6 +6564,9 @@
   etymology: Sisaala paalɔ
   etym_tags: 'sisaala, gur, atlantic-congo'
   iso_code: 'ssl, alv'
+  glottolog_code: >-
+    west2465, nort3229, sisa1248, sisa1247, west2837, east2740, grus1239,
+    sout3164, cent2243, gura1261, nort3149, volt1241, atla1278
   etym_source: 'Sísaalí wíbíé mʋʋla, Lexique sissala - français (Zalvé, M. et al. 2013)'
 - lemma: panal
   id: 272.1
@@ -5632,6 +6576,7 @@
   etymology: Armenian բանալ (banal)
   etym_tags: 'armenian, indo-european'
   iso_code: 'hye, ine'
+  glottolog_code: 'nucl1235, east2768, arme1241, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: panal
   id: 272.2
@@ -5641,6 +6586,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: panal
   id: 272.3
@@ -5650,6 +6596,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: panga
   id: 273.1
@@ -5658,7 +6605,10 @@
   en_notes: ''
   etymology: Swahili panga
   etym_tags: 'swahili, benue-congo, atlantic-congo'
-  iso_code: 'swa, bnt, alv'
+  iso_code: 'swh, bnt, alv'
+  glottolog_code: >-
+    swah1253, momb1256, swah1254, saba1282, coas1317, nort3209, nort3203,
+    east2731, narr1281, sout3152, bant1294, benu1247, volt1241, atla1278
   etym_source: Wiktionary
 - lemma: panga
   id: 273.2
@@ -5668,6 +6618,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: panlay
   id: 289
@@ -5677,6 +6628,9 @@
   etymology: Shan ပၢင်ႇလၢႆႇ (pàang làai)
   etym_tags: 'shan, southwestern tai, kra-dai'
   iso_code: 'shn, tai'
+  glottolog_code: >-
+    shan1277, sout2744, shan1276, sout2743, sout3184, sapa1255, wenm1239,
+    cent2251, daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: panlaybel
   id: 544
@@ -5686,6 +6640,7 @@
   etymology: panlay + bel
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pasi
   id: 458
@@ -5695,6 +6650,7 @@
   etymology: Balinese pasih
   etym_tags: 'balinese, bali-sasak-sumbawa, malayo-polynesian, austronesian'
   iso_code: 'ban, poz, map'
+  glottolog_code: 'bali1278, bali1277, mala1545, aust1307'
   etym_source: Wiktionary
 - lemma: patal
   id: 275.1
@@ -5704,6 +6660,9 @@
   etymology: "Magahi \U000110A3\U0001109E\U000110B9\U0001109F\U000110AA (patthal)"
   etym_tags: 'magahi, indo-aryan, indo-european'
   iso_code: 'mag, inc, ine'
+  glottolog_code: >-
+    maga1260, mait1254, biha1245, shau1239, midl1245, cont1248, midd1375,
+    indo1321, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: patal
   id: 275.2
@@ -5713,6 +6672,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: paun
   id: 595
@@ -5722,6 +6682,9 @@
   etymology: English pound
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
 - lemma: peta
   id: 310
@@ -5731,6 +6694,7 @@
   etymology: SI Prefix peta-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: pi
   id: 277.1
@@ -5740,6 +6704,7 @@
   etymology: '-(a)pi'
   etym_tags: 'basalo, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pi
   id: 277.2
@@ -5749,6 +6714,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pilin
   id: 477
@@ -5758,6 +6724,7 @@
   etymology: pi + -(a)lin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pim
   id: 524
@@ -5767,6 +6734,9 @@
   etymology: Welsh pum
   etym_tags: 'welsh, celtic, indo-european'
   iso_code: 'cym, cel, ine'
+  glottolog_code: >-
+    wels1247, oldm1247, bryt1239, insu1254, tgbc1234, nucl1715, celt1248,
+    clas1257, indo1319
   etym_source: Wiktionary
 - lemma: pita
   id: 278.1
@@ -5775,7 +6745,8 @@
   en_notes: ''
   etymology: Sorbian pytaś
   etym_tags: 'sorbian, slavic, indo-european'
-  iso_code: 'wen, sla, ine'
+  iso_code: 'dsb, wen, sla, ine'
+  glottolog_code: 'lowe1385, sorb1249, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: pita
   id: 278.2
@@ -5785,6 +6756,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pitica
   id: 386.1
@@ -5794,6 +6766,7 @@
   etymology: Russian птица (ptica)
   etym_tags: 'russian, slavic, indo-european'
   iso_code: 'rus, sla, ine'
+  glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: pitica
   id: 386.2
@@ -5803,6 +6776,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: po(d)-
   id: 601
@@ -5812,6 +6786,9 @@
   etymology: Polish pod
   etym_tags: 'polish, slavic, indo-european'
   iso_code: 'pol, sla, ine'
+  glottolog_code: >-
+    poli1260, poli1262, lech1241, west2792, slav1255, balt1263, clas1257,
+    indo1319
   etym_source: ''
 - lemma: podesa
   id: 604
@@ -5821,6 +6798,7 @@
   etymology: po(d)- + esa
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pola
   id: 280
@@ -5830,6 +6808,10 @@
   etymology: Lingala pola
   etym_tags: 'lingala, benue-congo, atlantic-congo'
   iso_code: 'lin, bnt, alv'
+  glottolog_code: >-
+    ling1263, ling1269, boba1250, boba1249, boba1248, ngir1254, ngir1252,
+    ngir1248, rive1266, nort3376, cent2260, narr1281, sout3152, bant1294,
+    benu1247, volt1241, atla1278
   etym_source: Wiktionary
 - lemma: pole
   id: 281
@@ -5839,6 +6821,7 @@
   etymology: Czech pole
   etym_tags: 'czech, slavic, indo-european'
   iso_code: 'ces, sla, ine'
+  glottolog_code: 'czec1258, czec1260, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: pomai
   id: 608
@@ -5848,6 +6831,7 @@
   etymology: po(d)- + mai
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pomaitel
   id: 618
@@ -5857,6 +6841,7 @@
   etymology: pomai + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: powine
   id: 282.1
@@ -5868,6 +6853,9 @@
   etymology: Polish powinien
   etym_tags: 'polish, slavic, indo-european'
   iso_code: 'pol, sla, ine'
+  glottolog_code: >-
+    poli1260, poli1262, lech1241, west2792, slav1255, balt1263, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: powine
   id: 282.2
@@ -5877,6 +6865,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: powine
   id: 282.3
@@ -5886,6 +6875,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: poysa
   id: 279.1
@@ -5895,6 +6885,9 @@
   etymology: Welsh pwysau
   etym_tags: 'welsh, celtic, indo-european'
   iso_code: 'cym, cel, ine'
+  glottolog_code: >-
+    wels1247, oldm1247, bryt1239, insu1254, tgbc1234, nucl1715, celt1248,
+    clas1257, indo1319
   etym_source: Wiktionary
 - lemma: poysa
   id: 279.2
@@ -5904,6 +6897,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: poysa
   id: 279.3
@@ -5915,6 +6909,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: poysa
   id: 279.4
@@ -5924,6 +6919,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: poysalot
   id: 586
@@ -5933,6 +6929,7 @@
   etymology: poysa + lot
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: puka
   id: 283
@@ -5942,6 +6939,9 @@
   etymology: Hawiian puka
   etym_tags: 'hawaiian, oceanic, malayo-polynesian, austronesian'
   iso_code: 'haw, poz, map'
+  glottolog_code: >-
+    hawa1245, east2896, east2449, cent2298, solo1260, nort3246, nucl1485,
+    poly1242, east2445, cent2060, ocea1241, east2712, mala1545, aust1307
   etym_source: Wiktionary
 - lemma: pulma
   id: 286.1
@@ -5951,6 +6951,7 @@
   etymology: Finnish pulma
   etym_tags: 'finnish, finnic, uralic'
   iso_code: 'fin, urj'
+  glottolog_code: 'finn1318, nucl1717, nort3282, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: pulma
   id: 286.2
@@ -5960,6 +6961,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: pulma
   id: 286.3
@@ -5969,6 +6971,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: s-
   id: 180
@@ -5978,6 +6981,7 @@
   etymology: a priori
   etym_tags: a priori
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sa
   id: 297
@@ -5987,6 +6991,7 @@
   etymology: Arabic س (sa-)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: sabal
   id: 574
@@ -5998,6 +7003,7 @@
   etymology: Basque zabal
   etym_tags: 'basque, isolate'
   iso_code: eus
+  glottolog_code: basq1248
   etym_source: Wiktionary
 - lemma: saga
   id: 124
@@ -6007,6 +7013,7 @@
   etymology: s- + -aga
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sala
   id: 493.1
@@ -6016,6 +7023,7 @@
   etymology: Kaitag шала (šala)
   etym_tags: 'kaitag, dargin, northeast caucasian'
   iso_code: 'xdq, dar'
+  glottolog_code: 'kajt1238, sout3260, darg1242, dagh1238, nakh1245'
   etym_source: Wiktionary
 - lemma: sala
   id: 493.2
@@ -6025,6 +7033,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sala
   id: 493.3
@@ -6034,6 +7043,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: salam
   id: 298
@@ -6043,6 +7053,7 @@
   etymology: Korean 사람 (saram)
   etym_tags: 'korean, koreanic'
   iso_code: kor
+  glottolog_code: 'kore1280, kore1284'
   etym_source: Wiktionary
 - lemma: salamalin
   id: 472
@@ -6052,6 +7063,7 @@
   etymology: salam + -(a)lin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: salamumin
   id: 461
@@ -6061,6 +7073,7 @@
   etymology: salam + min
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: salkaya
   id: 582
@@ -6070,15 +7083,17 @@
   etymology: Miskito salkaia/salhkaia
   etym_tags: 'miskito, misumalpan'
   iso_code: miq
+  glottolog_code: 'misk1235, misu1242'
   etym_source: Diccionario-Espanol-Miskito-Miskito-Espanol-Primera-Edicion
 - lemma: salo
   id: 389.1
   pos: 'verb, ambi.'
-  en_definition: 'to fatten up, get fat; to oil, slather in grease'
+  en_definition: 'to fatten up, get fat; to slather with oil'
   en_notes: ''
   etymology: Serbo-Croatian salo
   etym_tags: 'serbo-croatian, slavic, indo-european'
   iso_code: 'hbs, sla, ine'
+  glottolog_code: 'sout1528, west2804, sout3147, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: salo
   id: 389.2
@@ -6088,6 +7103,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: salo
   id: 389.3
@@ -6097,6 +7113,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: salotel
   id: 390
@@ -6106,6 +7123,7 @@
   etymology: salo + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: salula
   id: 512.1
@@ -6115,6 +7133,9 @@
   etymology: Darija زعلولة (zʕlula)
   etym_tags: 'darija, arabic, semitic, afroasiatic'
   iso_code: 'ary, ara, sem, afa'
+  glottolog_code: >-
+    moro1292, magh1239, west3017, nort3191, arab1395, arab1394, cent2236,
+    west2786, semi1276, afro1255
   etym_source: Native speaker
 - lemma: salula
   id: 512.2
@@ -6124,6 +7145,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-(s)am'
   id: 363
@@ -6133,6 +7155,7 @@
   etymology: nisam
   etym_tags: 'a priori, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sanak
   id: 317.1
@@ -6142,6 +7165,7 @@
   etymology: Russian знак (znak)
   etym_tags: 'russian, slavic, indo-european'
   iso_code: 'rus, sla, ine'
+  glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: sanak
   id: 317.2
@@ -6153,6 +7177,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sanakasu
   id: 548
@@ -6162,6 +7187,7 @@
   etymology: sanak + -(a)su
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sasa
   id: 515
@@ -6171,6 +7197,7 @@
   etymology: Arabic زعزع (zaʕzaʕa)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Native speaker
 - lemma: sasi
   id: 560
@@ -6180,6 +7207,7 @@
   etymology: sa + si
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sata
   id: 159.1
@@ -6189,6 +7217,9 @@
   etymology: Punjabi ਸੱਤ (sattă); sense "week" is a calque of Hungarian hén
   etym_tags: 'punjabi, indo-aryan, indo-european'
   iso_code: 'pan, inc, ine'
+  glottolog_code: >-
+    panj1256, east2727, lahn1241, sind1278, indo1324, cont1248, midd1375,
+    indo1321, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: sata
   id: 159.2
@@ -6198,6 +7229,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sato
   id: 177
@@ -6207,6 +7239,7 @@
   etymology: Finnish sato
   etym_tags: 'finnish, finnic, uralic'
   iso_code: 'fin, urj'
+  glottolog_code: 'finn1318, nucl1717, nort3282, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: satuk
   id: 579
@@ -6216,6 +7249,7 @@
   etymology: Inuktitut ᓵᑦᑐᖅ (saattuq)
   etym_tags: 'inuktitut, inuit, eskaleut'
   iso_code: 'iku, esx'
+  glottolog_code: 'east2534, inui1246, eski1265, eski1264'
   etym_source: Inuktut Glossary
 - lemma: saw
   id: 492.1
@@ -6225,6 +7259,9 @@
   etymology: Lao ເຊົ້າ (sao)
   etym_tags: 'lao, southwestern tai, kra-dai'
   iso_code: 'lao, tai'
+  glottolog_code: >-
+    laoo1244, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
+    daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: saw
   id: 492.2
@@ -6234,6 +7271,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sawal
   id: 388
@@ -6243,6 +7281,10 @@
   etymology: French cheval
   etym_tags: 'french, romance, indo-european'
   iso_code: 'fra, roe, ine'
+  glottolog_code: >-
+    stan1290, glob1239, macr1273, cent2283, oila1234, gall1280, nort3208,
+    shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
+    lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: sawesa
   id: 494
@@ -6252,6 +7294,7 @@
   etymology: sav + esa
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: say
   id: 123
@@ -6261,6 +7304,7 @@
   etymology: s- + -ay
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: saytu
   id: 572
@@ -6270,6 +7314,7 @@
   etymology: Quechua sayt'u
   etym_tags: 'quechua, isolate'
   iso_code: que
+  glottolog_code: 'ayac1239, ayac1238, quec1389, quec1387'
   etym_source: bab.la
 - lemma: seca
   id: 398.1
@@ -6281,6 +7326,9 @@
   etymology: Burmese စကြာ (ca.kra)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
   iso_code: 'mya, tbq, sit'
+  glottolog_code: >-
+    nucl1310, nucl1811, mran1234, sout3159, burm1266, lolo1265, burm1265,
+    sino1245
   etym_source: Wiktionary
 - lemma: seca
   id: 398.2
@@ -6290,6 +7338,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: secakampa
   id: 399
@@ -6299,6 +7348,7 @@
   etymology: seca + kampa
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sel
   id: 122
@@ -6308,6 +7358,7 @@
   etymology: s- + -el
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: selaleti
   id: 408
@@ -6317,6 +7368,7 @@
   etymology: sel + al + -(m)eti
   etym_tags: 'compound, lexical compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: selasu
   id: 242
@@ -6326,6 +7378,7 @@
   etymology: sel + -(a)su
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sema
   id: 361.1
@@ -6335,6 +7388,9 @@
   etymology: Hebrew שמע (shemá)
   etym_tags: 'hebrew, semitic, afroasiatic'
   iso_code: 'heb, sem, afa'
+  glottolog_code: >-
+    hebr1245, hebr1246, cana1267, nort3165, cent2236, west2786, semi1276,
+    afro1255
   etym_source: Wiktionary
 - lemma: sema
   id: 361.2
@@ -6344,6 +7400,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: semaga
   id: 557
@@ -6353,6 +7410,7 @@
   etymology: sema + -(a)ga
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: semanik
   id: 556
@@ -6362,6 +7420,7 @@
   etymology: sema + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sematel
   id: 624
@@ -6371,6 +7430,7 @@
   etymology: sema + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: semya
   id: 299
@@ -6380,6 +7440,7 @@
   etymology: Russian семья (sem'ja)
   etym_tags: 'russian, slavic, indo-european'
   iso_code: 'rus, sla, ine'
+  glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: senet
   id: 300.1
@@ -6389,6 +7450,7 @@
   etymology: Uyghur سەنئەت (sen'et)
   etym_tags: 'uyghur, turkic'
   iso_code: 'uig, trk'
+  glottolog_code: 'uigh1240, uigh1243, uygh1240, uygh1241, kipc1240, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: senet
   id: 300.2
@@ -6398,6 +7460,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: senet
   id: 300.3
@@ -6407,6 +7470,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: senetatel
   id: 301
@@ -6416,6 +7480,7 @@
   etymology: senet + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: senetubasa
   id: 199
@@ -6427,6 +7492,7 @@
   etymology: senet + basa
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ses
   id: 158
@@ -6436,6 +7502,9 @@
   etymology: Spanish seis
   etym_tags: 'spanish, romance, indo-european'
   iso_code: 'spa, roe, ine'
+  glottolog_code: >-
+    stan1288, cast1243, west2838, sout3183, shif1234, west2813, ital1285,
+    roma1334, impe1234, lati1263, lati1262, lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: seta
   id: 312
@@ -6445,6 +7514,7 @@
   etymology: SI Prefix zetta-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: si
   id: 302.1
@@ -6454,6 +7524,7 @@
   etymology: Mandarin 時 (shí)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
   iso_code: 'cmn, zhx, sit'
+  glottolog_code: 'mand1415, mand1471, nort2155, midd1354, clas1255, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: si
   id: 302.2
@@ -6463,6 +7534,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sidi
   id: 127
@@ -6472,6 +7544,7 @@
   etymology: s- + -idi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sidisin
   id: 442
@@ -6483,6 +7556,7 @@
   etymology: 'Univerbation of u sidi (li) sin "everywhere, (one) sees"'
   etym_tags: 'compound, lexical compound, univerbation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: siku
   id: 303.1
@@ -6492,6 +7566,7 @@
   etymology: Greenlandic siku
   etym_tags: 'greenlandic, inuit, eskaleut'
   iso_code: 'kal, esx'
+  glottolog_code: 'kala1399, gree1280, inui1246, eski1265, eski1264'
   etym_source: Wiktionary
 - lemma: siku
   id: 303.2
@@ -6501,6 +7576,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: siku
   id: 303.3
@@ -6510,6 +7586,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: siku
   id: 303.4
@@ -6519,6 +7596,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sikunik
   id: 304.1
@@ -6528,6 +7606,7 @@
   etymology: siku + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sikunik
   id: 304.2
@@ -6537,6 +7616,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sima
   id: 305.1
@@ -6546,6 +7626,10 @@
   etymology: Portuguese cima
   etym_tags: 'portuguese, romance, indo-european'
   iso_code: 'por, roe, ine'
+  glottolog_code: >-
+    port1283, braz1247, macr1272, gali1263, west2838, sout3183, shif1234,
+    west2813, ital1285, roma1334, impe1234, lati1263, lati1262, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: simanulica
   id: 587
@@ -6555,6 +7639,7 @@
   etymology: sima + ulica
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: simasinatel
   id: 306
@@ -6564,6 +7649,7 @@
   etymology: sima + sin + -(a)tel
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sin
   id: 305.2
@@ -6575,6 +7661,9 @@
   etymology: Icelandic sýn
   etym_tags: 'icelandic, germanic, indo-european'
   iso_code: 'isl, gem, ine'
+  glottolog_code: >-
+    icel1247, icel1246, west2805, nort3160, nort3152, germ1287, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: sin
   id: 305.3
@@ -6584,6 +7673,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sin
   id: 305.4
@@ -6593,6 +7683,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sin
   id: 305.5
@@ -6602,6 +7693,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sin
   id: 305.6
@@ -6611,6 +7703,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sin
   id: 305.7
@@ -6620,6 +7713,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sin
   id: 305.8
@@ -6629,6 +7723,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sinik
   id: 533
@@ -6638,6 +7733,7 @@
   etymology: si + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sinko
   id: 459.1
@@ -6647,6 +7743,7 @@
   etymology: Wu 性交 (2xin-kau)
   etym_tags: 'wu, sinitic, sino-tibetan'
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: sinko
   id: 459.2
@@ -6656,6 +7753,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sinko
   id: 459.3
@@ -6665,6 +7763,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sinkomin
   id: 460
@@ -6674,6 +7773,7 @@
   etymology: sinko + min
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sino
   id: 523
@@ -6683,6 +7783,7 @@
   etymology: si + no
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sitil
   id: 522
@@ -6692,6 +7793,7 @@
   etymology: si + til
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sode
   id: 318
@@ -6701,6 +7803,7 @@
   etymology: 'Japanese 袖 [そで] (sode)'
   etym_tags: 'japanese, japonic'
   iso_code: 'jpn, jpx'
+  glottolog_code: 'nucl1643, japa1258, japa1256, japo1237'
   etym_source: Wiktionary
 - lemma: sofia
   id: 378.1
@@ -6710,6 +7813,9 @@
   etymology: Greek σοφία (sofía)
   etym_tags: 'greek, indo-european'
   iso_code: 'ell, ine'
+  glottolog_code: >-
+    mode1248, nucl1783, mode1266, koin1234, cent2404, east2798, gree1276,
+    grae1234, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: sofia
   id: 378.2
@@ -6719,6 +7825,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: soga
   id: 319.1
@@ -6728,6 +7835,9 @@
   etymology: Assamese জগা (zoga)
   etym_tags: 'assamese, indo-aryan, indo-european'
   iso_code: 'asm, inc, ine'
+  glottolog_code: >-
+    assa1263, assa1262, kamt1240, gaud1237, oriy1254, indo1323, cont1248,
+    midd1375, indo1321, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: soga
   id: 319.2
@@ -6737,6 +7847,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sogagi
   id: 320
@@ -6746,6 +7857,7 @@
   etymology: soga + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sogataga
   id: 321
@@ -6755,6 +7867,7 @@
   etymology: soga + taga
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sok
   id: 147.1
@@ -6764,6 +7877,7 @@
   etymology: Tuvan соок
   etym_tags: 'tuvan, turkic'
   iso_code: 'tyv, trk'
+  glottolog_code: 'tuvi1240, saya1244, yeni1256, sout2693, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: sok
   id: 147.2
@@ -6773,6 +7887,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sol
   id: 322.1
@@ -6782,6 +7897,7 @@
   etymology: Mansi со̄ль (sōl')
   etym_tags: 'mansi, ugric, uralic'
   iso_code: 'mns, urj'
+  glottolog_code: 'mans1258, nort3271, mans1269, ural1272'
   etym_source: Wiktionary
 - lemma: sol
   id: 322.2
@@ -6791,6 +7907,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: solit
   id: 375.1
@@ -6800,6 +7917,7 @@
   etymology: Maltese xogħlijiet
   etym_tags: 'maltese, semitic, afroasiatic'
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: solit
   id: 375.2
@@ -6809,6 +7927,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: solit
   id: 375.3
@@ -6818,6 +7937,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: som
   id: 125
@@ -6827,6 +7947,7 @@
   etymology: s- + om
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: son
   id: 323.1
@@ -6836,6 +7957,9 @@
   etymology: Dutch zon
   etym_tags: 'dutch, germanic, indo-european'
   iso_code: 'nld, gem, ine'
+  glottolog_code: >-
+    dutc1256, glob1241, mode1257, midd1347, macr1270, west2793, nort3152,
+    germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: son
   id: 323.2
@@ -6845,6 +7969,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: son
   id: 323.3
@@ -6854,6 +7979,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sosi
   id: 126
@@ -6863,6 +7989,7 @@
   etymology: s- + osi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sot
   id: 468
@@ -6872,6 +7999,9 @@
   etymology: Plautdietsch Sot
   etym_tags: 'plautdietsch, germanic, indo-european'
   iso_code: 'pdt, gem, ine'
+  glottolog_code: >-
+    plau1238, east2291, lowg1239, midd1345, alts1234, nort3175, west2793,
+    nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: sual
   id: 325
@@ -6881,6 +8011,7 @@
   etymology: Skolt Sami suâl
   etym_tags: 'skolt sami, sami, uralic'
   iso_code: 'sms, smi, urj'
+  glottolog_code: 'skol1241, main1280, east2324, saam1281, ural1272'
   etym_source: Wiktionary
 - lemma: suka
   id: 504
@@ -6890,6 +8021,7 @@
   etymology: Arabic سكر (sukkar)
   etym_tags: 'arabic, semitic, afroasiatic'
   iso_code: 'arb, sem, afa'
+  glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Wiktionary
 - lemma: sukuma
   id: 580
@@ -6899,6 +8031,7 @@
   etymology: Hadza sukuma
   etym_tags: 'hadza, isolates'
   iso_code: hts
+  glottolog_code: hadz1240
   etym_source: 'https://starlingdb.org/hadet.pdf'
 - lemma: sumaw
   id: 365
@@ -6908,6 +8041,7 @@
   etymology: Mandarin 熊貓 (xióngmāo)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
   iso_code: 'cmn, zhx, sit'
+  glottolog_code: 'mand1415, mand1471, nort2155, midd1354, clas1255, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: susi
   id: 529
@@ -6917,6 +8051,7 @@
   etymology: 'Japanese 寿司 [すし] (sushi)'
   etym_tags: 'japanese, japonic'
   iso_code: 'jpn, jpx'
+  glottolog_code: 'nucl1643, japa1258, japa1256, japo1237'
   etym_source: Wiktionary
 - lemma: suso
   id: 326.1
@@ -6926,6 +8061,7 @@
   etymology: Tagalog suso
   etym_tags: 'tagalog, philippine, malayo-polynesian, austronesian'
   iso_code: 'tgl, phi, poz, map'
+  glottolog_code: 'taga1270, taga1269, taga1280, cent2246, grea1284, mala1545, aust1307'
   etym_source: Wiktionary
 - lemma: suso
   id: 326.2
@@ -6935,6 +8071,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: sut
   id: 327.1
@@ -6944,6 +8081,9 @@
   etymology: Thai ทรุด (sút)
   etym_tags: 'thai, southwestern tai, kra-dai'
   iso_code: 'tha, tai'
+  glottolog_code: >-
+    thai1261, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
+    daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: sut
   id: 327.2
@@ -6953,6 +8093,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ta
   id: 616
@@ -6962,6 +8103,7 @@
   etymology: Kayardild tha
   etym_tags: 'Kayardild, Tangkic'
   iso_code: gyd
+  glottolog_code: 'kaya1319, kaya1318, sout2758, tang1340'
   etym_source: A Grammar of Kayardild (Evans 1995)
 - lemma: taca
   id: 176
@@ -6971,6 +8113,7 @@
   etymology: Panamint tatsa
   etym_tags: 'panamint, numic, uto-aztecan'
   iso_code: 'par, azc'
+  glottolog_code: 'pana1305, cent2130, numi1242, nort2953, utoa1244'
   etym_source: Wiktionary
 - lemma: taga
   id: 329
@@ -6980,6 +8123,9 @@
   etymology: German Tage
   etym_tags: 'german, germanic, indo-european'
   iso_code: 'deu, gem, ine'
+  glottolog_code: >-
+    stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: tak
   id: 332
@@ -6989,6 +8135,7 @@
   etymology: Armenian տակ (tak)
   etym_tags: 'armenian, indo-european'
   iso_code: 'hye, ine'
+  glottolog_code: 'nucl1235, east2768, arme1241, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: tal
   id: 188.1
@@ -6998,6 +8145,7 @@
   etymology: Yakut тал (tal)
   etym_tags: 'yakut, turkic'
   iso_code: 'sah, trk'
+  glottolog_code: 'yaku1245, nort2688, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: tal
   id: 188.2
@@ -7007,6 +8155,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: talka
   id: 333
@@ -7016,6 +8165,9 @@
   etymology: Macedonian талка (talka)
   etym_tags: 'macedonian, slavic, indo-european'
   iso_code: 'mkd, sla, ine'
+  glottolog_code: >-
+    mace1250, mace1252, east2269, sout3147, slav1255, balt1263, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: talkatel
   id: 334
@@ -7025,6 +8177,7 @@
   etymology: talka + -(a)tel; calque of Greek πλανήτης (planétes)
   etym_tags: 'compound, derivation, calque'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tayam
   id: 269
@@ -7036,6 +8189,9 @@
   etymology: Dusun tayam
   etym_tags: 'dusun, north bornean, malayo-polynesian, austronesian'
   iso_code: 'dtp, poz, map'
+  glottolog_code: >-
+    cent2100, kada1292, dusu1277, grea1293, sout3154, saba1285, nort3253,
+    mala1545, aust1307
   etym_source: Wiktionary
 - lemma: tayga
   id: 331
@@ -7045,6 +8201,7 @@
   etymology: Russian тайга (tajga)
   etym_tags: 'russian, slavic, indo-european'
   iso_code: 'rus, sla, ine'
+  glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: tayn
   id: 566
@@ -7054,6 +8211,7 @@
   etymology: Northern Min 等 (tǎing)
   etym_tags: 'northern min, sinitic, sino-tibetan'
   iso_code: 'mnp, zhx, sit'
+  glottolog_code: 'minb1236, minb1244, inla1267, minn1248, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: te
   id: 207
@@ -7063,6 +8221,7 @@
   etymology: the chapter M-T pronouns in WALS
   etym_tags: many
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: teata
   id: 438
@@ -7072,6 +8231,10 @@
   etymology: French teatre
   etym_tags: 'french, romance, indo-european'
   iso_code: 'fra, roe, ine'
+  glottolog_code: >-
+    stan1290, glob1239, macr1273, cent2283, oila1234, gall1280, nort3208,
+    shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
+    lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: tel
   id: 244
@@ -7081,6 +8244,7 @@
   etymology: '-(a)tel'
   etym_tags: 'basalo, a priori'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tela
   id: 309
@@ -7090,6 +8254,7 @@
   etymology: SI Prefix tera-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: telefon
   id: 588
@@ -7099,7 +8264,20 @@
   etymology: English telephone
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
+- lemma: teltal
+  id: 629
+  pos: noun
+  en_definition: knee
+  en_notes: ''
+  etymology: Kawésqar tˀeltal
+  etym_tags: 'kawesqar, alacalufan'
+  iso_code: 'alc, aqa'
+  glottolog_code: 'qawa1238, nort1506, kawe1237'
+  etym_source: 'https://ids.clld.org/valuesets/4-360-313'
 - lemma: tes
   id: 446
   pos: pronoun
@@ -7108,6 +8286,7 @@
   etymology: te + -(a)s
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tesa
   id: 447
@@ -7117,6 +8296,7 @@
   etymology: tes + -(y)a
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: teya
   id: 208
@@ -7126,6 +8306,7 @@
   etymology: te + -(y)a
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tif
   id: 337
@@ -7135,6 +8316,9 @@
   etymology: German Tief
   etym_tags: 'german, germanic, indo-european'
   iso_code: 'deu, gem, ine'
+  glottolog_code: >-
+    stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: til
   id: 255.1
@@ -7144,6 +8328,9 @@
   etymology: Icelandic til
   etym_tags: 'icelandic, germanic, indo-european'
   iso_code: 'isl, gem, ine'
+  glottolog_code: >-
+    icel1247, icel1246, west2805, nort3160, nort3152, germ1287, clas1257,
+    indo1319
   etym_source: Wiktionary
 - lemma: til
   id: 255.2
@@ -7153,6 +8340,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: til son
   id: 144
@@ -7162,6 +8350,7 @@
   etymology: til + son
   etym_tags: 'collocation, compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tilutaga
   id: 549
@@ -7171,6 +8360,7 @@
   etymology: til + taga
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tin
   id: 241.1
@@ -7180,6 +8370,7 @@
   etymology: Cantonese 天 (tin1)
   etym_tags: 'cantonese, sinitic, sino-tibetan'
   iso_code: 'yue, zhx, sit'
+  glottolog_code: 'yuec1235, yuep1234, midd1354, clas1255, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: tin
   id: 241.2
@@ -7189,6 +8380,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tinkew
   id: 374
@@ -7198,6 +8390,9 @@
   etymology: Khiamniungan Naga thīngkhēuh
   etym_tags: 'khiamniungan naga, konyak, tibeto-burman, sino-tibetan'
   iso_code: 'kix, tbq, sit'
+  glottolog_code: >-
+    khia1236, khia1238, lain1234, khia1235, kony1247, kony1246, brah1260,
+    sino1245
   etym_source: Wiktionary
 - lemma: tinulot
   id: 392
@@ -7207,6 +8402,7 @@
   etymology: tin + lot
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tinuloteti
   id: 411
@@ -7216,6 +8412,7 @@
   etymology: tinulot + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tit
   id: 339
@@ -7225,6 +8422,7 @@
   etymology: Cantonese 鐵 (tit3)
   etym_tags: 'cantonese, sinitic, sino-tibetan'
   iso_code: 'yue, zhx, sit'
+  glottolog_code: 'yuec1235, yuep1234, midd1354, clas1255, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: titel
   id: 340.1
@@ -7234,6 +8432,9 @@
   etymology: German Titel
   etym_tags: 'german, germanic, indo-european'
   iso_code: 'deu, gem, ine'
+  glottolog_code: >-
+    stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: titel
   id: 340.2
@@ -7246,6 +8447,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: togus
   id: 161
@@ -7255,6 +8457,7 @@
   etymology: Dolgan тогус (togus)
   etym_tags: 'dolgan, turkic'
   iso_code: 'dlg, trk'
+  glottolog_code: 'dolg1241, nort2688, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: tok
   id: 341
@@ -7264,6 +8467,7 @@
   etymology: Hokkien 桌 (toh)
   etym_tags: 'hokkien, sinitic, sino-tibetan'
   iso_code: 'nan, zhx, sit'
+  glottolog_code: 'minn1241, sout3424, sout3421, coas1318, minn1248, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: tol
   id: 343.1
@@ -7273,6 +8477,9 @@
   etymology: Tamil தோல் (tōl)
   etym_tags: 'tamil, south dravidian, dravidian'
   iso_code: 'tam, dra'
+  glottolog_code: >-
+    tami1289, tami1300, tami1299, tami1298, tami1297, tami1294, tami1293,
+    tami1292, tami1291, sout3138, sout3133, drav1251
   etym_source: Wiktionary
 - lemma: tol
   id: 343.2
@@ -7282,6 +8489,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: toligi
   id: 344.1
@@ -7291,6 +8499,7 @@
   etymology: tol + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: toligi
   id: 344.2
@@ -7300,6 +8509,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: toligi
   id: 344.3
@@ -7309,6 +8519,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tomat
   id: 530
@@ -7318,6 +8529,7 @@
   etymology: Nahuatl tomatl
   etym_tags: 'nahuatl, southern uto-aztecan, uto-aztecan'
   iso_code: 'nhe, azc'
+  glottolog_code: 'east2538, huas1257, east2720, azte1234, cora1261, sout3136, utoa1244'
   etym_source: Wiktionary
 - lemma: tut
   id: 488.1
@@ -7327,6 +8539,7 @@
   etymology: Korean 뜻 (tteut)
   etym_tags: 'korean, koreanic'
   iso_code: kor
+  glottolog_code: 'kore1280, kore1284'
   etym_source: Wiktionary
 - lemma: tut
   id: 488.2
@@ -7336,6 +8549,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: tut
   id: 488.3
@@ -7345,6 +8559,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: u
   id: 256.1
@@ -7354,6 +8569,7 @@
   etymology: Czech u
   etym_tags: 'czech, slavic, indo-european'
   iso_code: 'ces, sla, ine'
+  glottolog_code: 'czec1258, czec1260, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: u
   id: 256.2
@@ -7363,6 +8579,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ugal
   id: 347
@@ -7372,6 +8589,7 @@
   etymology: Russian уголь (ugol')
   etym_tags: 'russian, slavic, indo-european'
   iso_code: 'rus, sla, ine'
+  glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: ugalulot
   id: 108
@@ -7381,6 +8599,7 @@
   etymology: ugal + lot
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ugaluloteti
   id: 405
@@ -7390,6 +8609,7 @@
   etymology: ugalulot + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ugata
   id: 348
@@ -7399,6 +8619,7 @@
   etymology: u + gata; calque of German Umhang
   etym_tags: 'calque, compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: ulica
   id: 413
@@ -7411,6 +8632,7 @@
   etymology: Russian улица (ulica)
   etym_tags: 'russian, slavic, indo-european'
   iso_code: 'rus, sla, ine'
+  glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: ulun
   id: 324
@@ -7420,6 +8642,9 @@
   etymology: Bashkir олон (ulun)
   etym_tags: 'bashkir, turkic'
   iso_code: 'bak, trk'
+  glottolog_code: >-
+    bash1264, bash1267, nort2696, nort3424, kipc1239, kipc1240, comm1245,
+    turk1311
   etym_source: Wiktionary
 - lemma: umal
   id: 215
@@ -7429,6 +8654,7 @@
   etymology: Erzya умарь (umaŕ)
   etym_tags: 'erzya, mordvinic, uralic'
   iso_code: 'myv, urj'
+  glottolog_code: 'erzy1239, mord1256, ural1272'
   etym_source: Wiktionary
 - lemma: un
   id: 155.1
@@ -7438,6 +8664,9 @@
   etymology: Catalan un
   etym_tags: 'catalan, romance, indo-european'
   iso_code: 'cat, roe, ine'
+  glottolog_code: >-
+    stan1289, sout3183, shif1234, west2813, ital1285, roma1334, impe1234,
+    lati1263, lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: un
   id: 155.2
@@ -7447,6 +8676,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: un
   id: 155.3
@@ -7456,6 +8686,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: una
   id: 500
@@ -7465,6 +8696,7 @@
   etymology: Huichol ꞌúna
   etym_tags: 'huichol, corachol, uto-aztecan'
   iso_code: 'hch, azc'
+  glottolog_code: 'huic1243, cora1259, cora1261, sout3136, utoa1244'
   etym_source: Wiktionary
 - lemma: unamelika
   id: 345
@@ -7474,6 +8706,7 @@
   etymology: un + amelika
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: unam mama
   id: 240
@@ -7483,6 +8716,7 @@
   etymology: uni + mama
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: uni amelika
   id: 218
@@ -7494,6 +8728,7 @@
   etymology: uni + amelika
   etym_tags: 'compound, collocation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: uni kanada
   id: 219
@@ -7503,6 +8738,7 @@
   etymology: uni + kanada
   etym_tags: 'compound, collocation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: uniwesiti
   id: 409
@@ -7512,6 +8748,9 @@
   etymology: English university
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: unukanada
   id: 346
@@ -7521,6 +8760,7 @@
   etymology: un + kanada
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: usa
   id: 349
@@ -7530,6 +8770,9 @@
   etymology: English USA
   etym_tags: 'english, germanic, indo-european'
   iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: usno
   id: 373.1
@@ -7539,6 +8782,7 @@
   etymology: Georgian უშნო (ušno)
   etym_tags: 'georgian, kartvelian'
   iso_code: 'kat, ccs'
+  glottolog_code: 'nucl1302, geor1253, geor1252, kart1248'
   etym_source: Wiktionary
 - lemma: usno
   id: 373.2
@@ -7548,6 +8792,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: usnofas
   id: 565.1
@@ -7557,6 +8802,7 @@
   etymology: usno + fas
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: usnofas
   id: 565.2
@@ -7566,6 +8812,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: usu
   id: 350
@@ -7575,6 +8822,7 @@
   etymology: Lak уссу (ussu)
   etym_tags: 'lak, northeast caucasian'
   iso_code: lbe
+  glottolog_code: 'lakk1252, dagh1238, nakh1245'
   etym_source: Wiktionary
 - lemma: utika
   id: 351.1
@@ -7584,6 +8832,7 @@
   etymology: Czech utíkat
   etym_tags: 'czech, slavic, indo-european'
   iso_code: 'ces, sla, ine'
+  glottolog_code: 'czec1258, czec1260, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: utika
   id: 351.2
@@ -7593,6 +8842,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: utika
   id: 351.3
@@ -7602,6 +8852,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: utikagi
   id: 368.1
@@ -7611,6 +8862,7 @@
   etymology: utika + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: utikagi
   id: 368.2
@@ -7620,6 +8872,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: utikatelik
   id: 352
@@ -7629,6 +8882,7 @@
   etymology: utika + -(a)tel + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: uyuku
   id: 509.1
@@ -7638,6 +8892,7 @@
   etymology: Northern Altai уйуку (uyuku)
   etym_tags: 'northern altai, turkic'
   iso_code: 'atv, trk'
+  glottolog_code: 'nort2686, nort3423, sout2693, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: uyuku
   id: 509.2
@@ -7647,6 +8902,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: uyuku
   id: 509.3
@@ -7656,6 +8912,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: uyukukuti
   id: 536
@@ -7665,6 +8922,7 @@
   etymology: uyuku + kuti
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: uyukunoyla
   id: 521.1
@@ -7674,6 +8932,7 @@
   etymology: uyuku + oyla
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: uyukunoyla
   id: 521.2
@@ -7683,6 +8942,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wada
   id: 353
@@ -7692,6 +8952,7 @@
   etymology: Adyghe уды (wudə)
   etym_tags: 'adyghe, northwest caucasian'
   iso_code: ady
+  glottolog_code: 'adyg1241, circ1239, abkh1242'
   etym_source: Wiktionary
 - lemma: waday
   id: 611
@@ -7701,6 +8962,7 @@
   etymology: Ritharrŋu waḏay'yun
   etym_tags: 'ritharrngu, yolngu, pama-nyungan'
   iso_code: rit
+  glottolog_code: 'rita1239, sout3142, yuul1239, pama1250'
   etym_source: 'https://yolngudictionary.cdu.edu.au/'
 - lemma: walu
   id: 160
@@ -7710,6 +8972,9 @@
   etymology: Fijian walu
   etym_tags: 'fijian, oceanic, malayo-polynesian, austronesian'
   iso_code: 'fij, poz, map'
+  glottolog_code: >-
+    fiji1243, viwa1234, nucl1823, east2446, east2445, cent2060, ocea1241,
+    east2712, mala1545, aust1307
   etym_source: Wiktionary
 - lemma: wangu
   id: 355.1
@@ -7719,6 +8984,9 @@
   etymology: Tamil வாங்கு (vāṅku)
   etym_tags: 'tamil, south dravidian, dravidian'
   iso_code: 'tam, dra'
+  glottolog_code: >-
+    tami1289, tami1300, tami1299, tami1298, tami1297, tami1294, tami1293,
+    tami1292, tami1291, sout3138, sout3133, drav1251
   etym_source: Wiktionary
 - lemma: wangu
   id: 355.2
@@ -7728,6 +8996,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wangu
   id: 355.3
@@ -7737,6 +9006,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wangugi
   id: 516.1
@@ -7746,6 +9016,7 @@
   etymology: vangu + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wangugi
   id: 516.2
@@ -7755,6 +9026,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wangumeti
   id: 267
@@ -7764,6 +9036,7 @@
   etymology: vangu + -(m)eti
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wanusa
   id: 60.1
@@ -7773,6 +9046,7 @@
   etymology: Russian внушать (vnušat')
   etym_tags: 'russian, slavic, indo-european'
   iso_code: 'rus, sla, ine'
+  glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
 - lemma: wanusa
   id: 60.2
@@ -7782,6 +9056,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: way
   id: 354.1
@@ -7791,6 +9066,9 @@
   etymology: Lao ໄວ (wai)
   etym_tags: 'lao, southwestern tai, kra-dai'
   iso_code: 'lao, tai'
+  glottolog_code: >-
+    laoo1244, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
+    daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: way
   id: 354.2
@@ -7800,6 +9078,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wayan
   id: 364
@@ -7809,6 +9088,7 @@
   etymology: Githabul wayan
   etym_tags: 'githabul, bandjalangic, pama-nyungan'
   iso_code: 'gih, bdy'
+  glottolog_code: 'cond1242, inla1268, band1339, band1357, news1235, sout3135, pama1250'
   etym_source: Unknown
 - lemma: wede
   id: 357
@@ -7818,6 +9098,9 @@
   etymology: Lombard vedè
   etym_tags: 'lombard, romance, indo-european'
   iso_code: 'lmo, roe, ine'
+  glottolog_code: >-
+    lomb1257, piem1239, gall1279, nort3208, shif1234, west2813, ital1285,
+    roma1334, impe1234, lati1263, lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: wen
   id: 356.1
@@ -7827,6 +9110,7 @@
   etymology: Mandarin 溫 (wēn)
   etym_tags: 'mandarin, sinitic, sino-tibetan'
   iso_code: 'cmn, zhx, sit'
+  glottolog_code: 'mand1415, mand1471, nort2155, midd1354, clas1255, sini1245, sino1245'
   etym_source: Wiktionary
 - lemma: wen
   id: 356.2
@@ -7836,6 +9120,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wen
   id: 356.3
@@ -7845,6 +9130,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wenam
   id: 252
@@ -7854,6 +9140,9 @@
   etymology: Wik-Mungkan weenam
   etym_tags: 'wik-mungkan, wik, paman, pama-nyungan'
   iso_code: wim
+  glottolog_code: >-
+    wikm1247, mung1277, mung1276, kuku1277, kuku1276, wika1239, comp1236,
+    pama1251, pama1250
   etym_source: Wik Mungkan lexicon (ausil.org)
 - lemma: wi
   id: 469.1
@@ -7863,6 +9152,10 @@
   etymology: French vie
   etym_tags: 'french, romance, indo-european'
   iso_code: 'fra, roe, ine'
+  glottolog_code: >-
+    stan1290, glob1239, macr1273, cent2283, oila1234, gall1280, nort3208,
+    shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
+    lati1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: wi
   id: 469.2
@@ -7872,6 +9165,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wi
   id: 469.3
@@ -7881,6 +9175,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: wilin
   id: 470
@@ -7890,6 +9185,7 @@
   etymology: vi + -(a)lin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: '-(y)a'
   id: 1
@@ -7899,6 +9195,7 @@
   etymology: Esperanto -a
   etym_tags: 'esperanto, conlangs'
   iso_code: 'epo, art'
+  glottolog_code: 'espe1235, espe1236, arti1236'
   etym_source: Wiktionary
 - lemma: ya
   id: 92
@@ -7908,6 +9205,9 @@
   etymology: Persian یا (yâ)
   etym_tags: 'persian, iranian, indo-european'
   iso_code: 'pes, fas, ira, ine'
+  glottolog_code: >-
+    west2369, fars1255, fars1254, mode1259, midd1352, sout3157, iran1269,
+    iran1271, indo1320, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: yan
   id: 94.1
@@ -7917,6 +9217,7 @@
   etymology: Vietnamese dành
   etym_tags: 'vietnamese, vietic, austroasiatic'
   iso_code: 'vie, aav'
+  glottolog_code: 'viet1252, viet1251, viet1250, aust1305'
   etym_source: Wiktionary
 - lemma: yan
   id: 94.2
@@ -7926,6 +9227,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yap
   id: 95
@@ -7935,6 +9237,7 @@
   etymology: Khmer យ៉ាប់ (yap)
   etym_tags: 'khmer, austroasiatic'
   iso_code: 'khm, aav'
+  glottolog_code: 'cent1989, khme1253, aust1305'
   etym_source: Wiktionary
 - lemma: yaset
   id: 96.1
@@ -7944,6 +9247,7 @@
   etymology: Halkomelem yóthet
   etym_tags: 'halkomelem, coast salish, salishan'
   iso_code: 'hur, sal'
+  glottolog_code: 'halk1245, sout3394, cent2129, coas1325, sali1255'
   etym_source: 'Dictionary of Upriver Halkomelem Volume I (Galloway, Brent D. 2009)'
 - lemma: yaset
   id: 96.2
@@ -7953,6 +9257,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yaset
   id: 96.3
@@ -7962,6 +9267,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yaset
   id: 96.4
@@ -7971,6 +9277,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yati
   id: 97.1
@@ -7980,6 +9287,7 @@
   etymology: Navajo yátiʼ
   etym_tags: 'navajo, southern dené, dené, na-dené'
   iso_code: 'nav, apa, ath, xnd'
+  glottolog_code: 'nava1243, west2810, sout3151, apac1239, atha1247, atha1246, atha1245'
   etym_source: Wiktionary
 - lemma: yati
   id: 97.2
@@ -7989,6 +9297,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yatilin
   id: 473
@@ -7998,15 +9307,17 @@
   etymology: yati + -(a)lin
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yatilo
   id: 452
   pos: noun
-  en_definition: mouth; tongue
+  en_definition: tongue
   en_notes: ''
   etymology: yati + -(i)lo
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yatinik
   id: 489
@@ -8016,6 +9327,7 @@
   etymology: yati + -(n)ik
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yay
   id: 456.1
@@ -8025,6 +9337,7 @@
   etymology: Abau yayh
   etym_tags: 'abau, sepik, papuan'
   iso_code: 'aau, paa'
+  glottolog_code: 'abau1245, sepi1257'
   etym_source: 'Abau Dictionary (https://www.webonary.org/abau)'
 - lemma: yay
   id: 456.2
@@ -8034,6 +9347,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yek
   id: 496.1
@@ -8043,6 +9357,7 @@
   etymology: Udi йекъ (jeq̇)
   etym_tags: 'udi, lezgic, northeast caucasian'
   iso_code: udi
+  glottolog_code: 'udii1243, udia1235, east2790, nucl1321, lezg1248, dagh1238, nakh1245'
   etym_source: Wiktionary
 - lemma: yek
   id: 496.2
@@ -8052,6 +9367,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yo
   id: 190.1
@@ -8061,6 +9377,7 @@
   etymology: Turkish -iyor
   etym_tags: 'turkish, turkic'
   iso_code: 'tur, trk'
+  glottolog_code: 'nucl1301, west2406, nucl1769, oghu1243, comm1245, turk1311'
   etym_source: Wiktionary
 - lemma: yo
   id: 190.2
@@ -8070,6 +9387,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yokay
   id: 369
@@ -8079,6 +9397,7 @@
   etymology: 'Japanese 妖怪 [よーかい] (yōkai)'
   etym_tags: 'japanese, japonic'
   iso_code: 'jpn, jpx'
+  glottolog_code: 'nucl1643, japa1258, japa1256, japo1237'
   etym_source: Wiktionary
 - lemma: yoku
   id: 102.1
@@ -8088,6 +9407,9 @@
   etymology: Sicilian jocu
   etym_tags: 'sicilian, romance, indo-european'
   iso_code: 'scn, roe, ine'
+  glottolog_code: >-
+    sici1248, sout3428, ital1287, ital1286, ital1285, roma1334, impe1234,
+    lati1263, lati1262, ital1284, clas1257, indo1319
   etym_source: Wiktionary
 - lemma: yoku
   id: 102.2
@@ -8097,6 +9419,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yokutel
   id: 103
@@ -8106,6 +9429,7 @@
   etymology: yoku + -(a)tel
   etym_tags: 'compound, derivation'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yon
   id: 400.1
@@ -8115,6 +9439,9 @@
   etymology: Thai ยนต์ (yon)
   etym_tags: 'thai, southwestern thai, kra-dai'
   iso_code: 'tha, tai'
+  glottolog_code: >-
+    thai1261, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
+    daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
 - lemma: yon
   id: 400.2
@@ -8124,6 +9451,7 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yosi
   id: 551
@@ -8133,6 +9461,7 @@
   etymology: yo + si
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yota
   id: 313
@@ -8142,6 +9471,7 @@
   etymology: SI Prefix yotta-
   etym_tags: internationalism
   iso_code: ''
+  glottolog_code: ''
   etym_source: Wiktionary
 - lemma: yotaga
   id: 552
@@ -8151,6 +9481,7 @@
   etymology: yo + taga
   etym_tags: 'compound, lexical compound'
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: yun
   id: 104
@@ -8160,6 +9491,9 @@
   etymology: Burmese ယုန် (yun)
   etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
   iso_code: 'mya, tbq, sit'
+  glottolog_code: >-
+    nucl1310, nucl1811, mran1234, sout3159, burm1266, lolo1265, burm1265,
+    sino1245
   etym_source: Wiktionary
 - lemma: yuwa
   id: 372.1
@@ -8169,6 +9503,7 @@
   etymology: Livonian jõvā
   etym_tags: 'livonian, finnic, uralic'
   iso_code: 'liv, urj'
+  glottolog_code: 'livv1244, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
 - lemma: yuwa
   id: 372.2
@@ -8178,4 +9513,5 @@
   etymology: ''
   etym_tags: ''
   iso_code: ''
+  glottolog_code: ''
   etym_source: ''
