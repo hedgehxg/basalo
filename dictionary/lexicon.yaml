@@ -22,11 +22,11 @@
   etym_source: Wiktionary
 - lemma: '-aga'
   id: 3
-  pos: suffix
+  pos: correlative suffix
   en_definition: Forms correlatives of quantity; -many
   en_notes: ''
   etymology: aga
-  etym_tags: affixation
+  etym_tags: basalo
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -56,37 +56,7 @@
   en_definition: Forms words denoting a larger or greater version of something
   en_notes: ''
   etymology: aga
-  etym_tags: affixation
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: agagi
-  id: 186
-  pos: 'verb, trans.'
-  en_definition: 'to make large, make big; capitalize'
-  en_notes: ''
-  etymology: aga + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: aganimut
-  id: 554
-  pos: adjective
-  en_definition: 'awesome, great, excellent, fantastic'
-  en_notes: ''
-  etymology: aga + imut
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: aganulica
-  id: 540
-  pos: noun
-  en_definition: 'highway, freeway'
-  en_notes: ''
-  etymology: aga + ulica
-  etym_tags: 'compound, lexical compound'
+  etym_tags: basalo
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -122,13 +92,13 @@
     mode1248, nucl1783, mode1266, koin1234, cent2404, east2798, gree1276,
     grae1234, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: akigi
-  id: 596
-  pos: 'verb, trans.'
-  en_definition: 'to clean, wash, make clean'
+- lemma: akumeso
+  id: 292
+  pos: noun
+  en_definition: '(typography) space, whitespace'
   en_notes: ''
-  etymology: ak + -(i)gi
-  etym_tags: 'compound, derivation'
+  etymology: ak + meso
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -200,96 +170,6 @@
     stan1288, cast1243, west2838, sout3183, shif1234, west2813, ital1285,
     roma1334, impe1234, lati1263, lati1262, lati1284, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: alapi
-  id: 15.1
-  pos: 'verb, ambi.'
-  en_definition: 'to learn, study, be taught'
-  en_notes: ''
-  etymology: al + -(a)pi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: alapi
-  id: 15.2
-  pos: noun
-  en_definition: 'learning, study'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: alapimeti
-  id: 407
-  pos: noun
-  en_definition: 'school, academy, institute, institution, university, college'
-  en_notes: ''
-  etymology: alapi + -(m)eti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: alapitel
-  id: 16
-  pos: 'noun, gendered'
-  en_definition: 'student, pupil, apprentice'
-  en_notes: ''
-  etymology: alapi + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: alasu
-  id: 10
-  pos: noun
-  en_definition: 'learning material, textbook, learning resources'
-  en_notes: ''
-  etymology: al + -(a)su
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: aligi
-  id: 11.1
-  pos: 'verb, ambi.'
-  en_definition: 'to teach, instruct'
-  en_notes: ''
-  etymology: al + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: aligi
-  id: 11.2
-  pos: noun
-  en_definition: 'teaching, instruction'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: aligitel
-  id: 12
-  pos: 'noun, gendered'
-  en_definition: 'teacher, instructor, tutor'
-  en_notes: ''
-  etymology: aligi + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: alilo
-  id: 480
-  pos: noun
-  en_definition: brain
-  en_notes: ''
-  etymology: al + -(i)lo
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: alin
   id: 13
   pos: noun
@@ -310,16 +190,6 @@
   iso_code: 'tzm, ber, afa'
   glottolog_code: 'cent2194, atla1275, kaby1244, berb1260, afro1255'
   etym_source: Wiktionary
-- lemma: alosti
-  id: 291
-  pos: noun
-  en_definition: 'science, body of knowledge; possibility, chance'
-  en_notes: ''
-  etymology: al + -(o)sti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: altan
   id: 17
   pos: noun
@@ -379,36 +249,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: amanatel
-  id: 396
-  pos: noun
-  en_definition: 'swimmer, diver; boat, small ship, dinghy, sloop'
-  en_notes: ''
-  etymology: aman + -(a)tel
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: amaninaki
-  id: 483
-  pos: noun
-  en_definition: otter
-  en_notes: ''
-  etymology: aman + inaki
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: amanulot
-  id: 395
-  pos: noun
-  en_definition: 'ship, boat, vessel'
-  en_notes: ''
-  etymology: aman + lot
-  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -486,6 +326,46 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: antamet
+  id: 558.1
+  pos: 'verb, ditrans., e-til'
+  en_definition: 'to contribute to, add to, give to'
+  en_notes: ''
+  etymology: anta + met
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: antamet
+  id: 558.2
+  pos: noun
+  en_definition: contribution
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: antanimut
+  id: 559.1
+  pos: 'verb, ditrans., e-til'
+  en_definition: to donate
+  en_notes: ''
+  etymology: anta + imut
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: antanimut
+  id: 559.2
+  pos: noun
+  en_definition: donation
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: anto
   id: 527
   pos: noun
@@ -528,28 +408,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: anyanalin
-  id: 479
-  pos: noun
-  en_definition: 'physics, physical science'
-  en_notes: ''
-  etymology: anyan + -(a)lin
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: '-(a)pi'
-  id: 276
-  pos: suffix
-  en_definition: Forms words relating to becoming something or changing in state
-  en_notes: ''
-  etymology: 'Burmese ဖြစ် (hprac, hpyit), influenced by Esperanto -iĝi'
-  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
-  iso_code: 'mya, tbq, sit'
-  glottolog_code: >-
-    nucl1310, nucl1811, mran1234, sout3159, burm1266, lolo1265, burm1265,
-    sino1245
-  etym_source: Wiktionary
 - lemma: '-(a)s'
   id: 295
   pos: suffix
@@ -570,13 +428,13 @@
   iso_code: 'ybe, trk'
   glottolog_code: 'west2402, comm1245, turk1311'
   etym_source: Wiktionary
-- lemma: asakulot
-  id: 394
+- lemma: asal
+  id: 10
   pos: noun
-  en_definition: 'bicycle, bike'
+  en_definition: 'learning material, textbook, learning resources'
   en_notes: ''
-  etymology: asak + lot
-  etym_tags: 'compound, lexical compound'
+  etymology: as(u)- + al
+  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -592,13 +450,13 @@
     west2369, fars1255, fars1254, mode1259, midd1352, sout3157, iran1269,
     iran1271, indo1320, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: '-(a)su'
+- lemma: as(u)-
   id: 24
-  pos: suffix
+  pos: prefix
   en_definition: Forms words relating to a group or collection of something
   en_notes: ''
   etymology: asu
-  etym_tags: affixation
+  etym_tags: basalo
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -636,12 +494,62 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: asusti
-  id: 463
+- lemma: asugida
+  id: 235
   pos: noun
-  en_definition: 'camaraderie, cohesion, culture (e.g. a work culture)'
+  en_definition: neighborhood
   en_notes: ''
-  etymology: asu + -(o)sti
+  etymology: as(u)- + gida
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: asulua
+  id: 543
+  pos: noun
+  en_definition: 'pair, couple'
+  en_notes: ''
+  etymology: as(u)- + lua
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: asumot
+  id: 330
+  pos: noun
+  en_definition: forest
+  en_notes: ''
+  etymology: as(u)- + mot
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: asusanak
+  id: 548
+  pos: noun
+  en_definition: alphabet
+  en_notes: ''
+  etymology: as(u)- + sanak
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: asusel
+  id: 242
+  pos: noun
+  en_definition: the universe
+  en_notes: literally "collection of everything"
+  etymology: as(u)- + sel
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: asutemusik
+  id: 617
+  pos: noun
+  en_definition: 'band, music group'
+  en_notes: ''
+  etymology: as(u)- + temusik
   etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
@@ -688,26 +596,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: '-(a)tel'
-  id: 335
-  pos: suffix
-  en_definition: 'Forms words denoting a person who often does an action; -er, -ist'
-  en_notes: ''
-  etymology: Ukrainian -тель (-tel')
-  etym_tags: 'ukrainian, slavic, indo-european'
-  iso_code: 'ukr, sla, ine'
-  glottolog_code: 'ukra1253, ukra1257, east1426, slav1255, balt1263, clas1257, indo1319'
-  etym_source: Wiktionary
-- lemma: atusi
-  id: 499
-  pos: noun
-  en_definition: the past; former
-  en_notes: ''
-  etymology: at + si
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: aweli
   id: 29.1
   pos: particle
@@ -728,32 +616,12 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: awelinimutapi
-  id: 564
-  pos: 'verb, intr.'
-  en_definition: to improve (oneself)
-  en_notes: ''
-  etymology: aveli + imutapi
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: awelinimutigi
-  id: 563
-  pos: 'verb, trans.'
-  en_definition: to improve sth.
-  en_notes: ''
-  etymology: aveli + imutigi
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: awelis
   id: 30.1
   pos: particle
   en_definition: Used to form the superlative
   en_notes: ''
-  etymology: aveli + -(a)s
+  etymology: aweli + -(a)s
   etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
@@ -770,7 +638,7 @@
   etym_source: ''
 - lemma: '-ay'
   id: 5
-  pos: suffix
+  pos: correlative suffix
   en_definition: 'Forms correlatives of possession; -one''s, -thing''s'
   en_notes: ''
   etymology: '-(y)a'
@@ -892,13 +760,23 @@
   iso_code: 'san, inc, ine'
   glottolog_code: 'sans1269, indo1321, indo1320, clas1257, indo1319'
   etym_source: Wiktionary
-- lemma: basalin
-  id: 474
-  pos: noun
-  en_definition: 'linguistics, study of language'
+- lemma: basafas
+  id: 198.1
+  pos: verb
+  en_definition: 'to construct a language, to conlang'
   en_notes: ''
-  etymology: basa + -(a)lin
-  etym_tags: 'compound, derivation'
+  etymology: basa + fas
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: basafas
+  id: 198.2
+  pos: noun
+  en_definition: 'conlang, constructed language'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -912,12 +790,24 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: basapanga
-  id: 510
+- lemma: basanogop
+  id: 197
   pos: noun
-  en_definition: grammar
+  en_definition: 'international auxiliary language, IAL'
+  en_notes: calque of Esperanto helplingvo
+  etymology: basa + ogop
+  etym_tags: 'compound, lexical compound, calque'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: basasenet
+  id: 199
+  pos: noun
+  en_definition: >-
+    artlang, artistic language; conlang, constructed language (especially of
+    works of fiction)
   en_notes: ''
-  etymology: basa + panga
+  etymology: basa + senet
   etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
@@ -944,6 +834,16 @@
   iso_code: jje
   glottolog_code: 'jeju1234, kore1284'
   etym_source: Wiktionary
+- lemma: belupanlay
+  id: 544
+  pos: noun
+  en_definition: 'starfish, sea star'
+  en_notes: ''
+  etymology: bel + panlay
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: bes
   id: 491.1
   pos: 'verb, trans.'
@@ -992,18 +892,6 @@
     nucl1305, kann1255, kann1259, bada1263, tami1291, sout3138, sout3133,
     drav1251
   etym_source: Wiktionary
-- lemma: bilupuka
-  id: 37
-  pos: noun
-  en_definition: >-
-    trapdoor, hatch; an opening in a floor or ceiling to allow smth. through
-    (e.g. a skylight); window
-  en_notes: calque of German Falltür
-  etymology: bilu + puka
-  etym_tags: 'compound, lexical compound, calque'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: bo
   id: 39.1
   pos: 'verb, trans.'
@@ -1486,12 +1374,22 @@
     thai1261, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
     daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
-- lemma: dinele
-  id: 59
+- lemma: dinulaca
+  id: 146
   pos: noun
-  en_definition: map
+  en_definition: kingdom
   en_notes: ''
-  etymology: din + ele
+  etymology: din + laca
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: dinumeso
+  id: 535
+  pos: adjective
+  en_definition: international
+  en_notes: ''
+  etymology: din + meso
   etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
@@ -1518,16 +1416,6 @@
   iso_code: 'mnc, tuw'
   glottolog_code: 'manc1252, manc1251, manc1250, tung1282'
   etym_source: Wiktionary
-- lemma: dolokan
-  id: 553
-  pos: noun
-  en_definition: 'content, substance, data'
-  en_notes: ''
-  etymology: dolo + kan
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: doni
   id: 636
   pos: noun
@@ -1548,16 +1436,6 @@
   iso_code: 'slk, sla, ine'
   glottolog_code: 'slov1269, czec1260, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
-- lemma: doskapatal
-  id: 51
-  pos: noun
-  en_definition: 'slate, shale; tiles, shingles'
-  en_notes: ''
-  etymology: doska + patal
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: dostep
   id: 52.1
   pos: 'verb, trans.'
@@ -1700,7 +1578,7 @@
   etym_source: Wiktionary
 - lemma: '-el'
   id: 56
-  pos: suffix
+  pos: correlative suffix
   en_definition: Forms demonstrative determiner-pronoun correlatives
   en_notes: ''
   etymology: a priori
@@ -1730,6 +1608,16 @@
     nucl1305, kann1255, kann1259, bada1263, tami1291, sout3138, sout3133,
     drav1251
   etym_source: Wiktionary
+- lemma: eledin
+  id: 59
+  pos: noun
+  en_definition: map
+  en_notes: ''
+  etymology: ele + din
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: enyum
   id: 576
   pos: adjective
@@ -1762,43 +1650,23 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: esafas
-  id: 537
-  pos: 'verb, trans.'
-  en_definition: to cook
+- lemma: esanat
+  id: 476
+  pos: noun
+  en_definition: 'lunch, midday meal'
   en_notes: ''
-  etymology: esa + fas
+  etymology: esa + nat
   etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: esafasukuti
-  id: 538
+- lemma: esasaw
+  id: 494
   pos: noun
-  en_definition: kitchen
+  en_definition: breakfast
   en_notes: ''
-  etymology: esafas + kuti
+  etymology: esa + saw
   etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: esagi
-  id: 62
-  pos: 'verb, ambidi., e-til'
-  en_definition: 'to feed, make drink'
-  en_notes: ''
-  etymology: esa + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: esameti
-  id: 412
-  pos: noun
-  en_definition: restaurant
-  en_notes: ''
-  etymology: esa + -(m)eti
-  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -1854,36 +1722,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: ewokan
-  id: 417
-  pos: adjective
-  en_definition: 'rich, having lots of money; expensive, high price'
-  en_notes: ''
-  etymology: evo + kan
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ewokanatel
-  id: 418
-  pos: noun
-  en_definition: 'rich person, elite'
-  en_notes: ''
-  etymology: evokan + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ewometi
-  id: 419
-  pos: noun
-  en_definition: 'bank, financial institution'
-  en_notes: ''
-  etymology: evo + -(m)eti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: fan
   id: 526
   pos: noun
@@ -1929,13 +1767,13 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: fasatel
-  id: 66
-  pos: noun
-  en_definition: 'creator, maker; user; (figuratively) God'
+- lemma: fasesa
+  id: 537
+  pos: 'verb, trans.'
+  en_definition: to cook
   en_notes: ''
-  etymology: fas + -(a)tel
-  etym_tags: 'compound, derivation'
+  etymology: fas + esa
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -1969,30 +1807,30 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: fasono la nasolo
-  id: 143
+- lemma: fasumeso
+  id: 547
   pos: noun
-  en_definition: printer
+  en_definition: 'interaction, interplay'
   en_notes: ''
-  etymology: fasono + nasolo
-  etym_tags: 'collocation, compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: fasubasa
-  id: 198.1
-  pos: verb
-  en_definition: 'to construct a language, to conlang'
-  en_notes: ''
-  etymology: fas + basa
+  etymology: fas + meso
   etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: fasubasa
-  id: 198.2
+- lemma: fasusno
+  id: 565.1
+  pos: 'verb, ambi.'
+  en_definition: 'to mess up, break, make a mistake'
+  en_notes: ''
+  etymology: fas + usno
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: fasusno
+  id: 565.2
   pos: noun
-  en_definition: 'conlang, constructed language'
+  en_definition: mistake
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -2144,13 +1982,13 @@
   iso_code: 'chr, iro'
   glottolog_code: 'cher1273, iroq1247'
   etym_source: Wiktionary
-- lemma: gatagi
-  id: 72
-  pos: 'verb, trans.'
-  en_definition: to hang up
+- lemma: gatatak
+  id: 348
+  pos: noun
+  en_definition: 'cloak, cape, shawl, mantle'
   en_notes: ''
-  etymology: gata + -(i)gi
-  etym_tags: 'compound, derivation'
+  etymology: gata + tak
+  etym_tags: 'calque, compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -2164,16 +2002,6 @@
   iso_code: 'kat, ccs'
   glottolog_code: 'nucl1302, geor1253, geor1252, kart1248'
   etym_source: Wiktionary
-- lemma: giagi
-  id: 77
-  pos: 'verb, trans.'
-  en_definition: 'to brighten, make pale, make light'
-  en_notes: ''
-  etymology: gia + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: gida
   id: 78.1
   pos: 'verb, intr.'
@@ -2194,13 +2022,13 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: gidasu
-  id: 235
+- lemma: gidakesek
+  id: 236
   pos: noun
-  en_definition: neighborhood
+  en_definition: apartment; apartment complex
   en_notes: ''
-  etymology: gida + -(a)su
-  etym_tags: 'compound, derivation'
+  etymology: gida + kesek
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -2370,7 +2198,7 @@
   etym_source: ''
 - lemma: '-idi'
   id: 81
-  pos: suffix
+  pos: correlative suffix
   en_definition: Forms correlatives of location; -where
   en_notes: ''
   etymology: din
@@ -2378,9 +2206,59 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: '-(i)gi'
+- lemma: igaga
+  id: 186
+  pos: 'verb, trans.'
+  en_definition: 'to make large, make big; capitalize'
+  en_notes: ''
+  etymology: ig(i)- + aga
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igak
+  id: 596
+  pos: 'verb, trans.'
+  en_definition: 'to clean, wash, make clean'
+  en_notes: ''
+  etymology: ig(i)- + ak
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igal
+  id: 11.1
+  pos: 'verb, ambi.'
+  en_definition: 'to teach, instruct'
+  en_notes: ''
+  etymology: ig(i)- + al
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igal
+  id: 11.2
+  pos: noun
+  en_definition: 'teaching, instruction'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igesa
+  id: 62
+  pos: 'verb, ambidi., e-til'
+  en_definition: 'to feed, make drink'
+  en_notes: ''
+  etymology: ig(i)- + esa
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ig(i)-
   id: 82
-  pos: suffix
+  pos: prefix
   en_definition: >-
     Forms causative or factitive words, indicating an action being done to
     something
@@ -2390,6 +2268,238 @@
   iso_code: 'epo, art'
   glottolog_code: 'espe1235, espe1236, arti1236'
   etym_source: Wiktionary
+- lemma: igigata
+  id: 72
+  pos: 'verb, trans.'
+  en_definition: to hang up
+  en_notes: ''
+  etymology: ig(i)- + gata
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igigia
+  id: 77
+  pos: 'verb, trans.'
+  en_definition: 'to brighten, make pale, make light'
+  en_notes: ''
+  etymology: ig(i)- + gia
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igik
+  id: 542
+  pos: 'verb, trans.'
+  en_definition: 'to shrink, make small'
+  en_notes: ''
+  etymology: ig(i)- + ik
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igikak
+  id: 135
+  pos: 'verb, trans.'
+  en_definition: 'to stand up, prop up; to stop'
+  en_notes: ''
+  etymology: ig(i)- + kak
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igikan
+  id: 99
+  pos: 'verb, trans.'
+  en_definition: 'to put on, wear, be wearing'
+  en_notes: ''
+  etymology: ig(i)- + kan
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igikesek
+  id: 541
+  pos: 'verb, trans.'
+  en_definition: 'to divide, divvy'
+  en_notes: ''
+  etymology: ig(i)- + kesek
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igimel
+  id: 210
+  pos: 'verb, trans.'
+  en_definition: 'to delete, get rid of, throw out'
+  en_notes: ''
+  etymology: ig(i)- + mel
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igimet
+  id: 338.1
+  pos: 'verb, trans.'
+  en_definition: 'to join together, adhere, connect'
+  en_notes: ''
+  etymology: ig(i)- + met
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igimet
+  id: 338.2
+  pos: 'verb, ambi.'
+  en_definition: >-
+    (figuratively) to become friends, connect; to connect to a network, go
+    online
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igimut
+  id: 562
+  pos: 'verb, trans.'
+  en_definition: 'to fix, repair, correct'
+  en_notes: ''
+  etymology: ig(i)- + imut
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igimutaweli
+  id: 563
+  pos: 'verb, trans.'
+  en_definition: to improve sth.
+  en_notes: ''
+  etymology: igimut + aweli
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: iginam
+  id: 628
+  pos: 'verb, trans.'
+  en_definition: 'to call someone, name someone'
+  en_notes: ''
+  etymology: ig(i)- + nam
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: iginibo
+  id: 251.1
+  pos: 'verb, trans.'
+  en_definition: to kill
+  en_notes: ''
+  etymology: ig(i)- + nibo
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: iginibo
+  id: 251.2
+  pos: noun
+  en_definition: 'murder, killing'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igiso
+  id: 93
+  pos: 'verb, trans.'
+  en_definition: to balance; to make equal
+  en_notes: ''
+  etymology: ig(i)- + iso
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igisoga
+  id: 320
+  pos: 'verb, trans.'
+  en_definition: to give birth
+  en_notes: ''
+  etymology: ig(i)- + soga
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igitol
+  id: 344.1
+  pos: 'verb, trans.'
+  en_definition: to defeat someone
+  en_notes: ''
+  etymology: ig(i)- + tol
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igitol
+  id: 344.2
+  pos: 'verb, ambi.'
+  en_definition: to win
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igitol
+  id: 344.3
+  pos: noun
+  en_definition: 'victory, win'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igiwangu
+  id: 516.1
+  pos: 'verb, trans., e-til'
+  en_definition: to sell
+  en_notes: ''
+  etymology: ig(i)- + wangu
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igiwangu
+  id: 516.2
+  pos: noun
+  en_definition: 'sale, purchase'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igutika
+  id: 368.1
+  pos: noun
+  en_definition: 'fear, fright, horror, terror'
+  en_notes: ''
+  etymology: ig(i)- + utika
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: igutika
+  id: 368.2
+  pos: adjective
+  en_definition: 'scary, horrifying, terrifying, frightful'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: ik
   id: 84
   pos: adjective
@@ -2397,36 +2507,6 @@
   en_notes: ''
   etymology: '-(n)ik'
   etym_tags: back-formation
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ikigi
-  id: 542
-  pos: 'verb, trans.'
-  en_definition: 'to shrink, make small'
-  en_notes: ''
-  etymology: ik + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ikuyati
-  id: 555.1
-  pos: 'verb, ambi.'
-  en_definition: to whisper
-  en_notes: ''
-  etymology: ik + yati
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ikuyati
-  id: 555.2
-  pos: noun
-  en_definition: whispering
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -2470,6 +2550,16 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: ilal
+  id: 480
+  pos: noun
+  en_definition: brain
+  en_notes: ''
+  etymology: il(o)- + al
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: ili
   id: 490
   pos: noun
@@ -2492,13 +2582,53 @@
   iso_code: 'epo, art'
   glottolog_code: 'espe1235, espe1236, arti1236'
   etym_source: Wiktionary
-- lemma: '-(i)lo'
+- lemma: il(o)-
   id: 141
-  pos: suffix
+  pos: prefix
   en_definition: 'Forms words for tools, devices to perform something'
   en_notes: ''
   etymology: lo
   etym_tags: 'basalo, a priori'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ilomusik
+  id: 606
+  pos: noun
+  en_definition: 'instrument, musical instrument'
+  en_notes: ''
+  etymology: il(o)- + musik
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ilonaso
+  id: 142
+  pos: noun
+  en_definition: 'writing utensil, pen, pencil, quill'
+  en_notes: ''
+  etymology: il(o)- + naso
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ilonaso la fasono
+  id: 143
+  pos: noun
+  en_definition: printer
+  en_notes: ''
+  etymology: ilonaso + fasono
+  etym_tags: 'collocation, compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: iloyati
+  id: 452
+  pos: noun
+  en_definition: tongue
+  en_notes: ''
+  etymology: il(o)- + yati
+  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -2554,33 +2684,13 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: imutanta
-  id: 559.1
-  pos: 'verb, ditrans., e-til'
-  en_definition: to donate
+- lemma: imutaga
+  id: 554
+  pos: adjective
+  en_definition: 'awesome, great, excellent, fantastic'
   en_notes: ''
-  etymology: imut + anta
+  etymology: imut + -(a)ga
   etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: imutanta
-  id: 559.2
-  pos: noun
-  en_definition: donation
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: imutigi
-  id: 562
-  pos: 'verb, trans.'
-  en_definition: 'to fix, repair, correct'
-  en_notes: ''
-  etymology: imut + -(i)gi
-  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -2656,6 +2766,16 @@
   iso_code: 'oac, tuw'
   glottolog_code: 'oroc1248, oroc1249, cent2235, nort3417, tung1282'
   etym_source: Wiktionary
+- lemma: inakinaman
+  id: 483
+  pos: noun
+  en_definition: otter
+  en_notes: ''
+  etymology: inaki + aman
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: inci
   id: 594
   pos: noun
@@ -2678,16 +2798,6 @@
   iso_code: ain
   glottolog_code: 'ainu1240, ainu1252'
   etym_source: Wiktionary
-- lemma: inetel
-  id: 605
-  pos: noun
-  en_definition: square
-  en_notes: ''
-  etymology: ine + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: init
   id: 637
   pos: noun
@@ -2846,16 +2956,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: isogi
-  id: 93
-  pos: 'verb, trans.'
-  en_definition: to balance; to make equal
-  en_notes: ''
-  etymology: iso + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: ista
   id: 91.1
   pos: 'verb, trans.'
@@ -2905,36 +3005,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: istameti
-  id: 414
-  pos: noun
-  en_definition: 'place of worship, place for prayer, church, mosque'
-  en_notes: ''
-  etymology: ista + -(m)eti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: istatilatel
-  id: 620
-  pos: noun
-  en_definition: 'priest, pray-er'
-  en_notes: ''
-  etymology: istatil + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: istatileti
-  id: 415
-  pos: noun
-  en_definition: 'place of worship, place for prayer, church, mosque'
-  en_notes: synonymous with istameti
-  etymology: ista til + -(m)eti
-  etym_tags: 'compound, derivation, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -3057,26 +3127,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: kakapi
-  id: 136
-  pos: 'verb, intr.'
-  en_definition: 'to stand, begin standing; to be stopped, to stop'
-  en_notes: ''
-  etymology: kak + -(a)pi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: kakigi
-  id: 135
-  pos: 'verb, trans.'
-  en_definition: 'to stand up, prop up; to stop'
-  en_notes: ''
-  etymology: kak + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: kakoy
   id: 296
   pos: noun
@@ -3143,6 +3193,16 @@
     pitj1243, tjar1234, wang1300, nucl1724, pint1254, wati1241, dese1234,
     pama1250
   etym_source: Wiktionary
+- lemma: kampaseca
+  id: 399
+  pos: noun
+  en_definition: 'tire, tyre'
+  en_notes: ''
+  etymology: kampa + seca
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: kan
   id: 138.1
   pos: 'verb, trans.'
@@ -3229,13 +3289,13 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: kanigi
-  id: 99
-  pos: 'verb, trans.'
-  en_definition: 'to put on, wear, be wearing'
+- lemma: kanewo
+  id: 417
+  pos: adjective
+  en_definition: 'rich, having lots of money; expensive, high price'
   en_notes: ''
-  etymology: kan + -(i)gi
-  etym_tags: 'compound, derivation'
+  etymology: kan + ewo
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -3249,23 +3309,13 @@
   iso_code: 'izh, urj'
   glottolog_code: 'ingr1248, lado1234, nort3282, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
-- lemma: kanuyon
-  id: 401.1
+- lemma: kanudolo
+  id: 553
   pos: noun
-  en_definition: robot
+  en_definition: 'content, substance, data'
   en_notes: ''
-  etymology: 'kanu + yon, calque of Thai หุ่นยนต์ (hùn-yon)'
-  etym_tags: 'compound, lexical compound, calque'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: kanuyon
-  id: 401.2
-  pos: adjective
-  en_definition: 'robotic, stiff'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
+  etymology: kan + dolo
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -3377,26 +3427,6 @@
   iso_code: 'kir, trk'
   glottolog_code: 'kirg1245, east2791, sout3396, kipc1239, kipc1240, comm1245, turk1311'
   etym_source: Wiktionary
-- lemma: kesekigi
-  id: 541
-  pos: 'verb, trans.'
-  en_definition: 'to divide, divvy'
-  en_notes: ''
-  etymology: kesek + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: kesekugida
-  id: 236
-  pos: noun
-  en_definition: apartment; apartment complex
-  en_notes: ''
-  etymology: kesek + gida
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: kesti
   id: 163.1
   pos: 'verb, ambi.'
@@ -3577,16 +3607,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: kinatel
-  id: 421
-  pos: noun
-  en_definition: 'plant, vegetable, fungi, anything that grows'
-  en_notes: ''
-  etymology: 'kin + -(a)tel, disambiguation of kin'
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: kisa
   id: 164.1
   pos: 'verb, ambi.'
@@ -3639,23 +3659,13 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: kitapatel
-  id: 622
+- lemma: kitapumol
+  id: 225
   pos: noun
-  en_definition: 'secretary, record-keeper'
+  en_definition: dictionary
   en_notes: ''
-  etymology: kitap + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: kitapeti
-  id: 410
-  pos: noun
-  en_definition: 'library, bibliothecha'
-  en_notes: ''
-  etymology: kitap + -(m)eti
-  etym_tags: 'compound, derivation'
+  etymology: kitap + mol
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -3725,36 +3735,6 @@
   iso_code: 'mon, xgn'
   glottolog_code: 'mong1331, khal1273, oira1260, mong1329, mong1349'
   etym_source: Wiktionary
-- lemma: kotinilin
-  id: 471
-  pos: noun
-  en_definition: 'social science, cultural science, anthropology, sociology'
-  en_notes: ''
-  etymology: kotini + -(a)lin
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: kotosti
-  id: 462.1
-  pos: noun
-  en_definition: 'culture, customs, lifestyle, behavior; society'
-  en_notes: ''
-  etymology: kot + -(o)sti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: kotosti
-  id: 462.2
-  pos: adjective
-  en_definition: 'cultural, dependent on culture, subjective; social'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: koy
   id: 167
   pos: noun
@@ -3799,16 +3779,6 @@
     stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: kukanigi
-  id: 139
-  pos: verb
-  en_definition: 'to remove, take off; to let go'
-  en_notes: ''
-  etymology: ku(l)- + kanigi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: ku(l)-
   id: 599
   pos: prefix
@@ -3871,6 +3841,26 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: kuligikak
+  id: 139
+  pos: verb
+  en_definition: 'to remove, take off; to let go'
+  en_notes: ''
+  etymology: ku(l)- + igikak
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: kuligimet
+  id: 481
+  pos: 'verb, trans.'
+  en_definition: 'to disconnect, sever'
+  en_notes: ''
+  etymology: ku(l)- + igimet
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: kulubi
   id: 238
   pos: noun
@@ -3883,26 +3873,6 @@
     west2721, nucl1736, nucl1701, main1283, sout3055, lowl1267, east2699,
     cush1243, afro1255
   etym_source: Wiktionary
-- lemma: kulubinan
-  id: 239
-  pos: noun
-  en_definition: garlic bread
-  en_notes: ''
-  etymology: kulubi + nan
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: kumetigi
-  id: 481
-  pos: 'verb, trans.'
-  en_definition: 'to disconnect, sever'
-  en_notes: ''
-  etymology: ku(l)- + metigi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: kumuwa
   id: 506.1
   pos: 'verb, ambi.'
@@ -4003,6 +3973,36 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: kutifasesa
+  id: 538
+  pos: noun
+  en_definition: kitchen
+  en_notes: ''
+  etymology: kuti + fasesa
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: kutilot
+  id: 539
+  pos: noun
+  en_definition: garage
+  en_notes: ''
+  etymology: kuti + lot
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: kutinuyuku
+  id: 536
+  pos: noun
+  en_definition: bedroom
+  en_notes: ''
+  etymology: kuti + uyuku
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: kuweta
   id: 315
   pos: numeral
@@ -4062,16 +4062,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: lacadin
-  id: 146
-  pos: noun
-  en_definition: kingdom
-  en_notes: ''
-  etymology: laca + din
-  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -4174,16 +4164,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: lamigayan
-  id: 487
-  pos: noun
-  en_definition: battery
-  en_notes: ''
-  etymology: lamiga + yan
-  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -4373,36 +4353,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: lipapi
-  id: 285.1
-  pos: 'verb, intr.'
-  en_definition: 'to be untied, unrestriained; to be free'
-  en_notes: ''
-  etymology: lip + -(a)pi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: lipapi
-  id: 285.2
-  pos: noun
-  en_definition: freedom
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: lipapi
-  id: 285.3
-  pos: adjective
-  en_definition: free
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: loke
   id: 495.1
   pos: noun
@@ -4422,16 +4372,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: lolin
-  id: 475
-  pos: noun
-  en_definition: technology
-  en_notes: ''
-  etymology: lo + -(a)lin
-  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -4513,22 +4453,62 @@
     laoo1244, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
     daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
-- lemma: loteti
-  id: 406
+- lemma: lotaman
+  id: 395
   pos: noun
-  en_definition: 'stop, station (of a bus, train, etc.), train stop, bus stop'
+  en_definition: 'ship, boat, vessel'
   en_notes: ''
-  etymology: lot + -(m)eti
-  etym_tags: 'compound, derivation'
+  etymology: lot + aman
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: lotukuti
-  id: 539
+- lemma: lotasak
+  id: 394
   pos: noun
-  en_definition: garage
+  en_definition: 'bicycle, bike'
   en_notes: ''
-  etymology: lot + kuti
+  etymology: lot + asak
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: lotugal
+  id: 108
+  pos: noun
+  en_definition: train
+  en_notes: ''
+  etymology: lot + ugal
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: lotumet
+  id: 404
+  pos: noun
+  en_definition: 'transportation, moving, method of travel'
+  en_notes: ''
+  etymology: 'lot + met, literally "by vehicle"'
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: lotupoysa
+  id: 586
+  pos: noun
+  en_definition: 'truck, vehicle carrying large amounts of something'
+  en_notes: ''
+  etymology: lot + poysa
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: lotutin
+  id: 392
+  pos: noun
+  en_definition: 'airplane, aeroplane, plane'
+  en_notes: ''
+  etymology: lot + tin
   etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
@@ -4545,26 +4525,6 @@
     hawa1245, east2896, east2449, cent2298, solo1260, nort3246, nucl1485,
     poly1242, east2445, cent2060, ocea1241, east2712, mala1545, aust1307
   etym_source: Wiktionary
-- lemma: luanam
-  id: 234
-  pos: noun
-  en_definition: pronoun
-  en_notes: ''
-  etymology: lua + nam
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: luasu
-  id: 543
-  pos: noun
-  en_definition: 'pair, couple'
-  en_notes: ''
-  etymology: lua + -(a)su
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: luk
   id: 192
   pos: 'noun, gendered'
@@ -4691,26 +4651,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: maimeti
-  id: 440
-  pos: noun
-  en_definition: hospital
-  en_notes: ''
-  etymology: mai + -(m)eti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: maitel
-  id: 619
-  pos: noun
-  en_definition: patient
-  en_notes: ''
-  etymology: mai + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: ma(l)-
   id: 148
   pos: prefix
@@ -4730,16 +4670,6 @@
   en_notes: ''
   etymology: almost every language
   etym_tags: many
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: mameso
-  id: 204
-  pos: adjective
-  en_definition: 'direct, swift, fast'
-  en_notes: ''
-  etymology: ma + meso
-  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -4915,26 +4845,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: medegitel
-  id: 621
-  pos: noun
-  en_definition: 'defender, defense; lawyer, attorney, advocate'
-  en_notes: ''
-  etymology: medegi + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: medusematel
-  id: 625
-  pos: noun
-  en_definition: consonant
-  en_notes: ''
-  etymology: med + sematel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: mega
   id: 307
   pos: numeral
@@ -4951,16 +4861,6 @@
   en_definition: 'none, nothing, nobody'
   en_notes: ''
   etymology: m- + -el
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: meligi
-  id: 210
-  pos: 'verb, trans.'
-  en_definition: 'to delete, get rid of, throw out'
-  en_notes: ''
-  etymology: mel + -(i)gi
   etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
@@ -5029,46 +4929,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: mesodin
-  id: 535
-  pos: adjective
-  en_definition: international
-  en_notes: ''
-  etymology: meso + din
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: mesofas
-  id: 547
-  pos: noun
-  en_definition: 'interaction, interplay'
-  en_notes: ''
-  etymology: meso + fas
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: mesonak
-  id: 292
-  pos: noun
-  en_definition: '(typography) space, whitespace'
-  en_notes: ''
-  etymology: meso + ak
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: mesoyati
-  id: 534
-  pos: noun
-  en_definition: 'conversation, interaction, dialogue'
-  en_notes: ''
-  etymology: meso + yati
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: met
   id: 519
   pos: preposition
@@ -5079,23 +4939,13 @@
   iso_code: 'nor, gem, ine'
   glottolog_code: 'norw1258, west2805, nort3160, nort3152, germ1287, clas1257, indo1319'
   etym_source: Wiktionary
-- lemma: metanta
-  id: 558.1
-  pos: 'verb, ditrans., e-til'
-  en_definition: 'to contribute to, add to, give to'
-  en_notes: ''
-  etymology: met + anta
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: metanta
-  id: 558.2
+- lemma: metalusel
+  id: 408
   pos: noun
-  en_definition: contribution
+  en_definition: 'university, college; encyclopedia'
   en_notes: ''
-  etymology: ''
-  etym_tags: ''
+  etymology: met(i)- + al + sel
+  etym_tags: 'compound, lexical compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -5110,6 +4960,26 @@
   glottolog_code: >-
     stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
     west2793, nort3152, germ1287, clas1257, indo1319
+  etym_source: ''
+- lemma: metesa
+  id: 412
+  pos: noun
+  en_definition: restaurant
+  en_notes: ''
+  etymology: met(i)- + esa
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metewo
+  id: 419
+  pos: noun
+  en_definition: 'bank, financial institution'
+  en_notes: ''
+  etymology: met(i)- + ewo
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
   etym_source: ''
 - lemma: meti
   id: 213.1
@@ -5133,45 +5003,123 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: '-(m)eti'
+- lemma: met(i)-
   id: 268
-  pos: suffix
+  pos: prefix
   en_definition: Forms words indicating a location
   en_notes: ''
   etymology: meti
-  etym_tags: affixation
+  etym_tags: basalo
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: metigi
-  id: 338.1
-  pos: 'verb, trans.'
-  en_definition: 'to join together, adhere, connect'
+- lemma: metikitap
+  id: 410
+  pos: noun
+  en_definition: 'library, bibliothecha'
   en_notes: ''
-  etymology: met + -(i)gi
+  etymology: met(i)- + kitap
   etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: metigi
-  id: 338.2
-  pos: 'verb, ambi.'
-  en_definition: >-
-    (figuratively) to become friends, connect; to connect to a network, go
-    online
+- lemma: metilot
+  id: 406
+  pos: noun
+  en_definition: 'stop, station (of a bus, train, etc.), train stop, bus stop'
   en_notes: ''
-  etymology: ''
-  etym_tags: ''
+  etymology: met(i)- + lot
+  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: metulot
-  id: 404
+- lemma: metilotugal
+  id: 405
   pos: noun
-  en_definition: 'transportation, moving, method of travel'
+  en_definition: 'train stop, train station'
   en_notes: ''
-  etymology: 'met + lot, literally "by vehicle"'
-  etym_tags: 'compound, lexical compound'
+  etymology: met(i)- + lotugal
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metilotutin
+  id: 411
+  pos: noun
+  en_definition: airport
+  en_notes: ''
+  etymology: met(i)- + lotutin
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metimai
+  id: 440
+  pos: noun
+  en_definition: hospital
+  en_notes: ''
+  etymology: met(i)- + mai
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metinan
+  id: 546
+  pos: noun
+  en_definition: bakery
+  en_notes: ''
+  etymology: met(i)- + nan
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metipinal
+  id: 407
+  pos: noun
+  en_definition: 'school, academy, institute, institution, university, college'
+  en_notes: ''
+  etymology: met(i)- + pinal
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metista
+  id: 414
+  pos: noun
+  en_definition: 'place of worship, place for prayer, church, mosque'
+  en_notes: ''
+  etymology: met(i)- + ista
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metistatil
+  id: 415
+  pos: noun
+  en_definition: 'place of worship, place for prayer, church, mosque'
+  en_notes: synonymous with metista
+  etymology: met(i)- + ista til
+  etym_tags: 'compound, derivation, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metiwangu
+  id: 267
+  pos: noun
+  en_definition: 'market, shop, store'
+  en_notes: ''
+  etymology: met(i)- + wangu
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: metowoce
+  id: 545
+  pos: noun
+  en_definition: orchard
+  en_notes: ''
+  etymology: met(i)- + owoce
+  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -5207,6 +5155,26 @@
     hebr1245, hebr1246, cana1267, nort3165, cent2236, west2786, semi1276,
     afro1255
   etym_source: Wiktionary
+- lemma: minusalam
+  id: 461
+  pos: noun
+  en_definition: gender; gramamtical gender
+  en_notes: ''
+  etymology: min + salam
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: minusinko
+  id: 460
+  pos: noun
+  en_definition: biological sex
+  en_notes: ''
+  etymology: min + sinko
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: mis
   id: 270.1
   pos: 'verb, ambi.'
@@ -5301,16 +5269,6 @@
   iso_code: 'nor, gem, ine'
   glottolog_code: 'norw1258, west2805, nort3160, nort3152, germ1287, clas1257, indo1319'
   etym_source: Wiktionary
-- lemma: molukitap
-  id: 225
-  pos: noun
-  en_definition: dictionary
-  en_notes: calque of German Wörterbuch
-  etymology: mol + kitap
-  etym_tags: 'compound, lexical compound, calque'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: mom
   id: 131
   pos: correlative
@@ -5353,16 +5311,6 @@
     stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: motasu
-  id: 330
-  pos: noun
-  en_definition: forest
-  en_notes: ''
-  etymology: mot + -(a)su
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: motik
   id: 501
   pos: noun
@@ -5445,36 +5393,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: musikatel
-  id: 607
-  pos: noun
-  en_definition: 'musician, performer'
-  en_notes: ''
-  etymology: musik + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: musikatelasu
-  id: 617
-  pos: noun
-  en_definition: 'band, music group'
-  en_notes: ''
-  etymology: musikatel + -(a)su
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: musikilo
-  id: 606
-  pos: noun
-  en_definition: 'instrument, musical instrument'
-  en_notes: ''
-  etymology: musik + -(i)lo
-  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -5590,13 +5508,13 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: namigi
-  id: 628
-  pos: 'verb, trans.'
-  en_definition: 'to call someone, name someone'
+- lemma: namulua
+  id: 234
+  pos: noun
+  en_definition: pronoun
   en_notes: ''
-  etymology: nam + -(i)gi
-  etym_tags: 'compound, derivation'
+  etymology: nam + lua
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -5622,16 +5540,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: naneti
-  id: 546
-  pos: noun
-  en_definition: bakery
-  en_notes: ''
-  etymology: nan + -(m)eti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: nanik
   id: 245
   pos: noun
@@ -5639,6 +5547,16 @@
   en_notes: ''
   etymology: na + -(n)ik
   etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: nanukulubi
+  id: 239
+  pos: noun
+  en_definition: garlic bread
+  en_notes: ''
+  etymology: nan + kulubi
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -5675,16 +5593,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: nasolo
-  id: 142
-  pos: noun
-  en_definition: 'writing utensil, pen, pencil, quill'
-  en_notes: ''
-  etymology: naso + -(i)lo
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: nasonik
   id: 561
   pos: noun
@@ -5705,16 +5613,6 @@
   iso_code: kor
   glottolog_code: 'kore1280, kore1284'
   etym_source: Wiktionary
-- lemma: natesa
-  id: 476
-  pos: noun
-  en_definition: 'lunch, midday meal'
-  en_notes: ''
-  etymology: nat + esa
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: naya
   id: 233
   pos: adjective
@@ -5808,16 +5706,6 @@
     stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: niatel
-  id: 623
-  pos: noun
-  en_definition: 'neighbor, neighbour'
-  en_notes: ''
-  etymology: nia + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: nibo
   id: 250.1
   pos: 'verb, intr.'
@@ -5834,26 +5722,6 @@
   id: 250.2
   pos: noun
   en_definition: death
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: nibogi
-  id: 251.1
-  pos: 'verb, trans.'
-  en_definition: to kill
-  en_notes: ''
-  etymology: nibo + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: nibogi
-  id: 251.2
-  pos: noun
-  en_definition: 'murder, killing'
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -5900,6 +5768,16 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: ni(s)-
+  id: 363
+  pos: prefix
+  en_definition: Forms ordinals from numerals
+  en_notes: ''
+  etymology: nisam
+  etym_tags: 'a priori, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: nisam
   id: 253.1
   pos: 'verb, trans.'
@@ -5930,6 +5808,36 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: nisunamelika
+  id: 345
+  pos: noun
+  en_definition: native American
+  en_notes: ''
+  etymology: nisun + amelika
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: nisun mama
+  id: 240
+  pos: noun
+  en_definition: 'God, monotheistic god'
+  en_notes: ''
+  etymology: ni(s)- + un + mama
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: nisunukanada
+  id: 346
+  pos: noun
+  en_definition: First Nations
+  en_notes: ''
+  etymology: nisun + kanada
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: 'no'
   id: 254.1
   pos: 'verb, loc. trans.'
@@ -5957,16 +5865,6 @@
   en_notes: ''
   etymology: no + son
   etym_tags: 'collocation, compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: notaga
-  id: 550
-  pos: noun
-  en_definition: tomorrow
-  en_notes: ''
-  etymology: no + taga
-  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -6096,36 +5994,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: ogopatel
-  id: 49.1
-  pos: 'noun, gendered'
-  en_definition: 'helper, one who aides; server, waiter'
-  en_notes: ''
-  etymology: ogop + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ogopatel
-  id: 49.2
-  pos: noun
-  en_definition: (computing) server
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ogopubasa
-  id: 197
-  pos: noun
-  en_definition: 'international auxiliary language, IAL'
-  en_notes: calque of Esperanto helplingvo
-  etymology: ogop + basa
-  etym_tags: 'compound, lexical compound, calque'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: ok
   id: 581
   pos: noun
@@ -6148,7 +6016,7 @@
   etym_source: Wiktionary
 - lemma: '-om'
   id: 182
-  pos: suffix
+  pos: correlative suffix
   en_definition: 'Forms manner or reason correlatives, analogous to "way" or "how" in English'
   en_notes: ''
   etymology: a priori
@@ -6186,26 +6054,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: onalilo
-  id: 603
-  pos: adjective
-  en_definition: brainless; lobotomized
-  en_notes: ''
-  etymology: on(i)- + alilo
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: onalosti
-  id: 290
-  pos: noun
-  en_definition: impossibility
-  en_notes: ''
-  etymology: onal + -(o)sti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: on(i)-
   id: 600
   pos: prefix
@@ -6218,13 +6066,23 @@
     swis1247, sout3294, alem1243, mode1258, midd1349, high1286, high1289,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
-- lemma: onimedegisema
-  id: 614
+- lemma: onilal
+  id: 603
   pos: adjective
-  en_definition: hard of hearing
+  en_definition: brainless; lobotomized
   en_notes: ''
-  etymology: on(i)- + medegi + sema
-  etym_tags: 'compound, derivation, lexical compound'
+  etymology: on(i)- + ilal
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: onimeso
+  id: 204
+  pos: adjective
+  en_definition: 'direct, swift, fast'
+  en_notes: ''
+  etymology: on(i)- + meso
+  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -6235,6 +6093,16 @@
   en_notes: ''
   etymology: on(i)- + sema
   etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: onisemamedegi
+  id: 614
+  pos: adjective
+  en_definition: hard of hearing
+  en_notes: ''
+  etymology: on(i)- + sema + medegi
+  etym_tags: 'compound, derivation, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -6268,16 +6136,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: onoyati
-  id: 221
-  pos: noun
-  en_definition: 'idiolect, how one speaks'
-  en_notes: ''
-  etymology: ono + yati
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: os
   id: 454
   pos: noun
@@ -6292,7 +6150,7 @@
   etym_source: Wiktionary
 - lemma: '-osi'
   id: 183
-  pos: suffix
+  pos: correlative suffix
   en_definition: 'Forms time correlatives, analogous to "when" in English'
   en_notes: ''
   etymology: si
@@ -6320,6 +6178,116 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: ostabasa
+  id: 474
+  pos: noun
+  en_definition: 'linguistics, study of language'
+  en_notes: ''
+  etymology: osta(l)- + basa
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostal
+  id: 291
+  pos: noun
+  en_definition: 'science, body of knowledge; possibility, chance'
+  en_notes: ''
+  etymology: ost(i)- + al
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: osta(l)-
+  id: 638
+  pos: prefix
+  en_definition: Forms words relating to a field of science or study
+  en_notes: ''
+  etymology: ostal
+  etym_tags: basalo
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostalanyan
+  id: 479
+  pos: noun
+  en_definition: 'physics, physical science'
+  en_notes: ''
+  etymology: osta(l)- + anyan
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostalo
+  id: 475
+  pos: noun
+  en_definition: technology
+  en_notes: ''
+  etymology: osta(l)- + lo
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostalostikot
+  id: 471
+  pos: noun
+  en_definition: 'social science, cultural science, anthropology, sociology'
+  en_notes: ''
+  etymology: osta(l)- + ostikot
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostapi
+  id: 477
+  pos: noun
+  en_definition: chemistry
+  en_notes: ''
+  etymology: osta(l)- + pi
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostasalam
+  id: 472
+  pos: noun
+  en_definition: 'anthropology, study of humanity'
+  en_notes: ''
+  etymology: osta(l)- + salam
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostasu
+  id: 463
+  pos: noun
+  en_definition: 'camaraderie, cohesion, culture (e.g. a work culture)'
+  en_notes: ''
+  etymology: ost(i)- + asu
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostawi
+  id: 470
+  pos: noun
+  en_definition: 'biology, study of life'
+  en_notes: ''
+  etymology: osta(l)- + wi
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostayati
+  id: 473
+  pos: noun
+  en_definition: communication studies
+  en_notes: ''
+  etymology: osta(l)- + yati
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: osten
   id: 568
   pos: noun
@@ -6332,9 +6300,9 @@
     swed1254, east2781, east2780, nort3266, nort3160, nort3152, germ1287,
     clas1257, indo1319
   etym_source: Wiktionary
-- lemma: '-(o)sti'
+- lemma: ost(i)-
   id: 288
-  pos: suffix
+  pos: prefix
   en_definition: >-
     Forms words denoting the state or quality of being some adjective; -ness,
     -ity
@@ -6344,6 +6312,36 @@
   iso_code: 'ukr, sla, ine'
   glottolog_code: 'ukra1253, ukra1257, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
+- lemma: ostikot
+  id: 462.1
+  pos: noun
+  en_definition: 'culture, customs, lifestyle, behavior; society'
+  en_notes: ''
+  etymology: ost(i)- + kot
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostikot
+  id: 462.2
+  pos: adjective
+  en_definition: 'cultural, dependent on culture, subjective; social'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostonal
+  id: 290
+  pos: noun
+  en_definition: impossibility
+  en_notes: ''
+  etymology: ost(i)- + onal
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: osu
   id: 262.1
   pos: 'verb, trans.'
@@ -6399,16 +6397,6 @@
     stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: otoyon
-  id: 402
-  pos: noun
-  en_definition: 'motor, engine (of a car)'
-  en_notes: ''
-  etymology: oto + yon
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: owa
   id: 263.1
   pos: 'verb, ambi.'
@@ -6449,16 +6437,6 @@
   iso_code: 'ces, sla, ine'
   glottolog_code: 'czec1258, czec1260, west2792, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
-- lemma: owocemeti
-  id: 545
-  pos: noun
-  en_definition: orchard
-  en_notes: ''
-  etymology: ovoce + -(m)eti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: oyge
   id: 260.1
   pos: noun
@@ -6507,6 +6485,26 @@
   id: 520.3
   pos: adjective
   en_definition: 'thought up, conceptualized, imagined'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: oylanuyuku
+  id: 521.1
+  pos: 'verb, intr.'
+  en_definition: to dream
+  en_notes: ''
+  etymology: oyla + uyuku
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: oylanuyuku
+  id: 521.2
+  pos: noun
+  en_definition: dream
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -6620,6 +6618,16 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: pangabasa
+  id: 510
+  pos: noun
+  en_definition: grammar
+  en_notes: ''
+  etymology: panga + basa
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: panlay
   id: 289
   pos: noun
@@ -6632,16 +6640,6 @@
     shan1277, sout2744, shan1276, sout2743, sout3184, sapa1255, wenm1239,
     cent2251, daic1237, daic1238, kamt1241, taik1256
   etym_source: Wiktionary
-- lemma: panlaybel
-  id: 544
-  pos: noun
-  en_definition: 'starfish, sea star'
-  en_notes: ''
-  etymology: panlay + bel
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: pasi
   id: 458
   pos: noun
@@ -6674,6 +6672,16 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: pataludoska
+  id: 51
+  pos: noun
+  en_definition: 'slate, shale; tiles, shingles'
+  en_notes: ''
+  etymology: patal + doska
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: paun
   id: 595
   pos: noun
@@ -6701,7 +6709,7 @@
   pos: 'verb, ambi.'
   en_definition: 'to transform, change'
   en_notes: ''
-  etymology: '-(a)pi'
+  etymology: pi(n)-
   etym_tags: 'basalo, a priori'
   iso_code: ''
   glottolog_code: ''
@@ -6716,13 +6724,43 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: pilin
-  id: 477
-  pos: noun
-  en_definition: chemistry
+- lemma: pikak
+  id: 136
+  pos: 'verb, intr.'
+  en_definition: 'to stand, begin standing; to be stopped, to stop'
   en_notes: ''
-  etymology: pi + -(a)lin
+  etymology: pi(n)- + kak
   etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: pilip
+  id: 285.1
+  pos: 'verb, intr.'
+  en_definition: 'to be untied, unrestriained; to be free'
+  en_notes: ''
+  etymology: pi(n)- + lip
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: pilip
+  id: 285.2
+  pos: noun
+  en_definition: freedom
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: pilip
+  id: 285.3
+  pos: adjective
+  en_definition: free
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -6738,6 +6776,48 @@
     wels1247, oldm1247, bryt1239, insu1254, tgbc1234, nucl1715, celt1248,
     clas1257, indo1319
   etym_source: Wiktionary
+- lemma: pi(n)-
+  id: 276
+  pos: prefix
+  en_definition: Forms words relating to becoming something or changing in state
+  en_notes: ''
+  etymology: 'Burmese ဖြစ် (hprac, hpyit), influenced by Esperanto -iĝi'
+  etym_tags: 'burmese, lolo-burmese, tibeto-burman, sino-tibetan'
+  iso_code: 'mya, tbq, sit'
+  glottolog_code: >-
+    nucl1310, nucl1811, mran1234, sout3159, burm1266, lolo1265, burm1265,
+    sino1245
+  etym_source: Wiktionary
+- lemma: pinal
+  id: 15.1
+  pos: 'verb, ambi.'
+  en_definition: 'to learn, study, be taught'
+  en_notes: ''
+  etymology: pi(n)- + al
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: pinal
+  id: 15.2
+  pos: noun
+  en_definition: 'learning, study'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: pinimutaweli
+  id: 564
+  pos: 'verb, intr.'
+  en_definition: to improve (oneself)
+  en_notes: ''
+  etymology: pinimut + aweli
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: pita
   id: 278.1
   pos: 'verb, ambi.'
@@ -6833,16 +6913,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: pomaitel
-  id: 618
-  pos: noun
-  en_definition: 'doctor, nurse, medicine man, healer'
-  en_notes: ''
-  etymology: pomai + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: powine
   id: 282.1
   pos: 'verb, modal'
@@ -6921,16 +6991,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: poysalot
-  id: 586
-  pos: noun
-  en_definition: 'truck, vehicle carrying large amounts of something'
-  en_notes: ''
-  etymology: poysa + lot
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: puka
   id: 283
   pos: noun
@@ -6943,6 +7003,18 @@
     hawa1245, east2896, east2449, cent2298, solo1260, nort3246, nucl1485,
     poly1242, east2445, cent2060, ocea1241, east2712, mala1545, aust1307
   etym_source: Wiktionary
+- lemma: pukabilu
+  id: 37
+  pos: noun
+  en_definition: >-
+    trapdoor, hatch; an opening in a floor or ceiling to allow smth. through
+    (e.g. a skylight); window
+  en_notes: calque of German Falltür
+  etymology: puka + bilu
+  etym_tags: 'compound, lexical compound, calque'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: pulma
   id: 286.1
   pos: 'verb, intr.'
@@ -7055,26 +7127,6 @@
   iso_code: kor
   glottolog_code: 'kore1280, kore1284'
   etym_source: Wiktionary
-- lemma: salamalin
-  id: 472
-  pos: noun
-  en_definition: 'anthropology, study of humanity'
-  en_notes: ''
-  etymology: salam + -(a)lin
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: salamumin
-  id: 461
-  pos: noun
-  en_definition: gender; gramamtical gender
-  en_notes: ''
-  etymology: salam + min
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: salkaya
   id: 582
   pos: 'verb, trans.'
@@ -7115,16 +7167,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: salotel
-  id: 390
-  pos: noun
-  en_definition: 'pig, pork'
-  en_notes: ''
-  etymology: salo + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: salula
   id: 512.1
   pos: 'verb, trans.'
@@ -7144,16 +7186,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: '-(s)am'
-  id: 363
-  pos: suffix
-  en_definition: Forms ordinals from numerals
-  en_notes: ''
-  etymology: nisam
-  etym_tags: 'a priori, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -7179,16 +7211,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: sanakasu
-  id: 548
-  pos: noun
-  en_definition: alphabet
-  en_notes: ''
-  etymology: sanak + -(a)su
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: sasa
   id: 515
   pos: 'verb, trans.'
@@ -7199,16 +7221,6 @@
   iso_code: 'arb, sem, afa'
   glottolog_code: 'stan1318, arab1395, arab1394, cent2236, west2786, semi1276, afro1255'
   etym_source: Native speaker
-- lemma: sasi
-  id: 560
-  pos: noun
-  en_definition: future; the latter
-  en_notes: ''
-  etymology: sa + si
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: sata
   id: 159.1
   pos: numeral
@@ -7286,16 +7298,6 @@
     shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
     lati1284, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: sawesa
-  id: 494
-  pos: noun
-  en_definition: breakfast
-  en_notes: ''
-  etymology: sav + esa
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: say
   id: 123
   pos: correlative
@@ -7340,42 +7342,12 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: secakampa
-  id: 399
-  pos: noun
-  en_definition: 'tire, tyre'
-  en_notes: ''
-  etymology: seca + kampa
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: sel
   id: 122
   pos: correlative
   en_definition: 'every, each'
   en_notes: ''
   etymology: s- + -el
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: selaleti
-  id: 408
-  pos: noun
-  en_definition: 'university, college; encyclopedia'
-  en_notes: ''
-  etymology: sel + al + -(m)eti
-  etym_tags: 'compound, lexical compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: selasu
-  id: 242
-  pos: noun
-  en_definition: the universe
-  en_notes: literally "collection of everything"
-  etymology: sel + -(a)su
   etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
@@ -7422,16 +7394,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: sematel
-  id: 624
-  pos: noun
-  en_definition: voice; vowel
-  en_notes: ''
-  etymology: sema + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: semya
   id: 299
   pos: noun
@@ -7469,28 +7431,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: senetatel
-  id: 301
-  pos: noun
-  en_definition: 'one who performs some art (e.g. photographer, artist, musician)'
-  en_notes: ''
-  etymology: senet + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: senetubasa
-  id: 199
-  pos: noun
-  en_definition: >-
-    artlang, artistic language; conlang, constructed language (especially of
-    works of fiction)
-  en_notes: ''
-  etymology: senet + basa
-  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -7543,18 +7483,6 @@
   en_notes: ''
   etymology: s- + -idi
   etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: sidisin
-  id: 442
-  pos: adjective
-  en_definition: >-
-    common, commonplace, widespread; general, miscellaneous, unspecific,
-    nonspecific, vague; usual, usually, ordinarily
-  en_notes: ''
-  etymology: 'Univerbation of u sidi (li) sin "everywhere, (one) sees"'
-  etym_tags: 'compound, lexical compound, univerbation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -7631,26 +7559,6 @@
     west2813, ital1285, roma1334, impe1234, lati1263, lati1262, clas1257,
     indo1319
   etym_source: Wiktionary
-- lemma: simanulica
-  id: 587
-  pos: noun
-  en_definition: bridge
-  en_notes: ''
-  etymology: sima + ulica
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: simasinatel
-  id: 306
-  pos: noun
-  en_definition: 'overseer, administrator, supervisor; (Internet) moderator'
-  en_notes: ''
-  etymology: sima + sin + -(a)tel
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: sin
   id: 305.2
   pos: 'verb, trans.'
@@ -7725,6 +7633,16 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: sinat
+  id: 499
+  pos: noun
+  en_definition: the past; former
+  en_notes: ''
+  etymology: si + at
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: sinik
   id: 533
   pos: noun
@@ -7765,16 +7683,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: sinkomin
-  id: 460
-  pos: noun
-  en_definition: biological sex
-  en_notes: ''
-  etymology: sinko + min
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: sino
   id: 523
   pos: preposition
@@ -7785,12 +7693,32 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: sisa
+  id: 560
+  pos: noun
+  en_definition: future; the latter
+  en_notes: ''
+  etymology: si + sa
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: sitil
   id: 522
   pos: preposition
   en_definition: 'before, pre-, preceding'
   en_notes: ''
   etymology: si + til
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: siyo
+  id: 551
+  pos: noun
+  en_definition: 'right now, current, present'
+  en_notes: ''
+  etymology: si + yo
   etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
@@ -7846,26 +7774,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: sogagi
-  id: 320
-  pos: 'verb, trans.'
-  en_definition: to give birth
-  en_notes: ''
-  etymology: soga + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: sogataga
-  id: 321
-  pos: noun
-  en_definition: birthday
-  en_notes: ''
-  etymology: soga + taga
-  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -8127,6 +8035,46 @@
     stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
+- lemma: tagano
+  id: 550
+  pos: noun
+  en_definition: tomorrow
+  en_notes: ''
+  etymology: taga + no
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tagasoga
+  id: 321
+  pos: noun
+  en_definition: birthday
+  en_notes: ''
+  etymology: taga + soga
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tagatil
+  id: 549
+  pos: noun
+  en_definition: yesterday
+  en_notes: ''
+  etymology: taga + til
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tagayo
+  id: 552
+  pos: noun
+  en_definition: 'today, this day'
+  en_notes: ''
+  etymology: taga + yo
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: tak
   id: 332
   pos: preposition
@@ -8169,16 +8117,6 @@
     mace1250, mace1252, east2269, sout3147, slav1255, balt1263, clas1257,
     indo1319
   etym_source: Wiktionary
-- lemma: talkatel
-  id: 334
-  pos: noun
-  en_definition: 'wanderer, vagabond, nomad; planet'
-  en_notes: ''
-  etymology: talka + -(a)tel; calque of Greek πλανήτης (planétes)
-  etym_tags: 'compound, derivation, calque'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: tayam
   id: 269
   pos: noun
@@ -8236,12 +8174,62 @@
     shif1234, west2813, ital1285, roma1334, impe1234, lati1263, lati1262,
     lati1284, clas1257, indo1319
   etym_source: Wiktionary
+- lemma: tefas
+  id: 66
+  pos: noun
+  en_definition: 'creator, maker; user; (figuratively) God'
+  en_notes: ''
+  etymology: te(l)- + fas
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tekanewo
+  id: 418
+  pos: noun
+  en_definition: 'rich person, elite'
+  en_notes: ''
+  etymology: te(l)- + kanewo
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tekin
+  id: 421
+  pos: noun
+  en_definition: 'plant, vegetable, fungi, anything that grows'
+  en_notes: ''
+  etymology: 'te(l)- + kin, disambiguation of kin'
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tekitap
+  id: 622
+  pos: noun
+  en_definition: 'secretary, record-keeper'
+  en_notes: ''
+  etymology: te(l)- + kitap
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: te(l)-
+  id: 335
+  pos: prefix
+  en_definition: 'Forms words denoting a person who often does an action; -er, -ist'
+  en_notes: ''
+  etymology: Ukrainian -тель (-tel')
+  etym_tags: 'ukrainian, slavic, indo-european'
+  iso_code: 'ukr, sla, ine'
+  glottolog_code: 'ukra1253, ukra1257, east1426, slav1255, balt1263, clas1257, indo1319'
+  etym_source: Wiktionary
 - lemma: tel
   id: 244
   pos: noun
   en_definition: '(linguistics) agent, subject'
   en_notes: ''
-  etymology: '-(a)tel'
+  etymology: te(l)-
   etym_tags: 'basalo, a priori'
   iso_code: ''
   glottolog_code: ''
@@ -8256,6 +8244,16 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: Wiktionary
+- lemma: telaman
+  id: 396
+  pos: noun
+  en_definition: 'swimmer, diver; boat, small ship, dinghy, sloop'
+  en_notes: ''
+  etymology: te(l)- + aman
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: telefon
   id: 588
   pos: noun
@@ -8268,6 +8266,56 @@
     stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
+- lemma: teligal
+  id: 12
+  pos: 'noun, gendered'
+  en_definition: 'teacher, instructor, tutor'
+  en_notes: ''
+  etymology: te(l)- + igal
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: teline
+  id: 605
+  pos: noun
+  en_definition: square
+  en_notes: ''
+  etymology: te(l)- + ine
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: telistatil
+  id: 620
+  pos: noun
+  en_definition: 'priest, pray-er'
+  en_notes: ''
+  etymology: te(l)- + ista til
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: telogop
+  id: 49.1
+  pos: 'noun, gendered'
+  en_definition: 'helper, one who aides; server, waiter'
+  en_notes: ''
+  etymology: te(l)- + ogop
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: telogop
+  id: 49.2
+  pos: noun
+  en_definition: (computing) server
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: teltal
   id: 629
   pos: noun
@@ -8278,6 +8326,76 @@
   iso_code: 'alc, aqa'
   glottolog_code: 'qawa1238, nort1506, kawe1237'
   etym_source: 'https://ids.clld.org/valuesets/4-360-313'
+- lemma: telutikanik
+  id: 352
+  pos: noun
+  en_definition: hedgehog
+  en_notes: ''
+  etymology: te(l)- + utika + -(n)ik
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: temai
+  id: 619
+  pos: noun
+  en_definition: patient
+  en_notes: ''
+  etymology: te(l)- + mai
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: temedegi
+  id: 621
+  pos: noun
+  en_definition: 'defender, defense; lawyer, attorney, advocate'
+  en_notes: ''
+  etymology: te(l)- + medegi
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: temusik
+  id: 607
+  pos: noun
+  en_definition: 'musician, performer'
+  en_notes: ''
+  etymology: te(l)- + musik
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tenia
+  id: 623
+  pos: noun
+  en_definition: 'neighbor, neighbour'
+  en_notes: ''
+  etymology: te(l)- + nia
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tepinal
+  id: 16
+  pos: 'noun, gendered'
+  en_definition: 'student, pupil, apprentice'
+  en_notes: ''
+  etymology: te(l)- + pinal
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tepomai
+  id: 618
+  pos: noun
+  en_definition: 'doctor, nurse, medicine man, healer'
+  en_notes: ''
+  etymology: te(l)- + pomai
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: tes
   id: 446
   pos: pronoun
@@ -8298,12 +8416,82 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: tesalo
+  id: 390
+  pos: noun
+  en_definition: 'pig, pork'
+  en_notes: ''
+  etymology: te(l)- + salo
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tesema
+  id: 624
+  pos: noun
+  en_definition: voice; vowel
+  en_notes: ''
+  etymology: te(l)- + sema
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tesemamet
+  id: 625
+  pos: noun
+  en_definition: consonant
+  en_notes: ''
+  etymology: tesema + met
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tesenet
+  id: 301
+  pos: noun
+  en_definition: 'one who performs some art (e.g. photographer, artist, musician)'
+  en_notes: ''
+  etymology: te(l)- + senet
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tesinusima
+  id: 306
+  pos: noun
+  en_definition: 'overseer, administrator, supervisor; (Internet) moderator'
+  en_notes: ''
+  etymology: te(l)- + sin + sima
+  etym_tags: 'compound, lexical compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: tetalka
+  id: 334
+  pos: noun
+  en_definition: 'wanderer, vagabond, nomad; planet'
+  en_notes: ''
+  etymology: te(l)- + talka; calque of Greek πλανήτης (planétes)
+  etym_tags: 'compound, derivation, calque'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: teya
   id: 208
   pos: pronoun
   en_definition: your
   en_notes: ''
   etymology: te + -(y)a
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: teyoku
+  id: 103
+  pos: noun
+  en_definition: player
+  en_notes: ''
+  etymology: te(l)- + yoku
   etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
@@ -8352,16 +8540,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: tilutaga
-  id: 549
-  pos: noun
-  en_definition: yesterday
-  en_notes: ''
-  etymology: til + taga
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: tin
   id: 241.1
   pos: 'verb, intr.'
@@ -8394,26 +8572,6 @@
     khia1236, khia1238, lain1234, khia1235, kony1247, kony1246, brah1260,
     sino1245
   etym_source: Wiktionary
-- lemma: tinulot
-  id: 392
-  pos: noun
-  en_definition: 'airplane, aeroplane, plane'
-  en_notes: ''
-  etymology: tin + lot
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: tinuloteti
-  id: 411
-  pos: noun
-  en_definition: airport
-  en_notes: ''
-  etymology: tinulot + -(m)eti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: tit
   id: 339
   pos: noun
@@ -8491,36 +8649,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: toligi
-  id: 344.1
-  pos: 'verb, trans.'
-  en_definition: to defeat someone
-  en_notes: ''
-  etymology: tol + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: toligi
-  id: 344.2
-  pos: 'verb, ambi.'
-  en_definition: to win
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: toligi
-  id: 344.3
-  pos: noun
-  en_definition: 'victory, win'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: tomat
   id: 530
   pos: noun
@@ -8591,36 +8719,6 @@
   iso_code: 'rus, sla, ine'
   glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
-- lemma: ugalulot
-  id: 108
-  pos: noun
-  en_definition: train
-  en_notes: ''
-  etymology: ugal + lot
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ugaluloteti
-  id: 405
-  pos: noun
-  en_definition: 'train stop, train station'
-  en_notes: ''
-  etymology: ugalulot + -(m)eti
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ugata
-  id: 348
-  pos: noun
-  en_definition: 'cloak, cape, shawl, mantle'
-  en_notes: ''
-  etymology: u + gata; calque of German Umhang
-  etym_tags: 'calque, compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: ulica
   id: 413
   pos: noun
@@ -8634,6 +8732,26 @@
   iso_code: 'rus, sla, ine'
   glottolog_code: 'russ1263, east1426, slav1255, balt1263, clas1257, indo1319'
   etym_source: Wiktionary
+- lemma: ulicaga
+  id: 540
+  pos: noun
+  en_definition: 'highway, freeway'
+  en_notes: ''
+  etymology: ulica + -(a)ga
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ulicasima
+  id: 587
+  pos: noun
+  en_definition: bridge
+  en_notes: ''
+  etymology: ulica + sima
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: ulun
   id: 324
   pos: noun
@@ -8698,26 +8816,6 @@
   iso_code: 'hch, azc'
   glottolog_code: 'huic1243, cora1259, cora1261, sout3136, utoa1244'
   etym_source: Wiktionary
-- lemma: unamelika
-  id: 345
-  pos: noun
-  en_definition: native American
-  en_notes: ''
-  etymology: un + amelika
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: unam mama
-  id: 240
-  pos: noun
-  en_definition: 'God, monotheistic god'
-  en_notes: ''
-  etymology: uni + mama
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: uni amelika
   id: 218
   pos: noun
@@ -8752,16 +8850,6 @@
     stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
-- lemma: unukanada
-  id: 346
-  pos: noun
-  en_definition: First Nations
-  en_notes: ''
-  etymology: un + kanada
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: usa
   id: 349
   pos: noun
@@ -8774,6 +8862,18 @@
     stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
+- lemma: usidisin
+  id: 442
+  pos: adjective
+  en_definition: >-
+    common, commonplace, widespread; general, miscellaneous, unspecific,
+    nonspecific, vague; usual, usually, ordinarily
+  en_notes: ''
+  etymology: Univerbation of u sidi (yo) sin
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: usno
   id: 373.1
   pos: noun
@@ -8788,26 +8888,6 @@
   id: 373.2
   pos: adjective
   en_definition: 'ugly, gross, yucky, abhorrent, bad, ungood'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: usnofas
-  id: 565.1
-  pos: 'verb, ambi.'
-  en_definition: 'to mess up, break, make a mistake'
-  en_notes: ''
-  etymology: usno + fas
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: usnofas
-  id: 565.2
-  pos: noun
-  en_definition: mistake
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -8854,36 +8934,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: utikagi
-  id: 368.1
-  pos: noun
-  en_definition: 'fear, fright, horror, terror'
-  en_notes: ''
-  etymology: utika + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: utikagi
-  id: 368.2
-  pos: adjective
-  en_definition: 'scary, horrifying, terrifying, frightful'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: utikatelik
-  id: 352
-  pos: noun
-  en_definition: hedgehog
-  en_notes: ''
-  etymology: utika + -(a)tel + -(n)ik
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: uyuku
   id: 509.1
   pos: 'verb, intr.'
@@ -8908,36 +8958,6 @@
   id: 509.3
   pos: adjective
   en_definition: 'sleepy, tired, exhausted, groggy'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: uyukukuti
-  id: 536
-  pos: noun
-  en_definition: bedroom
-  en_notes: ''
-  etymology: uyuku + kuti
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: uyukunoyla
-  id: 521.1
-  pos: 'verb, intr.'
-  en_definition: to dream
-  en_notes: ''
-  etymology: uyuku + oyla
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: uyukunoyla
-  id: 521.2
-  pos: noun
-  en_definition: dream
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -9005,36 +9025,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: wangugi
-  id: 516.1
-  pos: 'verb, trans., e-til'
-  en_definition: to sell
-  en_notes: ''
-  etymology: vangu + -(i)gi
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: wangugi
-  id: 516.2
-  pos: noun
-  en_definition: 'sale, purchase'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: wangumeti
-  id: 267
-  pos: noun
-  en_definition: 'market, shop, store'
-  en_notes: ''
-  etymology: vangu + -(m)eti
-  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -9177,16 +9167,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: wilin
-  id: 470
-  pos: noun
-  en_definition: 'biology, study of life'
-  en_notes: ''
-  etymology: vi + -(a)lin
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: '-(y)a'
   id: 1
   pos: pronominal suffiix
@@ -9226,6 +9206,16 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: yanulamiga
+  id: 487
+  pos: noun
+  en_definition: battery
+  en_notes: ''
+  etymology: yan + lamiga
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -9299,23 +9289,33 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: yatilin
-  id: 473
+- lemma: yatimeso
+  id: 534
   pos: noun
-  en_definition: communication studies
+  en_definition: 'conversation, interaction, dialogue'
   en_notes: ''
-  etymology: yati + -(a)lin
-  etym_tags: 'compound, derivation'
+  etymology: yati + meso
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: yatilo
-  id: 452
-  pos: noun
-  en_definition: tongue
+- lemma: yatinik
+  id: 555.1
+  pos: 'verb, ambi.'
+  en_definition: 'to whisper; to make note, remind'
   en_notes: ''
-  etymology: yati + -(i)lo
-  etym_tags: 'compound, derivation'
+  etymology: yati + -(n)ik
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: yatinik
+  id: 555.2
+  pos: noun
+  en_definition: 'whispering; note, reminder'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -9326,6 +9326,16 @@
   en_notes: ''
   etymology: yati + -(n)ik
   etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: yatinono
+  id: 221
+  pos: noun
+  en_definition: 'idiolect, how one speaks'
+  en_notes: ''
+  etymology: yati + ono
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -9421,16 +9431,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: yokutel
-  id: 103
-  pos: noun
-  en_definition: player
-  en_notes: ''
-  etymology: yoku + -(a)tel
-  etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: yon
   id: 400.1
   pos: noun
@@ -9453,13 +9453,33 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: yosi
-  id: 551
+- lemma: yonoto
+  id: 402
   pos: noun
-  en_definition: 'right now, current, present'
+  en_definition: 'motor, engine (of a car)'
   en_notes: ''
-  etymology: yo + si
+  etymology: yon + oto
   etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: yonukanu
+  id: 401.1
+  pos: noun
+  en_definition: robot
+  en_notes: ''
+  etymology: 'yon + kanu, calque of Thai หุ่นยนต์ (hùn-yon)'
+  etym_tags: 'compound, lexical compound, calque'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: yonukanu
+  id: 401.2
+  pos: adjective
+  en_definition: 'robotic, stiff'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -9473,16 +9493,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: Wiktionary
-- lemma: yotaga
-  id: 552
-  pos: noun
-  en_definition: 'today, this day'
-  en_notes: ''
-  etymology: yo + taga
-  etym_tags: 'compound, lexical compound'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
 - lemma: yun
   id: 104
   pos: noun
