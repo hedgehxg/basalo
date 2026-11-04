@@ -33,7 +33,7 @@
 - lemma: aga
   id: 4.1
   pos: noun
-  en_definition: (talkatel la~) Jupiter; (taga la~) Thursday
+  en_definition: (tetalka la~) Jupiter; (taga la~) Thursday
   en_notes: ''
   etymology: Enets ага (aga)
   etym_tags: 'enets, samoyedic, uralic'
@@ -713,7 +713,7 @@
 - lemma: balwa
   id: 32.3
   pos: noun
-  en_definition: 'cloud, fog; (talkatel la~) Uranus'
+  en_definition: 'cloud, fog; (tetalka la~) Uranus'
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -1142,7 +1142,7 @@
 - lemma: cu
   id: 569
   pos: particle
-  en_definition: Sentence-final particle for forming yes-no (polar) questions
+  en_definition: Sentence-ending particle for forming yes-no (polar) questions
   en_notes: ''
   etymology: 'Quechua -chu, coincidentally similar to Esperanto ĉu'
   etym_tags: 'quechua, isolate'
@@ -1512,6 +1512,50 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: dulumik
+  id: 641
+  pos: noun
+  en_definition: 'evening, twilight, dusk'
+  en_notes: ''
+  etymology: dulum + -(n)ik
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: dum
+  id: 191.1
+  pos: 'verb, aval.'
+  en_definition: 'to be windy, be a windy day'
+  en_notes: ''
+  etymology: Bouyei ndumx
+  etym_tags: 'bouyei, northern tai, tai, kra-dai'
+  iso_code: 'pcc, tai'
+  glottolog_code: >-
+    bouy1240, nort3189, nort3180, nort3326, daic1237, daic1238, kamt1241,
+    taik1256
+  etym_source: Wiktionary
+- lemma: dum
+  id: 191.2
+  pos: 'verb, intr.'
+  en_definition: 'to be full of life, live'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: dum
+  id: 191.3
+  pos: noun
+  en_definition: >-
+    wind, breeze, air; personality, demeanor, style, attitude; spirit, soul,
+    lifeforce
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: e
   id: 73
   pos: particle
@@ -1647,6 +1691,16 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: esadulumik
+  id: 642
+  pos: noun
+  en_definition: 'dinner, evening meal'
+  en_notes: ''
+  etymology: esa + dulumik
+  etym_tags: 'compound, lexical compound'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -2157,7 +2211,7 @@
 - lemma: idaman
   id: 80.3
   pos: noun
-  en_definition: (aman la~) blood; red; (talkatel la~) Mars; (taga la~) Tuesday
+  en_definition: (aman la~) blood; red; (tetalka la~) Mars; (taga la~) Tuesday
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -2619,6 +2673,56 @@
   en_notes: ''
   etymology: ilonaso + fasono
   etym_tags: 'collocation, compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ilonui
+  id: 659
+  pos: noun
+  en_definition: nose
+  en_notes: ''
+  etymology: il(o)- + nui
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ilosalkaya
+  id: 649
+  pos: noun
+  en_definition: 'shovel, trowel'
+  en_notes: ''
+  etymology: il(o)- + salkaya
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ilosalkayanik
+  id: 651
+  pos: noun
+  en_definition: 'spoon, scoop'
+  en_notes: ''
+  etymology: il(o)- + salkayanik
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ilosas
+  id: 648
+  pos: noun
+  en_definition: fork
+  en_notes: ''
+  etymology: il(o)- + sas
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ilotet
+  id: 646
+  pos: noun
+  en_definition: 'knife, cutting utensil'
+  en_notes: ''
+  etymology: il(o)- + tet
+  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -3361,6 +3465,18 @@
   iso_code: enl
   glottolog_code: 'nort2971, leng1262, leng1261'
   etym_source: 'https://spl.gov.py/recurso/Diccionario%20Enlhet/index-spanish/index.htm'
+- lemma: kek
+  id: 643
+  pos: noun
+  en_definition: cake
+  en_notes: ''
+  etymology: English cake
+  etym_tags: 'english, germanic, indo-european'
+  iso_code: 'eng, gem, ine'
+  glottolog_code: >-
+    stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
+    west2793, nort3152, germ1287, clas1257, indo1319
+  etym_source: Wiktionary
 - lemma: kel
   id: 110
   pos: correlative
@@ -3481,38 +3597,8 @@
   id: 106.3
   pos: particle
   en_definition: >-
-    Sentence-ending interrogative (sentence) particle for content questions
+    Sentence-ending interrogative (question) particle for content questions
     (e.g. wh-questions)
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ki
-  id: 482.1
-  pos: 'verb, intr.'
-  en_definition: 'to be in pain, be hurting'
-  en_notes: ''
-  etymology: Khmer ឈឺ (chɨɨ)
-  etym_tags: 'khmer, austroasiatic'
-  iso_code: 'khm, aav'
-  glottolog_code: 'cent1989, khme1253, aust1305'
-  etym_source: Wiktionary
-- lemma: ki
-  id: 482.2
-  pos: noun
-  en_definition: 'pain, suffering, hurting'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: ki
-  id: 482.3
-  pos: adjective
-  en_definition: 'painful, hurtful'
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -3908,9 +3994,7 @@
 - lemma: kununa
   id: 170.1
   pos: noun
-  en_definition: >-
-    crown, garlet, wreath; (astronomy) (talkatel la~) Saturn; (taga la~)
-    Saturday
+  en_definition: 'crown, garlet, wreath; (astronomy) (tetalka la~) Saturn; (taga la~) Saturday'
   en_notes: ''
   etymology: Romanian cunună
   etym_tags: 'romanian, romance, indo-european'
@@ -4130,7 +4214,7 @@
 - lemma: lami
   id: 185.2
   pos: noun
-  en_definition: 'brightness, lightness; (astronomy) (talkatel la~) Venus; (taga la~) Friday'
+  en_definition: 'brightness, lightness; (astronomy) (tetalka la~) Venus; (taga la~) Friday'
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -4291,6 +4375,18 @@
   iso_code: 'est, urj'
   glottolog_code: 'esto1258, cent2329, neva1234, coas1319, finn1317, ural1272'
   etym_source: Wiktionary
+- lemma: limu
+  id: 644
+  pos: noun
+  en_definition: 'lemon, lime, sour-tasting member of genus Citrus'
+  en_notes: ''
+  etymology: Persian لیمو (līmū)
+  etym_tags: 'persian, iranian, indo-european'
+  iso_code: 'pes, fas, ira, ine'
+  glottolog_code: >-
+    west2369, fars1255, fars1254, mode1259, midd1352, sout3157, iran1269,
+    iran1271, indo1320, clas1257, indo1319
+  etym_source: Wiktionary
 - lemma: lip
   id: 284.1
   pos: 'verb, ambi.'
@@ -4382,40 +4478,6 @@
   en_notes: ''
   etymology: l- + om
   etym_tags: 'compound, derivation'
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: lom
-  id: 191.1
-  pos: 'verb, aval.'
-  en_definition: 'to be windy, be a windy day'
-  en_notes: ''
-  etymology: Thai ลม (lom)
-  etym_tags: 'thai, southwestern tai, kra-dai'
-  iso_code: 'tha, tai'
-  glottolog_code: >-
-    thai1261, laot1235, sput1235, sout3184, sapa1255, wenm1239, cent2251,
-    daic1237, daic1238, kamt1241, taik1256
-  etym_source: Wiktionary
-- lemma: lom
-  id: 191.2
-  pos: 'verb, intr.'
-  en_definition: 'to be full of life, live'
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: lom
-  id: 191.3
-  pos: noun
-  en_definition: >-
-    wind, breeze, air; personality, demeanor, style, attitude; spirit, soul,
-    lifeforce
-  en_notes: ''
-  etymology: ''
-  etym_tags: ''
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -5269,6 +5331,26 @@
   iso_code: 'nor, gem, ine'
   glottolog_code: 'norw1258, west2805, nort3160, nort3152, germ1287, clas1257, indo1319'
   etym_source: Wiktionary
+- lemma: moludoska
+  id: 640
+  pos: noun
+  en_definition: correlative word
+  en_notes: ''
+  etymology: mol + doska
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: molukesek
+  id: 639
+  pos: noun
+  en_definition: affix
+  en_notes: ''
+  etymology: mol + kesek
+  etym_tags: 'compound, lexical compound'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: mom
   id: 131
   pos: correlative
@@ -5869,9 +5951,9 @@
   glottolog_code: ''
   etym_source: ''
 - lemma: nui
-  id: 583
-  pos: noun
-  en_definition: nose
+  id: 583.1
+  pos: 'verb, trans.'
+  en_definition: 'to smell, sniff, whiff'
   en_notes: ''
   etymology: Shuar nuji̱
   etym_tags: 'shuar, chimcham'
@@ -5880,6 +5962,16 @@
   etym_source: >-
     Diccionario enciclopédico castellano-shuar (A-E), Diccionario enciclopédico
     castellano-shuar (F-Z)
+- lemma: nui
+  id: 583.2
+  pos: noun
+  en_definition: 'smell, odor'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: nukas
   id: 513
   pos: noun
@@ -5998,7 +6090,7 @@
   id: 581
   pos: noun
   en_definition: toe
-  en_notes: 'originally meant "foot", not realizing "asak" already had that meaning'
+  en_notes: ''
   etymology: Yucatec ook
   etym_tags: 'yucatec, mayan'
   iso_code: 'yua, myn'
@@ -6054,6 +6146,16 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: onewo
+  id: 654
+  pos: noun
+  en_definition: 'poor, lacking money'
+  en_notes: ''
+  etymology: on(i)- + ewo
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: on(i)-
   id: 600
   pos: prefix
@@ -6072,6 +6174,16 @@
   en_definition: brainless; lobotomized
   en_notes: ''
   etymology: on(i)- + ilal
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: onimedegi
+  id: 652
+  pos: adjective
+  en_definition: 'weak, feeble, brittle'
+  en_notes: ''
+  etymology: on(i)- + medegi
   etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
@@ -6112,6 +6224,16 @@
   en_definition: 'blind, without sight'
   en_notes: ''
   etymology: on(i)- + sin
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: onitif
+  id: 653
+  pos: noun
+  en_definition: shallow
+  en_notes: ''
+  etymology: on(i)- + tif
   etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
@@ -6201,7 +6323,7 @@
 - lemma: osta(l)-
   id: 638
   pos: prefix
-  en_definition: Forms words relating to a field of science or study
+  en_definition: Forms words relating to a field of science or study.
   en_notes: ''
   etymology: ostal
   etym_tags: basalo
@@ -6329,6 +6451,26 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostisima
+  id: 655
+  pos: adjective
+  en_definition: 'high, high up'
+  en_notes: ''
+  etymology: ost(i)- + sima
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: ostitak
+  id: 656
+  pos: adjective
+  en_definition: low
+  en_notes: ''
+  etymology: ost(i)- + tak
+  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
@@ -6694,6 +6836,16 @@
     stan1293, macr1271, merc1242, late1254, angl1265, angl1264, nort3175,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: ''
+- lemma: pele
+  id: 661
+  pos: noun
+  en_definition: rice
+  en_notes: ''
+  etymology: Sherbro pɛlɛ
+  etym_tags: 'sherbro, mel, atlantic-congo'
+  iso_code: 'bun, alv'
+  glottolog_code: 'sher1258, bull1246, bull1245, mela1257, atla1278'
+  etym_source: 'A grammar of Sherbro (Childs, G. Tucker 2025)'
 - lemma: peta
   id: 310
   pos: numeral
@@ -6852,6 +7004,58 @@
   id: 386.2
   pos: adjective
   en_definition: 'capable of flight, flying'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: poan
+  id: 482.1
+  pos: 'verb, intr.'
+  en_definition: 'to be in pain, be hurting'
+  en_notes: ''
+  etymology: Breton poan
+  etym_tags: 'breton, celtic, indo-european'
+  iso_code: 'bre, cel, ine'
+  glottolog_code: >-
+    bret1244, bret1245, midd1379, sout3176, bryt1239, insu1254, tgbc1234,
+    nucl1715, celt1248, clas1257, indo1319
+  etym_source: Wiktionary
+- lemma: poan
+  id: 482.2
+  pos: noun
+  en_definition: 'pain, suffering, hurting'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: poan
+  id: 482.3
+  pos: adjective
+  en_definition: 'painful, hurtful'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: poanaga
+  id: 658.1
+  pos: noun
+  en_definition: 'injury, wound'
+  en_notes: ''
+  etymology: poan + -(a)ga
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: poanaga
+  id: 658.2
+  pos: adjective
+  en_definition: 'injured, wounded'
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -7137,6 +7341,16 @@
   iso_code: miq
   glottolog_code: 'misk1235, misu1242'
   etym_source: Diccionario-Espanol-Miskito-Miskito-Espanol-Primera-Edicion
+- lemma: salkayanik
+  id: 650
+  pos: 'verb, trans.'
+  en_definition: to scoop
+  en_notes: ''
+  etymology: salkaya + -(n)ik
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: salo
   id: 389.1
   pos: 'verb, ambi.'
@@ -7205,6 +7419,26 @@
   en_definition: >-
     sign, mark, symbol, omen; letter, character (i.e. of an alphabet); badge;
     icon, logo; key (of a keyboard)
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: sas
+  id: 647.1
+  pos: 'verb, trans.'
+  en_definition: 'to poke, prod, stab, jab, prick, nick'
+  en_notes: ''
+  etymology: Avar заз (zaz)
+  etym_tags: 'avar, avar-andic, northeast caucasian'
+  iso_code: ava
+  glottolog_code: 'avar1256, avar1255, dagh1238, nakh1245'
+  etym_source: Wiktionary
+- lemma: sas
+  id: 647.2
+  pos: noun
+  en_definition: spike; thorn
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -7509,7 +7743,7 @@
 - lemma: siku
   id: 303.3
   pos: noun
-  en_definition: 'ice, frozen water; (talkatel la~) Neptune'
+  en_definition: 'ice, frozen water; (tetalka la~) Neptune'
   en_notes: ''
   etymology: ''
   etym_tags: ''
@@ -8151,6 +8385,19 @@
   iso_code: 'mnp, zhx, sit'
   glottolog_code: 'minb1236, minb1244, inla1267, minn1248, sini1245, sino1245'
   etym_source: Wiktionary
+- lemma: tayo
+  id: 657
+  pos: noun
+  en_definition: 'plate, saucer, disk'
+  en_notes: ''
+  etymology: Papiamentu tayó
+  etym_tags: 'papiamentu, portuguese creole, creole'
+  iso_code: pap
+  glottolog_code: >-
+    papi1253, uppe1458, macr1272, gali1263, west2838, sout3183, shif1234,
+    west2813, ital1285, roma1334, impe1234, lati1263, lati1262, ital1284,
+    clas1257, indo1319
+  etym_source: Wiktionary
 - lemma: te
   id: 207
   pos: pronoun
@@ -8214,16 +8461,6 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
-- lemma: te(l)-
-  id: 335
-  pos: prefix
-  en_definition: 'Forms words denoting a person who often does an action; -er, -ist'
-  en_notes: ''
-  etymology: Ukrainian -тель (-tel')
-  etym_tags: 'ukrainian, slavic, indo-european'
-  iso_code: 'ukr, sla, ine'
-  glottolog_code: 'ukra1253, ukra1257, east1426, slav1255, balt1263, clas1257, indo1319'
-  etym_source: Wiktionary
 - lemma: tel
   id: 244
   pos: noun
@@ -8234,6 +8471,16 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: te(l)-
+  id: 335
+  pos: prefix
+  en_definition: 'Forms words denoting a person who often does an action; -er, -ist'
+  en_notes: ''
+  etymology: Ukrainian -тель (-tel')
+  etym_tags: 'ukrainian, slavic, indo-european'
+  iso_code: 'ukr, sla, ine'
+  glottolog_code: 'ukra1253, ukra1257, east1426, slav1255, balt1263, clas1257, indo1319'
+  etym_source: Wiktionary
 - lemma: tela
   id: 309
   pos: numeral
@@ -8466,6 +8713,26 @@
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
+- lemma: tet
+  id: 645.1
+  pos: 'verb, trans.'
+  en_definition: 'to cut, slice, splice, split'
+  en_notes: ''
+  etymology: Bats თეტ-დ-ალარ (tet’-d-alar)
+  etym_tags: 'bats, nakh, northeast caucasian'
+  iso_code: bbl
+  glottolog_code: 'bats1242, nakh1246, nakh1245'
+  etym_source: 'წოვათუშურ-ქართული ლექსიკონი [Bats-Georgian dictionary]'
+- lemma: tet
+  id: 645.2
+  pos: noun
+  en_definition: 'cut, slice, split'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: tetalka
   id: 334
   pos: noun
@@ -8497,9 +8764,9 @@
   glottolog_code: ''
   etym_source: ''
 - lemma: tif
-  id: 337
-  pos: adjective
-  en_definition: 'deep, far down; low'
+  id: 337.1
+  pos: noun
+  en_definition: depth
   en_notes: ''
   etymology: German Tief
   etym_tags: 'german, germanic, indo-european'
@@ -8508,6 +8775,16 @@
     stan1295, glob1243, uppe1464, mode1258, midd1349, high1286, high1289,
     west2793, nort3152, germ1287, clas1257, indo1319
   etym_source: Wiktionary
+- lemma: tif
+  id: 337.2
+  pos: adjective
+  en_definition: 'deep, far down'
+  en_notes: ''
+  etymology: ''
+  etym_tags: ''
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
 - lemma: til
   id: 255.1
   pos: 'verb, loc. trans.'
@@ -8658,6 +8935,18 @@
   etym_tags: 'nahuatl, southern uto-aztecan, uto-aztecan'
   iso_code: 'nhe, azc'
   glottolog_code: 'east2538, huas1257, east2720, azte1234, cora1261, sout3136, utoa1244'
+  etym_source: Wiktionary
+- lemma: tupa
+  id: 660
+  pos: noun
+  en_definition: 'soup, broth, stew'
+  en_notes: ''
+  etymology: Tibetan ཐུག་པ (thug pa)
+  etym_tags: 'tibetan, tibetic, tibeto-burman, sino-tibetan'
+  iso_code: 'bod, tbq, sit'
+  glottolog_code: >-
+    tibe1272, cent2346, late1253, tibe1276, oldm1245, bodi1257, bodi1256,
+    sino1245
   etym_source: Wiktionary
 - lemma: tut
   id: 488.1
@@ -9051,7 +9340,7 @@
 - lemma: way
   id: 354.1
   pos: noun
-  en_definition: (talkatel la~) Mercury; (taga la~) Wednesday
+  en_definition: (tetalka la~) Mercury; (taga la~) Wednesday
   en_notes: ''
   etymology: Lao ໄວ (wai)
   etym_tags: 'lao, southwestern tai, kra-dai'
@@ -9300,6 +9589,16 @@
   glottolog_code: ''
   etym_source: ''
 - lemma: yatinik
+  id: 489
+  pos: noun
+  en_definition: 'note, footnote, reminder; notification'
+  en_notes: ''
+  etymology: yati + -(n)ik
+  etym_tags: 'compound, derivation'
+  iso_code: ''
+  glottolog_code: ''
+  etym_source: ''
+- lemma: yatinik
   id: 555.1
   pos: 'verb, ambi.'
   en_definition: 'to whisper; to make note, remind'
@@ -9316,16 +9615,6 @@
   en_notes: ''
   etymology: ''
   etym_tags: ''
-  iso_code: ''
-  glottolog_code: ''
-  etym_source: ''
-- lemma: yatinik
-  id: 489
-  pos: noun
-  en_definition: 'note, footnote, reminder; notification'
-  en_notes: ''
-  etymology: yati + -(n)ik
-  etym_tags: 'compound, derivation'
   iso_code: ''
   glottolog_code: ''
   etym_source: ''
